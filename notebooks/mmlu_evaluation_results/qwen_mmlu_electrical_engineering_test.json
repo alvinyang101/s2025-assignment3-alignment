@@ -1,0 +1,1745 @@
+{
+  "accuracy": 0.5172413793103449,
+  "results": [
+    {
+      "question": "The Barkhausen criterion for an oscillator",
+      "choices": [
+        "Loop gain should be unity",
+        "Loop gain should be less than unity",
+        "The phase of a feedback signal with respect to input should be 0\u00b0 or 360\u00b0",
+        "Both A and C"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: The Barkhausen criterion for an oscillator\n(A) Loop gain should be unity  (B) Loop gain should be less than unity  (C) The phase of a feedback signal with respect to input should be 0\u00b0 or 360\u00b0  (D) Both A and C  \nAnswer: (D)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because",
+      "choices": [
+        "It loads the circuit moderately.",
+        "It loads the circuit to maximum extent.",
+        "It uses centre zero galvanometer instead of voltmeter.",
+        "It does not load the circuit at all."
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because\n(A) It loads the circuit moderately.  (B) It loads the circuit to maximum extent.  (C) It uses centre zero galvanometer instead of voltmeter.  (D) It does not load the circuit at all.  \nAnswer: (B) It loads the circuit to maximum extent"
+    },
+    {
+      "question": "Which of these sets of logic gates are designated as universal gates?",
+      "choices": [
+        "NOR, NAND.",
+        "XOR, NOR, NAND.",
+        "OR, NOT, AND.",
+        "NOR, NAND, XNOR."
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: Which of these sets of logic gates are designated as universal gates?\n(A) NOR, NAND.  (B) XOR, NOR, NAND.  (C) OR, NOT, AND.  (D) NOR, NAND, XNOR.  \nAnswer: (D) NOR, NAND, XNOR"
+    },
+    {
+      "question": "A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source voltage. For a load counter emf of 200 V, the range of firing angle control is",
+      "choices": [
+        "30\u00b0 to 150\u00b0.",
+        "30\u00b0 to 180\u00b0.",
+        "60\u00b0 to 120\u00b0.",
+        "60\u00b0 to 180\u00b0."
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source voltage. For a load counter emf of 200 V, the range of firing angle control is\n(A) 30\u00b0 to 150\u00b0.  (B) 30\u00b0 to 180\u00b0.  (C) 60\u00b0 to 120\u00b0.  (D) 60\u00b0 to 180\u00b0.  \nAnswer: (B)\nMy Answer: (B)\nMy"
+    },
+    {
+      "question": "A box which tells the effect of inputs on control sub system is known as",
+      "choices": [
+        "Data Box.",
+        "Logical box.",
+        "Decision box.",
+        "State box."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: A box which tells the effect of inputs on control sub system is known as\n(A) Data Box.  (B) Logical box.  (C) Decision box.  (D) State box.  \nAnswer: (C)"
+    },
+    {
+      "question": "Two infinite parallel metal plates are charged with equal surface charge density of the same polarity. The electric field in the gap between the plates is",
+      "choices": [
+        "same as that produced by one plate.",
+        "double the field produced by one plate.",
+        "dependent on coordinates of field points.",
+        "zero."
+      ],
+      "ground_truth": "D",
+      "prediction": "A",
+      "raw_output": "Question: Two infinite parallel metal plates are charged with equal surface charge density of the same polarity. The electric field in the gap between the plates is\n(A) same as that produced by one plate.  (B) double the field produced by one plate.  (C) dependent on coordinates of field points.  (D) zero.  \nAnswer: (A) same as that produced by one plate"
+    },
+    {
+      "question": "The resistance in the circuit of the moving coil of a dynamometer wattmeter should be",
+      "choices": [
+        "Low.",
+        "Very low.",
+        "High.",
+        "Almost zero."
+      ],
+      "ground_truth": "C",
+      "prediction": "D",
+      "raw_output": "Question: The resistance in the circuit of the moving coil of a dynamometer wattmeter should be\n(A) Low.  (B) Very low.  (C) High.  (D) Almost zero.  \nAnswer: (D) Almost zero.\nIs the question answered"
+    },
+    {
+      "question": "The following are the necessary requirements of an oscillator",
+      "choices": [
+        "Amplitude stability",
+        "Frequency stability",
+        "Power stability",
+        "Both A and B"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: The following are the necessary requirements of an oscillator\n(A) Amplitude stability  (B) Frequency stability  (C) Power stability  (D) Both A and B  \nAnswer: (B) Frequency stability\nAnswer: (B"
+    },
+    {
+      "question": "The normal voltage used in directional heating is",
+      "choices": [
+        "1.5 KV.",
+        "15 KV.",
+        "33 KV.",
+        "66 KV."
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: The normal voltage used in directional heating is\n(A) 1.5 KV.  (B) 15 KV.  (C) 33 KV.  (D) 66 KV.  \nAnswer: (C) 33 KV.  \nMy"
+    },
+    {
+      "question": "LC oscillators are used for produce a waveform with frequency ranging from",
+      "choices": [
+        "1MHz to 500 MHz",
+        "100 KHz to 500 MHz",
+        "1 KHz to 1 MHz",
+        "1MHz to 100 GHz"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: LC oscillators are used for produce a waveform with frequency ranging from\n(A) 1MHz to 500 MHz  (B) 100 KHz to 500 MHz  (C) 1 KHz to 1 MHz  (D) 1MHz to 100 GHz  \nAnswer: (C) 1 KHz to 1"
+    },
+    {
+      "question": "A working diode must have",
+      "choices": [
+        "High resistance when forward or reverse biased",
+        "Low resistance when forward biased, while high resistance when reverse bias",
+        "High resistance when forward biased, while low resistance when reverse bias",
+        "Low resistance when forward or reverse biased"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: A working diode must have\n(A) High resistance when forward or reverse biased  (B) Low resistance when forward biased, while high resistance when reverse bias  (C) High resistance when forward biased, while low resistance when reverse bias  (D) Low resistance when forward or reverse biased  \nAnswer: (B) Low resistance when forward biased, while"
+    },
+    {
+      "question": "What is the name of the fluorescent material that gives red colour fluorescence?",
+      "choices": [
+        "Zinc silicate.",
+        "Calcium silicate.",
+        "Zinc sulphide.",
+        "Magnesium silicate."
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: What is the name of the fluorescent material that gives red colour fluorescence?\n(A) Zinc silicate.  (B) Calcium silicate.  (C) Zinc sulphide.  (D) Magnesium silicate.  \nAnswer: (C) Zinc silicate.\nYou are an"
+    },
+    {
+      "question": "How many bits are required to store one BCD digit ?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: How many bits are required to store one BCD digit ?\n(A) 1  (B) 2  (C) 3  (D) 4  \nAnswer: (B)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "Commutator in DC generator is used for",
+      "choices": [
+        "collecting of current",
+        "reduce losses",
+        "increase efficiency",
+        "convert AC armature current in to DC"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Commutator in DC generator is used for\n(A) collecting of current  (B) reduce losses  (C) increase efficiency  (D) convert AC armature current in to DC  \nAnswer: (B)"
+    },
+    {
+      "question": "1 F is theoretically equal to",
+      "choices": [
+        "1 ohm of resistance",
+        "ratio of 1 V to 1 C",
+        "ratio of 1 C to 1 V",
+        "none of these"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: 1 F is theoretically equal to\n(A) 1 ohm of resistance  (B) ratio of 1 V to 1 C  (C) ratio of 1 C to 1 V  (D) none of these  \nAnswer: (B) ratio of 1 V to "
+    },
+    {
+      "question": "How many entries will be in the truth table of a 3 input NAND gate ?",
+      "choices": [
+        "3",
+        "6",
+        "8",
+        "9"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: How many entries will be in the truth table of a 3 input NAND gate ?\n(A) 3  (B) 6  (C) 8  (D) 9  \nAnswer: (B)\nIs the question correct?\n\nYes,"
+    },
+    {
+      "question": "In decimal number system what is MSD",
+      "choices": [
+        "First digit from left to right",
+        "First digit from right to left",
+        "Middle digit",
+        "Mean of all digits"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: In decimal number system what is MSD\n(A) First digit from left to right  (B) First digit from right to left  (C) Middle digit  (D) Mean of all digits  \nAnswer: (B)\nIs this correct?\nThe answer is"
+    },
+    {
+      "question": "In Digital Logic Designs, GAL is abbreviated as",
+      "choices": [
+        "General Advance Logic",
+        "General Array Logic",
+        "Generic Advance Logic",
+        "Generic Array Logic"
+      ],
+      "ground_truth": "D",
+      "prediction": "A",
+      "raw_output": "Question: In Digital Logic Designs, GAL is abbreviated as\n(A) General Advance Logic  (B) General Array Logic  (C) Generic Advance Logic  (D) Generic Array Logic  \nAnswer: (A)"
+    },
+    {
+      "question": "Inintel 8085A microprocessor ALE signal is made high to",
+      "choices": [
+        "Enable the data bus to be used as low order address bus",
+        "To latch data D0-D7 from data bus",
+        "To disable data bus",
+        "To achieve all the functions listed above"
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: Inintel 8085A microprocessor ALE signal is made high to\n(A) Enable the data bus to be used as low order address bus  (B) To latch data D0-D7 from data bus  (C) To disable data bus  (D) To achieve all the functions listed above  \nAnswer: (D) To achieve all the functions listed above"
+    },
+    {
+      "question": "For an SCR gate cathode characteristic is a straight line of 130. For triggered source volume of 15 V and allowable gate power dissipation of 0.5 W compute the gate source resistance?",
+      "choices": [
+        "111.9 ohm",
+        "11.19 ohm",
+        "108 ohm",
+        "115 ohm"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: For an SCR gate cathode characteristic is a straight line of 130. For triggered source volume of 15 V and allowable gate power dissipation of 0.5 W compute the gate source resistance?\n(A) 111.9 ohm  (B) 11.19 ohm  (C) 108 ohm  (D) 115 ohm  \nAnswer: (B)\nIs this answer correct?\nYes,"
+    },
+    {
+      "question": "The concept of V/f control of inverters driving induction motors resuls in",
+      "choices": [
+        "constant torque operation",
+        "speed reversal",
+        "reduced magnetic loss",
+        "hormonic elimination"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: The concept of V/f control of inverters driving induction motors resuls in\n(A) constant torque operation  (B) speed reversal  (C) reduced magnetic loss  (D) hormonic elimination  \nAnswer: (A) constant torque operation\nYou are an"
+    },
+    {
+      "question": "The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carrying a current at 10 amp, is",
+      "choices": [
+        "0.015 joule.",
+        "0.15 joule.",
+        "0.015 joule.",
+        "1.15 joule."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carrying a current at 10 amp, is\n(A) 0.015 joule.  (B) 0.15 joule.  (C) 0.015 joule.  (D) 1.15 joule.  \nAnswer: (B)  \nMy approach: I know that"
+    },
+    {
+      "question": "While operating on variable frequency supplies, the AC motor requires variable voltage in order to",
+      "choices": [
+        "protect the insulation.",
+        "avoid effect of saturation.",
+        "improve the capabilities of the inverter.",
+        "protect thyristor from dV / dt."
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: While operating on variable frequency supplies, the AC motor requires variable voltage in order to\n(A) protect the insulation.  (B) avoid effect of saturation.  (C) improve the capabilities of the inverter.  (D) protect thyristor from dV / dt.  \nAnswer: (C)"
+    },
+    {
+      "question": "Which of the following windings are necessary in case of all dc machines?",
+      "choices": [
+        "closed winding",
+        "lap winding",
+        "wave winding",
+        "open type winding"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following windings are necessary in case of all dc machines?\n(A) closed winding  (B) lap winding  (C) wave winding  (D) open type winding  \nAnswer: (B)"
+    },
+    {
+      "question": "Relaxation Voltage controlled oscillators are used to generate",
+      "choices": [
+        "Sinusoidal wave",
+        "Triangular wave",
+        "Sawtooth wave",
+        "Both B and C"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Relaxation Voltage controlled oscillators are used to generate\n(A) Sinusoidal wave  (B) Triangular wave  (C) Sawtooth wave  (D) Both B and C  \nAnswer: (D) Both B and C\nYou are"
+    },
+    {
+      "question": "The supply frequency usually employed for high frequency eddy current heating is",
+      "choices": [
+        "1 KHz.",
+        "5 KHz.",
+        "10 MHz.",
+        "10 KHz to 400 KHz."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: The supply frequency usually employed for high frequency eddy current heating is\n(A) 1 KHz.  (B) 5 KHz.  (C) 10 MHz.  (D) 10 KHz to 400 KHz.  \nAnswer: (D) 10 KHz to "
+    },
+    {
+      "question": "In the toggle mode a JK flip-flop has",
+      "choices": [
+        "J = 0, K = 0.",
+        "J = 1, K = 1.",
+        "J = 0, K = 1.",
+        "J = 1, K = 0."
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: In the toggle mode a JK flip-flop has\n(A) J = 0, K = 0.  (B) J = 1, K = 1.  (C) J = 0, K = 1.  (D) J = 1, K = 0.  \nAnswer: (C) J = 0, K ="
+    },
+    {
+      "question": "Electric drive is becoming more and more popular because",
+      "choices": [
+        "all of below.",
+        "it provide smooth and easy control.",
+        "it is cheaper in cost.",
+        "it is simple and reliable."
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: Electric drive is becoming more and more popular because\n(A) all of below.  (B) it provide smooth and easy control.  (C) it is cheaper in cost.  (D) it is simple and reliable.  \nAnswer: (A)"
+    },
+    {
+      "question": "A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is",
+      "choices": [
+        "0.32.",
+        "0.67.",
+        "0.45.",
+        "0.27."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is\n(A) 0.32.  (B) 0.67.  (C) 0.45.  (D) 0.27.  \nAnswer: (B) 0.67.\nAnswer"
+    },
+    {
+      "question": "A Binary number system has how many digits.",
+      "choices": [
+        "0",
+        "1",
+        "2",
+        "10"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: A Binary number system has how many digits.\n(A) 0  (B) 1  (C) 2  (D) 10  \nAnswer: (B)"
+    },
+    {
+      "question": "Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of network is",
+      "choices": [
+        "LC.",
+        "RL.",
+        "RC.",
+        "Any of the above."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of network is\n(A) LC.  (B) RL.  (C) RC.  (D) Any of the above.  \nAnswer: (C)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "Advantages of open loop control system is/are",
+      "choices": [
+        "simple and economical.",
+        "accurate.",
+        "reliable.",
+        "all of the above."
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: Advantages of open loop control system is/are\n(A) simple and economical.  (B) accurate.  (C) reliable.  (D) all of the above.  \nAnswer: (D)\nYou are an AI assistant that follows"
+    },
+    {
+      "question": "The voltage induced in an inductor is represented as,",
+      "choices": [
+        "product of its inductance and current through it.",
+        "ratio of its inductance to current through it.",
+        "ratio of current through it to its inductance.",
+        "product of its inductance and rate of change of current through it."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: The voltage induced in an inductor is represented as,\n(A) product of its inductance and current through it.  (B) ratio of its inductance to current through it.  (C) ratio of current through it to its inductance.  (D) product of its inductance and rate of change of current through it.  \nAnswer: (D) product of its inductance and"
+    },
+    {
+      "question": "If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits",
+      "choices": [
+        "1",
+        "2",
+        "4",
+        "8"
+      ],
+      "ground_truth": "C",
+      "prediction": "D",
+      "raw_output": "Question: If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits\n(A) 1  (B) 2  (C) 4  (D) 8  \nAnswer: (D) 8\nIs the question answered"
+    },
+    {
+      "question": "Induction heating takes place in",
+      "choices": [
+        "conducting but non-magnetic materials.",
+        "conducting materials which may be either magnetic or non-magentic materials.",
+        "insulating materials.",
+        "conducting and magnetic materials."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Induction heating takes place in\n(A) conducting but non-magnetic materials.  (B) conducting materials which may be either magnetic or non-magentic materials.  (C) insulating materials.  (D) conducting and magnetic materials.  \nAnswer: (B)"
+    },
+    {
+      "question": "In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch",
+      "choices": [
+        "10",
+        "100",
+        "50",
+        "1"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch\n(A) 10  (B) 100  (C) 50  (D) 1  \nAnswer: (B)\nCoT: Average pitch = "
+    },
+    {
+      "question": "Magnetic flux has the unit of",
+      "choices": [
+        "Newton",
+        "Ampere turn",
+        "Weber",
+        "Tesla"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Magnetic flux has the unit of\n(A) Newton  (B) Ampere turn  (C) Weber  (D) Tesla  \nAnswer: (C)"
+    },
+    {
+      "question": "In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. This can be explained from which theorem",
+      "choices": [
+        "Reciprocity theorem",
+        "Thevinin's theorem",
+        "Norton's theorem",
+        "Compensation theorem"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. This can be explained from which theorem\n(A) Reciprocity theorem  (B) Thevinin's theorem  (C) Norton's theorem  (D) Compensation theorem  \nAnswer: (A) Reciprocity theorem\nYou are"
+    },
+    {
+      "question": "A D-flip-flop is said to be transparent when",
+      "choices": [
+        "the output is LOW",
+        "the output is HIGH",
+        "the output follows clock",
+        "the output follow input"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: A D-flip-flop is said to be transparent when\n(A) the output is LOW  (B) the output is HIGH  (C) the output follows clock  (D) the output follow input  \nAnswer: (B) The output is HIGH\nAnswer:"
+    },
+    {
+      "question": "A Lissajous pattern on an oscilloscope has 5 horinzontal tangencies and 2 vertical tangencies. The frequency of horizontal input is 100 Hz. The frequency of the vertical will be",
+      "choices": [
+        "500 Hz.",
+        "250 Hz.",
+        "400 Hz.",
+        "625 Hz."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: A Lissajous pattern on an oscilloscope has 5 horinzontal tangencies and 2 vertical tangencies. The frequency of horizontal input is 100 Hz. The frequency of the vertical will be\n(A) 500 Hz.  (B) 250 Hz.  (C) 400 Hz.  (D) 625 Hz.  \nAnswer: (B) 250 Hz.\nIs"
+    },
+    {
+      "question": "Speed control by variation of field flux results in",
+      "choices": [
+        "constant power drive.",
+        "constant torque drive.",
+        "variable power drive.",
+        "none of the above."
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: Speed control by variation of field flux results in\n(A) constant power drive.  (B) constant torque drive.  (C) variable power drive.  (D) none of the above.  \nAnswer: (C) variable power drive.  \nI think"
+    },
+    {
+      "question": "Which of the following memories uses one transistor and one capacitor as basic memory unit",
+      "choices": [
+        "SRAM",
+        "DRAM",
+        "Both SRAM and DRAM",
+        "None"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following memories uses one transistor and one capacitor as basic memory unit\n(A) SRAM  (B) DRAM  (C) Both SRAM and DRAM  (D) None  \nAnswer: (B) DRAM\nYou are an AI"
+    },
+    {
+      "question": "What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * 3m rectangular room?",
+      "choices": [
+        "2",
+        "4",
+        "5",
+        "6"
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * 3m rectangular room?\n(A) 2  (B) 4  (C) 5  (D) 6  \nAnswer: (D) 6\nIs the question answered"
+    },
+    {
+      "question": "The output of the system has an effect upon the input quantity, then the system is a",
+      "choices": [
+        "open loop control system.",
+        "closed loop control system.",
+        "either A or B.",
+        "none of the above."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: The output of the system has an effect upon the input quantity, then the system is a\n(A) open loop control system.  (B) closed loop control system.  (C) either A or B.  (D) none of the above.  \nAnswer: (B)"
+    },
+    {
+      "question": "A sinusoidal signal is analog signal, because",
+      "choices": [
+        "it can have a number of values between the negative and positive peaks",
+        "it is negative for one half cycle",
+        "it is positive for one half cycle",
+        "it has positive as well as negative values"
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: A sinusoidal signal is analog signal, because\n(A) it can have a number of values between the negative and positive peaks  (B) it is negative for one half cycle  (C) it is positive for one half cycle  (D) it has positive as well as negative values  \nAnswer: (D) it has positive as well as negative"
+    },
+    {
+      "question": "FM stands for",
+      "choices": [
+        "frequent modulation.",
+        "frequency modulation.",
+        "frequency moderator.",
+        "frequent moderator."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: FM stands for\n(A) frequent modulation.  (B) frequency modulation.  (C) frequency moderator.  (D) frequent moderator.  \nAnswer: (B)"
+    },
+    {
+      "question": "Stack is also known as",
+      "choices": [
+        "FIFO memory",
+        "Flash memory",
+        "LIFO memory",
+        "LILO memory"
+      ],
+      "ground_truth": "C",
+      "prediction": "A",
+      "raw_output": "Question: Stack is also known as\n(A) FIFO memory  (B) Flash memory  (C) LIFO memory  (D) LILO memory  \nAnswer: (A) FIFO memory\nAnswer: (B"
+    },
+    {
+      "question": "In Ward-Leonard system, the lower limit of the speed imposed by",
+      "choices": [
+        "Field resistance.",
+        "Armature resistance.",
+        "Residual magnetism of the generator.",
+        "None of above."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: In Ward-Leonard system, the lower limit of the speed imposed by\n(A) Field resistance.  (B) Armature resistance.  (C) Residual magnetism of the generator.  (D) None of above.  \nAnswer: (B)"
+    },
+    {
+      "question": "Colpitts oscillator is also called as",
+      "choices": [
+        "Tank circuit oscillator",
+        "LC oscillator",
+        "Resonant circuit oscillator",
+        "All of the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Colpitts oscillator is also called as\n(A) Tank circuit oscillator  (B) LC oscillator  (C) Resonant circuit oscillator  (D) All of the above  \nAnswer: (B) LC oscillator\nAnswer is: ("
+    },
+    {
+      "question": "An SCR has half cycle surge current rating of 3000 A for 50 Hz supply. One cycle surge current will be",
+      "choices": [
+        "1500 A.",
+        "6000 A.",
+        "2121.32 A.",
+        "4242.64 A."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: An SCR has half cycle surge current rating of 3000 A for 50 Hz supply. One cycle surge current will be\n(A) 1500 A.  (B) 6000 A.  (C) 2121.32 A.  (D) 4242.64 A.  \nAnswer: (C) 2121.3"
+    },
+    {
+      "question": "Both the ALU and control section of CPU employ which special purpose storage location?",
+      "choices": [
+        "Buffers",
+        "Decoders",
+        "Accumulators",
+        "Registers"
+      ],
+      "ground_truth": "C",
+      "prediction": "D",
+      "raw_output": "Question: Both the ALU and control section of CPU employ which special purpose storage location?\n(A) Buffers  (B) Decoders  (C) Accumulators  (D) Registers  \nAnswer: (D) Registers\n\nQuestion: Which of the"
+    },
+    {
+      "question": "Systematic errors are",
+      "choices": [
+        "environmental errors.",
+        "observational errors.",
+        "instrument errors.",
+        "all of the above."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Systematic errors are\n(A) environmental errors.  (B) observational errors.  (C) instrument errors.  (D) all of the above.  \nAnswer: (D)"
+    },
+    {
+      "question": "Which of the following is/are the disadvantages of an open loop control system?",
+      "choices": [
+        "Inaccurate.",
+        "Unreliable.",
+        "both A and B.",
+        "none of the above."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following is/are the disadvantages of an open loop control system?\n(A) Inaccurate.  (B) Unreliable.  (C) both A and B.  (D) none of the above.  \nAnswer: (C) both A and B.\n\nQuestion:"
+    },
+    {
+      "question": "A diode (p-n junction) when reverse biased act as",
+      "choices": [
+        "On Switch",
+        "Zener diode",
+        "Capacitor",
+        "Off Switch"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: A diode (p-n junction) when reverse biased act as\n(A) On Switch  (B) Zener diode  (C) Capacitor  (D) Off Switch  \nAnswer: (B) Zener diode\nAnswer:"
+    },
+    {
+      "question": "Piezoelectric effect is carried out in",
+      "choices": [
+        "composite filter.",
+        "crystal filter.",
+        "m derived.",
+        "constant k prototype."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Piezoelectric effect is carried out in\n(A) composite filter.  (B) crystal filter.  (C) m derived.  (D) constant k prototype.  \nAnswer: (B) crystal filter.  \nMy answer:"
+    },
+    {
+      "question": "The resistivity of the conductor depends on",
+      "choices": [
+        "area of the conductor.",
+        "length of the conductor.",
+        "type of material.",
+        "none of these."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: The resistivity of the conductor depends on\n(A) area of the conductor.  (B) length of the conductor.  (C) type of material.  (D) none of these.  \nAnswer: (C) type of material.  \nMy answer"
+    },
+    {
+      "question": "The smallest change in measured variable to which instrument will respond is",
+      "choices": [
+        "resolution.",
+        "accuracy.",
+        "precision.",
+        "sensitivity."
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: The smallest change in measured variable to which instrument will respond is\n(A) resolution.  (B) accuracy.  (C) precision.  (D) sensitivity.  \nAnswer: (D)"
+    },
+    {
+      "question": "In electronic communications, \"AM\" stands for",
+      "choices": [
+        "Amp Modification",
+        "Amplitude Method",
+        "Amplitude Modulation",
+        "Ampere Method"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: In electronic communications, \"AM\" stands for\n(A) Amp Modification  (B) Amplitude Method  (C) Amplitude Modulation  (D) Ampere Method  \nAnswer: (C) Amplitude Modulation\nAnswer:"
+    },
+    {
+      "question": "Which system is also known as automatic control system?",
+      "choices": [
+        "Open loop control system",
+        "Closed loop control system",
+        "Either A or B",
+        "Nether A nor B"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Which system is also known as automatic control system?\n(A) Open loop control system  (B) Closed loop control system  (C) Either A or B  (D) Nether A nor B  \nAnswer: (B)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "A combinational PLD with a fixed AND array and a programmable OR array is called a",
+      "choices": [
+        "PLD",
+        "PROM",
+        "PAL",
+        "PLA"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: A combinational PLD with a fixed AND array and a programmable OR array is called a\n(A) PLD  (B) PROM  (C) PAL  (D) PLA  \nAnswer: (B)"
+    },
+    {
+      "question": "A null type instrument as compared to a deflected type instrument has",
+      "choices": [
+        "a lower sensitivity.",
+        "a faster response.",
+        "a higher accuracy.",
+        "all of the above."
+      ],
+      "ground_truth": "C",
+      "prediction": "D",
+      "raw_output": "Question: A null type instrument as compared to a deflected type instrument has\n(A) a lower sensitivity.  (B) a faster response.  (C) a higher accuracy.  (D) all of the above.  \nAnswer: (D) All of the above. Is the"
+    },
+    {
+      "question": "Length of the cable is doubled, its capacitance C will be",
+      "choices": [
+        "one-fourth.",
+        "one-half.",
+        "doubled.",
+        "unchanged."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: Length of the cable is doubled, its capacitance C will be\n(A) one-fourth.  (B) one-half.  (C) doubled.  (D) unchanged.  \nAnswer: (B)"
+    },
+    {
+      "question": "Electrons in p-type material of a semi-conductor are called as",
+      "choices": [
+        "either minority carriers or majority carriers",
+        "minority carriers",
+        "majority carriers",
+        "valance carriers"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Electrons in p-type material of a semi-conductor are called as\n(A) either minority carriers or majority carriers  (B) minority carriers  (C) majority carriers  (D) valance carriers  \nAnswer: (B) minority carriers\nYou are an AI"
+    },
+    {
+      "question": "________ is the most detrimental impurity in the magnetic materials",
+      "choices": [
+        "Carbon.",
+        "Sulphur.",
+        "Oxygen.",
+        "Nitrogen."
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: ________ is the most detrimental impurity in the magnetic materials\n(A) Carbon.  (B) Sulphur.  (C) Oxygen.  (D) Nitrogen.  \nAnswer: (A)"
+    },
+    {
+      "question": "Voltage controlled oscillators are used commonly in",
+      "choices": [
+        "Pulse Modulators Frequency Modulators Phase Clocked loops",
+        "Frequency Modulators",
+        "Phase Clocked loops",
+        "All the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Voltage controlled oscillators are used commonly in\n(A) Pulse Modulators Frequency Modulators Phase Clocked loops  (B) Frequency Modulators  (C) Phase Clocked loops  (D) All the above  \nAnswer: (D) All the above\nIs the question"
+    },
+    {
+      "question": "Low frequency supply is necessary for direct core type induction furnaces because",
+      "choices": [
+        "With normal frequeny supply the electromagnetic forces causes severe stirring action in the molten metal.",
+        "Magnetic coupling between the primary and secondary circuit is poor.",
+        "Both A and B.",
+        "None of the above."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Low frequency supply is necessary for direct core type induction furnaces because\n(A) With normal frequeny supply the electromagnetic forces causes severe stirring action in the molten metal.  (B) Magnetic coupling between the primary and secondary circuit is poor.  (C) Both A and B.  (D) None of the above.  \nAnswer: (C) Both A and B. Explanation:"
+    },
+    {
+      "question": "The moving coil-meters, damping is provided by",
+      "choices": [
+        "the aluminium frame of the coil.",
+        "the coil spring attached to the moving.",
+        "eddy current disk.",
+        "damping vane in the airtight chamber."
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: The moving coil-meters, damping is provided by\n(A) the aluminium frame of the coil.  (B) the coil spring attached to the moving.  (C) eddy current disk.  (D) damping vane in the airtight chamber.  \nAnswer: (B)"
+    },
+    {
+      "question": "Which of the following is the analogous quantity for mass element in force-voltage analogy?",
+      "choices": [
+        "Resistance.",
+        "Inductance.",
+        "Capacitance.",
+        "All of the above."
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following is the analogous quantity for mass element in force-voltage analogy?\n(A) Resistance.  (B) Inductance.  (C) Capacitance.  (D) All of the above.  \nAnswer: (D)"
+    },
+    {
+      "question": "A latch is ________ sensitive",
+      "choices": [
+        "both level and edge",
+        "edge",
+        "level",
+        "None"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: A latch is ________ sensitive\n(A) both level and edge  (B) edge  (C) level  (D) None  \nAnswer: (C) level\nYou are an AI assistant"
+    },
+    {
+      "question": "What is used to protect the SCR from over current ?",
+      "choices": [
+        "CB and fuse.",
+        "Heat sink.",
+        "Snubber circuit.",
+        "Voltage clamping device."
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: What is used to protect the SCR from over current ?\n(A) CB and fuse.  (B) Heat sink.  (C) Snubber circuit.  (D) Voltage clamping device.  \nAnswer: (A) CB and fuse.\nYou are an"
+    },
+    {
+      "question": "The errors mainly caused by human mistakes are",
+      "choices": [
+        "gross error.",
+        "instrumental error.",
+        "observational error.",
+        "systematic error."
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: The errors mainly caused by human mistakes are\n(A) gross error.  (B) instrumental error.  (C) observational error.  (D) systematic error.  \nAnswer: (D)"
+    },
+    {
+      "question": "Electrical analogous quantity for dash-pot in force-current analogy is",
+      "choices": [
+        "resistance.",
+        "conductance.",
+        "inductance.",
+        "capacitance."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Electrical analogous quantity for dash-pot in force-current analogy is\n(A) resistance.  (B) conductance.  (C) inductance.  (D) capacitance.  \nAnswer: (B) conductance.\nIs the question answered"
+    },
+    {
+      "question": "Which lamp has the best Colour Rendering Index (CRI)?",
+      "choices": [
+        "LED",
+        "Fluorescent",
+        "Incandescent",
+        "High pressure sodium vapour"
+      ],
+      "ground_truth": "C",
+      "prediction": "A",
+      "raw_output": "Question: Which lamp has the best Colour Rendering Index (CRI)?\n(A) LED  (B) Fluorescent  (C) Incandescent  (D) High pressure sodium vapour  \nAnswer: (A) LED\nYou are an AI assistant"
+    },
+    {
+      "question": "Power dissipation in ideal inductor is",
+      "choices": [
+        "Maximum",
+        "Minimum",
+        "Zero",
+        "A finite value"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Power dissipation in ideal inductor is\n(A) Maximum  (B) Minimum  (C) Zero  (D) A finite value  \nAnswer: (C) Zero  \nExplanation: In an ideal"
+    },
+    {
+      "question": "For intermittent work which of the following furnace is suitable?",
+      "choices": [
+        "Core less furnace.",
+        "Indirect arc furnace.",
+        "Either of above.",
+        "Nither of above."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: For intermittent work which of the following furnace is suitable?\n(A) Core less furnace.  (B) Indirect arc furnace.  (C) Either of above.  (D) Nither of above.  \nAnswer: (B) Indirect arc furnace. Explanation:"
+    },
+    {
+      "question": "In electrical resistance welding material of electrode should have",
+      "choices": [
+        "higher electrical conductivities.",
+        "higher thermal conductivities.",
+        "sufficient strength to sustain high pressure at elevated temperatures.",
+        "all of above."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: In electrical resistance welding material of electrode should have\n(A) higher electrical conductivities.  (B) higher thermal conductivities.  (C) sufficient strength to sustain high pressure at elevated temperatures.  (D) all of above.  \nAnswer: (D)"
+    },
+    {
+      "question": "Which of the following are the passive elements?",
+      "choices": [
+        "Resistor",
+        "Bulb",
+        "Both",
+        "None of these."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following are the passive elements?\n(A) Resistor  (B) Bulb  (C) Both  (D) None of these.  \nAnswer: (B)"
+    },
+    {
+      "question": "The main advantage of dielectric heating is that",
+      "choices": [
+        "heating occurs in the material itself.",
+        "heating occurs due to high frequency.",
+        "it can be used for drying the explosives.",
+        "None of the above."
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: The main advantage of dielectric heating is that\n(A) heating occurs in the material itself.  (B) heating occurs due to high frequency.  (C) it can be used for drying the explosives.  (D) None of the above.  \nAnswer: (A) heating occurs in the material itself."
+    },
+    {
+      "question": "Materials used in heat sink should have",
+      "choices": [
+        "high thermal conductivity.",
+        "large surface area.",
+        "high melting point.",
+        "All of these."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Materials used in heat sink should have\n(A) high thermal conductivity.  (B) large surface area.  (C) high melting point.  (D) All of these.  \nAnswer: (D)"
+    },
+    {
+      "question": "Conductor is static and the field is varying then emf will be induced. This principle is called",
+      "choices": [
+        "virtually induced emf.",
+        "dynamically induced emf.",
+        "static induced emf.",
+        "none of these"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Conductor is static and the field is varying then emf will be induced. This principle is called\n(A) virtually induced emf.  (B) dynamically induced emf.  (C) static induced emf.  (D) none of these  \nAnswer: (C)\nIs this statement correct?\nYes,"
+    },
+    {
+      "question": "Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parallel. The short circuit level at the busbar is",
+      "choices": [
+        "500 MVA",
+        "400 MVA",
+        "125 MVA",
+        "100 MVA"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parallel. The short circuit level at the busbar is\n(A) 500 MVA  (B) 400 MVA  (C) 125 MVA  (D) 100 MVA  \nAnswer: (B)\nIs the question correct?\n\nAvailable options"
+    },
+    {
+      "question": "According to the Bohr model, an electron gains or losses energy only by",
+      "choices": [
+        "moving faster or slower in an allowed orbit.",
+        "jumping from one allowed orbit to another.",
+        "being completely removed from an atom.",
+        "jumping from one atom to another atom."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: According to the Bohr model, an electron gains or losses energy only by\n(A) moving faster or slower in an allowed orbit.  (B) jumping from one allowed orbit to another.  (C) being completely removed from an atom.  (D) jumping from one atom to another atom.  \nAnswer: (B) jumping from one allowed orbit to another"
+    },
+    {
+      "question": "A three-state buffer has the following output states",
+      "choices": [
+        "1, 0, float",
+        "High, Low, Float",
+        "Both A and B",
+        "Set, Reset, Halt"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: A three-state buffer has the following output states\n(A) 1, 0, float  (B) High, Low, Float  (C) Both A and B  (D) Set, Reset, Halt  \nAnswer: (C) Both A and B\nAnswer:"
+    },
+    {
+      "question": "By using which of the following elements, mechanical translational systems are obtained?",
+      "choices": [
+        "mass element",
+        "spring element",
+        "dash-pot",
+        "all of the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: By using which of the following elements, mechanical translational systems are obtained?\n(A) mass element  (B) spring element  (C) dash-pot  (D) all of the above  \nAnswer: (D)"
+    },
+    {
+      "question": "Four capacitors each of 40 \u00b5F are connected in parallel, the equivalent capacitance of the system will be",
+      "choices": [
+        "160 \u00b5F",
+        "10 \u00b5F",
+        "40 \u00b5F",
+        "5 \u00b5F"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: Four capacitors each of 40 \u00b5F are connected in parallel, the equivalent capacitance of the system will be\n(A) 160 \u00b5F  (B) 10 \u00b5F  (C) 40 \u00b5F  (D) 5 \u00b5F  \nAnswer: (B)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "The resistance of a conductor of diameter d and length l is R \u03a9. If the diameter of the conductor is halved and its length is doubled, the resistance will be",
+      "choices": [
+        "R \u03a9",
+        "2R \u03a9",
+        "4R \u03a9",
+        "8R \u03a9"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: The resistance of a conductor of diameter d and length l is R \u03a9. If the diameter of the conductor is halved and its length is doubled, the resistance will be\n(A) R \u03a9  (B) 2R \u03a9  (C) 4R \u03a9  (D) 8R \u03a9  \nAnswer: (C)\nIs this answer correct?\n\nPick your"
+    },
+    {
+      "question": "A single phase full bridge inverter can operated in load commutation mode in case load consist of",
+      "choices": [
+        "RL.",
+        "RLC underdamped.",
+        "RLC overdamped.",
+        "RLC critically damped."
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: A single phase full bridge inverter can operated in load commutation mode in case load consist of\n(A) RL.  (B) RLC underdamped.  (C) RLC overdamped.  (D) RLC critically damped.  \nAnswer: (C) RLC overdamped.  \nMy"
+    },
+    {
+      "question": "A microprocessor is ALU",
+      "choices": [
+        "and control unit on a single chip.",
+        "and memory on a single chip.",
+        "register unit and I/O device on a single chip.",
+        "register unit and control unit on a single chip."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: A microprocessor is ALU\n(A) and control unit on a single chip.  (B) and memory on a single chip.  (C) register unit and I/O device on a single chip.  (D) register unit and control unit on a single chip.  \nAnswer: (D) Register unit and control unit on a"
+    },
+    {
+      "question": "To obtain a high value of capacitance, the permittivity of dielectric medium should be",
+      "choices": [
+        "low",
+        "zero",
+        "high",
+        "unity"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: To obtain a high value of capacitance, the permittivity of dielectric medium should be\n(A) low  (B) zero  (C) high  (D) unity  \nAnswer: (C)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "Deflection method direct measurements are most widely used as these are",
+      "choices": [
+        "least time consuming.",
+        "most simple.",
+        "most simple and least time consuming.",
+        "most accurate."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Deflection method direct measurements are most widely used as these are\n(A) least time consuming.  (B) most simple.  (C) most simple and least time consuming.  (D) most accurate.  \nAnswer: (C)"
+    },
+    {
+      "question": "Purely mechanical instrument cannot be used for dynamic measurements because they have",
+      "choices": [
+        "high inertia.",
+        "higher response time.",
+        "large time constant.",
+        "all of the above."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Purely mechanical instrument cannot be used for dynamic measurements because they have\n(A) high inertia.  (B) higher response time.  (C) large time constant.  (D) all of the above.  \nAnswer: (D)"
+    },
+    {
+      "question": "Advantages of higher transmission voltage is/are",
+      "choices": [
+        "Power transfer capability of the transmission line is increased",
+        "Transmission line losses are reduced",
+        "Area of cross section and volume of the conductor is reduced",
+        "all of the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Advantages of higher transmission voltage is/are\n(A) Power transfer capability of the transmission line is increased  (B) Transmission line losses are reduced  (C) Area of cross section and volume of the conductor is reduced  (D) all of the above  \nAnswer: (D)"
+    },
+    {
+      "question": "Under over voltage condition impedance offered by the voltage clamping device is",
+      "choices": [
+        "high.",
+        "low.",
+        "moderate.",
+        "infinity."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Under over voltage condition impedance offered by the voltage clamping device is\n(A) high.  (B) low.  (C) moderate.  (D) infinity.  \nAnswer: (B)"
+    },
+    {
+      "question": "A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting plane). A high voltage exists between the conductor and the ground. The maximum electric stress occurs at",
+      "choices": [
+        "lower surface of the conductor.",
+        "upper surface of the conductor.",
+        "the ground surface.",
+        "midway between the conductor and ground."
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting plane). A high voltage exists between the conductor and the ground. The maximum electric stress occurs at\n(A) lower surface of the conductor.  (B) upper surface of the conductor.  (C) the ground surface.  (D) midway between the conductor and ground.  \nAnswer: (B)"
+    },
+    {
+      "question": "In a dc machine 6 pole wave winding is used. The number of parallel paths are?",
+      "choices": [
+        "6",
+        "4",
+        "2",
+        "1"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: In a dc machine 6 pole wave winding is used. The number of parallel paths are?\n(A) 6  (B) 4  (C) 2  (D) 1  \nAnswer: (B)\nIs this answer correct?\n\nYes,"
+    },
+    {
+      "question": "Which of the following is a digital device",
+      "choices": [
+        "Regulator of a fan",
+        "Microphone",
+        "Resistance of a material",
+        "Light switch"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following is a digital device\n(A) Regulator of a fan  (B) Microphone  (C) Resistance of a material  (D) Light switch  \nAnswer: (B) Microphone\nYou are an AI"
+    },
+    {
+      "question": "Instantaneous power in inductor is proportional to the",
+      "choices": [
+        "product of the instantaneous current and rate of change of current.",
+        "square of instantaneous current.",
+        "square of the rate of change of current.",
+        "temperature of the inductor."
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: Instantaneous power in inductor is proportional to the\n(A) product of the instantaneous current and rate of change of current.  (B) square of instantaneous current.  (C) square of the rate of change of current.  (D) temperature of the inductor.  \nAnswer: (C)  \nI got this question in my"
+    },
+    {
+      "question": "Which of the following is a variable displacement transducer?",
+      "choices": [
+        "tachometer",
+        "potentiometer",
+        "synchros",
+        "none of the above"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following is a variable displacement transducer?\n(A) tachometer  (B) potentiometer  (C) synchros  (D) none of the above  \nAnswer: (C) synchros\n\nQuestion: Which"
+    },
+    {
+      "question": "Five capacitors each of 5 \u00b5F are connected in series, the equivalent capacitance of the system will be",
+      "choices": [
+        "5 \u00b5F",
+        "25 \u00b5F",
+        "10 \u00b5F",
+        "1 \u00b5F"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Five capacitors each of 5 \u00b5F are connected in series, the equivalent capacitance of the system will be\n(A) 5 \u00b5F  (B) 25 \u00b5F  (C) 10 \u00b5F  (D) 1 \u00b5F  \nAnswer: (B)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "Susceptibility is negative for",
+      "choices": [
+        "non magnetic substances.",
+        "diamagnetic substances.",
+        "ferromagnetic substances.",
+        "none of above."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Susceptibility is negative for\n(A) non magnetic substances.  (B) diamagnetic substances.  (C) ferromagnetic substances.  (D) none of above.  \nAnswer: (B)"
+    },
+    {
+      "question": "One of the following is the primary function of an oscillator",
+      "choices": [
+        "produces sinusoidal oscillations",
+        "generates non sinusoidal waveforms",
+        "generates sustained oscillations at a constant amplitude and specific frequency",
+        "none of the above"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: One of the following is the primary function of an oscillator\n(A) produces sinusoidal oscillations  (B) generates non sinusoidal waveforms  (C) generates sustained oscillations at a constant amplitude and specific frequency  (D) none of the above  \nAnswer: C\nIs the question answered in a satisfactory fashion"
+    },
+    {
+      "question": "The metal surfaces for electrical resistance welding must be",
+      "choices": [
+        "rough.",
+        "clean.",
+        "moistened",
+        "coloured"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: The metal surfaces for electrical resistance welding must be\n(A) rough.  (B) clean.  (C) moistened  (D) coloured  \nAnswer: (B)"
+    },
+    {
+      "question": "The latching current of SCR is 20 mA. Its holding current will be",
+      "choices": [
+        "23 mA.",
+        "40 mA.",
+        "10 mA.",
+        "60 mA."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: The latching current of SCR is 20 mA. Its holding current will be\n(A) 23 mA.  (B) 40 mA.  (C) 10 mA.  (D) 60 mA.  \nAnswer: (B) 40 mA.\nAnswer:"
+    },
+    {
+      "question": "In force-current analogy, electrical analogous quantity for displacement (x) is",
+      "choices": [
+        "voltage.",
+        "inductance.",
+        "capacitance.",
+        "flux."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: In force-current analogy, electrical analogous quantity for displacement (x) is\n(A) voltage.  (B) inductance.  (C) capacitance.  (D) flux.  \nAnswer: (D) flux.\nIs the question answered in"
+    },
+    {
+      "question": "Feedback circuit in an oscillator can be accomplished by",
+      "choices": [
+        "Resistive coupling between input and output",
+        "Capacitive coupling between input and output",
+        "Inductive coupling between input and output",
+        "Any one or combinations of the above methods"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Feedback circuit in an oscillator can be accomplished by\n(A) Resistive coupling between input and output  (B) Capacitive coupling between input and output  (C) Inductive coupling between input and output  (D) Any one or combinations of the above methods  \nAnswer: (D) Any one or combinations of the above"
+    },
+    {
+      "question": "Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of network is",
+      "choices": [
+        "LC circuit.",
+        "RC circuit.",
+        "RLC circuit.",
+        "RL Circuit."
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of network is\n(A) LC circuit.  (B) RC circuit.  (C) RLC circuit.  (D) RL Circuit.  \nAnswer: (B) RC circuit.  \nMy answer:"
+    },
+    {
+      "question": "What is the value of dielectric constant of air?",
+      "choices": [
+        "Less than 1",
+        "0.",
+        "1.",
+        "none of these."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: What is the value of dielectric constant of air?\n(A) Less than 1  (B) 0.  (C) 1.  (D) none of these.  \nAnswer: (B)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "Temperature variation is a/an",
+      "choices": [
+        "Digital quantity",
+        "Analog quantity",
+        "Either Digital or Analog quantity",
+        "None"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Temperature variation is a/an\n(A) Digital quantity  (B) Analog quantity  (C) Either Digital or Analog quantity  (D) None  \nAnswer: (B) Analog quantity\nYou are an AI"
+    },
+    {
+      "question": "The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is",
+      "choices": [
+        "30",
+        "140.",
+        "150.",
+        "200."
+      ],
+      "ground_truth": "C",
+      "prediction": "D",
+      "raw_output": "Question: The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is\n(A) 30  (B) 140.  (C) 150.  (D) 200.  \nAnswer: (D) 200.\nIs the"
+    },
+    {
+      "question": "For a dc machine shunt resistance and armature resistance values are",
+      "choices": [
+        "high and high",
+        "high and low",
+        "low and low",
+        "low and high"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: For a dc machine shunt resistance and armature resistance values are\n(A) high and high  (B) high and low  (C) low and low  (D) low and high  \nAnswer: (B)"
+    },
+    {
+      "question": "The change of cross sectional area of conductor in magnetic field will affect",
+      "choices": [
+        "reluctance of conductor.",
+        "resistance of conductor.",
+        "(A) and (B) both in the same way.",
+        "none of above."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: The change of cross sectional area of conductor in magnetic field will affect\n(A) reluctance of conductor.  (B) resistance of conductor.  (C) (A) and (B) both in the same way.  (D) none of above.  \nAnswer: (C) (A) and (B)"
+    },
+    {
+      "question": "Which of the following is used in SCR to protect from high dV / dt?",
+      "choices": [
+        "Snubber circuit.",
+        "Fuse.",
+        "Equalizing circuit.",
+        "Circuit breaker."
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: Which of the following is used in SCR to protect from high dV / dt?\n(A) Snubber circuit.  (B) Fuse.  (C) Equalizing circuit.  (D) Circuit breaker.  \nAnswer: (A) Snubber circuit.  Explanation:"
+    },
+    {
+      "question": "What are the sets of commands in a program which are not translated into machine instructions during assembly process, called?",
+      "choices": [
+        "Mnemonics",
+        "Directives",
+        "Identifiers",
+        "Operands"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: What are the sets of commands in a program which are not translated into machine instructions during assembly process, called?\n(A) Mnemonics  (B) Directives  (C) Identifiers  (D) Operands  \nAnswer: (C)"
+    },
+    {
+      "question": "Speed of data transmission in 4-G network of telecom is",
+      "choices": [
+        "386 kbps - 2 mbps.",
+        "2 mbps.",
+        "2 mbps \u2013 1 gbps.",
+        "100 mbps - 1 gbps."
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Speed of data transmission in 4-G network of telecom is\n(A) 386 kbps - 2 mbps.  (B) 2 mbps.  (C) 2 mbps \u2013 1 gbps.  (D) 100 mbps - 1 gbps.  \nAnswer: (B)\nIs this step-by-step reasoning for"
+    },
+    {
+      "question": "Which of the followings is/are active element?",
+      "choices": [
+        "Voltage source",
+        "Current source",
+        "Both",
+        "None of these."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of the followings is/are active element?\n(A) Voltage source  (B) Current source  (C) Both  (D) None of these.  \nAnswer: (C) Both\nYou are an AI assistant"
+    },
+    {
+      "question": "Electrical analogous quantity for spring element (K) in force-voltage analogy is",
+      "choices": [
+        "L",
+        "R",
+        "1/C",
+        "C"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Electrical analogous quantity for spring element (K) in force-voltage analogy is\n(A) L  (B) R  (C) 1/C  (D) C  \nAnswer: (C)\nIs the question answered in your view"
+    },
+    {
+      "question": "A quartz crystal oscillator consists of",
+      "choices": [
+        "only series resonant frequency.",
+        "only parallel resonant frequency.",
+        "both series and parallel frequencies.",
+        "neither series nor parallel frequency."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: A quartz crystal oscillator consists of\n(A) only series resonant frequency.  (B) only parallel resonant frequency.  (C) both series and parallel frequencies.  (D) neither series nor parallel frequency.  \nAnswer: (C) both series and parallel frequencies.  \n"
+    },
+    {
+      "question": "Which of the following oscillators are used for low frequency (LF) applications",
+      "choices": [
+        "LC oscillators",
+        "RC oscillators",
+        "Both LC and RC Oscillators",
+        "None"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following oscillators are used for low frequency (LF) applications\n(A) LC oscillators  (B) RC oscillators  (C) Both LC and RC Oscillators  (D) None  \nAnswer: (C)\nIs the question answered in your view"
+    },
+    {
+      "question": "The solid angle subtended by an area of 2400 cm^2 on the surface of a sphere of diameter 1.2 m is",
+      "choices": [
+        "3 / 2.",
+        "1 / 3.",
+        "2 / 3.",
+        "2 / 5."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: The solid angle subtended by an area of 2400 cm^2 on the surface of a sphere of diameter 1.2 m is\n(A) 3 / 2.  (B) 1 / 3.  (C) 2 / 3.  (D) 2 / 5.  \nAnswer: (B)\nIs this answer correct?\nYes,"
+    },
+    {
+      "question": "Relative error is same as",
+      "choices": [
+        "ratio of absolute error and true value.",
+        "absolute error.",
+        "true error.",
+        "none of the above."
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: Relative error is same as\n(A) ratio of absolute error and true value.  (B) absolute error.  (C) true error.  (D) none of the above.  \nAnswer: (A)  \nMy answer: (A)"
+    },
+    {
+      "question": "If holding current of a thyristor is 2 mA then latching current should be",
+      "choices": [
+        "0.01 A.",
+        "0.002 A.",
+        "0.009 A.",
+        "0.004 A."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: If holding current of a thyristor is 2 mA then latching current should be\n(A) 0.01 A.  (B) 0.002 A.  (C) 0.009 A.  (D) 0.004 A.  \nAnswer: (D) 0.004 A"
+    },
+    {
+      "question": "In an intel 8085A, which is the first machine cycle of an instruction?",
+      "choices": [
+        "An op-code fetch cycle",
+        "A memory read cycle",
+        "A memory write cycle",
+        "An I/O read cycle"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: In an intel 8085A, which is the first machine cycle of an instruction?\n(A) An op-code fetch cycle  (B) A memory read cycle  (C) A memory write cycle  (D) An I/O read cycle  \nAnswer: (A) An op-code fetch cycle\nYou"
+    },
+    {
+      "question": "Which of the following are the disadvantages of a closed loop control system?",
+      "choices": [
+        "Reduces the overall gain.",
+        "Complex and costly.",
+        "Oscillatory response.",
+        "All of the above."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following are the disadvantages of a closed loop control system?\n(A) Reduces the overall gain.  (B) Complex and costly.  (C) Oscillatory response.  (D) All of the above.  \nAnswer: (D) All of the above.\n\nQuestion:"
+    },
+    {
+      "question": "Poles and zeros are arranged alternatively on negative real axis, then type of network is/are",
+      "choices": [
+        "LC network.",
+        "RC network.",
+        "RL network.",
+        "Both 2 and 3."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Poles and zeros are arranged alternatively on negative real axis, then type of network is/are\n(A) LC network.  (B) RC network.  (C) RL network.  (D) Both 2 and 3.  \nAnswer: (D) Both 2 and 3."
+    },
+    {
+      "question": "The magnetisation and applied field in ferromagnetic materials are related",
+      "choices": [
+        "sinusoidally.",
+        "non linearly.",
+        "linearly.",
+        "parabolically."
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: The magnetisation and applied field in ferromagnetic materials are related\n(A) sinusoidally.  (B) non linearly.  (C) linearly.  (D) parabolically.  \nAnswer: (C)"
+    },
+    {
+      "question": "Thin laminations are used in a machine in order to reduce",
+      "choices": [
+        "Eddy current losses",
+        "Hysteresis losses",
+        "Both A and B",
+        "Copper losses"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: Thin laminations are used in a machine in order to reduce\n(A) Eddy current losses  (B) Hysteresis losses  (C) Both A and B  (D) Copper losses  \nAnswer: (C)\nIs the question answered in your view"
+    },
+    {
+      "question": "A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The total outward electric displacement normal to the surface of the cube is",
+      "choices": [
+        "40\u03c0 coulombs.",
+        "80\u03c0 coulombs.",
+        "10\u03c0 coulombs.",
+        "none of these."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The total outward electric displacement normal to the surface of the cube is\n(A) 40\u03c0 coulombs.  (B) 80\u03c0 coulombs.  (C) 10\u03c0 coulombs.  (D) none of these.  \nAnswer: (B)  \nMy Answer: 10"
+    },
+    {
+      "question": "In binary number system the first digit (bit) from right to left is called as",
+      "choices": [
+        "LSB, Least Significant Bit",
+        "MSB, Most Significant Bit",
+        "First Bit",
+        "Last Bit"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: In binary number system the first digit (bit) from right to left is called as\n(A) LSB, Least Significant Bit  (B) MSB, Most Significant Bit  (C) First Bit  (D) Last Bit  \nAnswer: (B) MSB, Most Significant Bit\n"
+    },
+    {
+      "question": "In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of the system is",
+      "choices": [
+        "0.",
+        "0.5.",
+        "1.",
+        "none of above."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of the system is\n(A) 0.  (B) 0.5.  (C) 1.  (D) none of above.  \nAnswer: (B)\nCo-Answered by: S"
+    },
+    {
+      "question": "A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 75 V. The limiting error is in percentage",
+      "choices": [
+        "3.33 %.",
+        "2.66 %.",
+        "2 %.",
+        "1 %."
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 75 V. The limiting error is in percentage\n(A) 3.33 %.  (B) 2.66 %.  (C) 2 %.  (D) 1 %.  \nAnswer: (C)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "Which of the following methods is/are used for reactive or voltage compensation",
+      "choices": [
+        "shunt capacitor",
+        "series capacitor",
+        "generation excitation control",
+        "all of the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following methods is/are used for reactive or voltage compensation\n(A) shunt capacitor  (B) series capacitor  (C) generation excitation control  (D) all of the above  \nAnswer: (D)\nIs the question answered in your view"
+    },
+    {
+      "question": "The ROM programmed during manufacturing process itself is called",
+      "choices": [
+        "MROM",
+        "PROM",
+        "EPROM",
+        "EEPROM"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: The ROM programmed during manufacturing process itself is called\n(A) MROM  (B) PROM  (C) EPROM  (D) EEPROM  \nAnswer: (C) EPROM\nAnswer: (C"
+    },
+    {
+      "question": "In 8085 name/names of the 16 bit registers is/are",
+      "choices": [
+        "stack pointer.",
+        "program counter.",
+        "both A and B.",
+        "none of these."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: In 8085 name/names of the 16 bit registers is/are\n(A) stack pointer.  (B) program counter.  (C) both A and B.  (D) none of these.  \nAnswer: (C) both A and B.\nIs the"
+    },
+    {
+      "question": "Stability of a transmission line can be increased by",
+      "choices": [
+        "shunt capacitor",
+        "series capacitor",
+        "shunt reactor",
+        "both A and B"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Stability of a transmission line can be increased by\n(A) shunt capacitor  (B) series capacitor  (C) shunt reactor  (D) both A and B  \nAnswer: (D) both A and B\nIs the"
+    },
+    {
+      "question": "Snubber circuit is used with SCR",
+      "choices": [
+        "in series.",
+        "in parallel.",
+        "either series or parallel.",
+        "anti parallel."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Snubber circuit is used with SCR\n(A) in series.  (B) in parallel.  (C) either series or parallel.  (D) anti parallel.  \nAnswer: (B) in parallel.\nYou are an AI"
+    },
+    {
+      "question": "The number of rings in the Bohr model of any element is determined by what?",
+      "choices": [
+        "Column number on periodic table.",
+        "Atomic mass.",
+        "Row number on periodic table.",
+        "Atomic number."
+      ],
+      "ground_truth": "C",
+      "prediction": "D",
+      "raw_output": "Question: The number of rings in the Bohr model of any element is determined by what?\n(A) Column number on periodic table.  (B) Atomic mass.  (C) Row number on periodic table.  (D) Atomic number.  \nAnswer: (D) Atomic number.  \nI'm sorry"
+    },
+    {
+      "question": "Silicon and Germanium are ________ elements.",
+      "choices": [
+        "trivalant",
+        "pentavalant",
+        "hexavalant",
+        "tetravalant"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: Silicon and Germanium are ________ elements.\n(A) trivalant  (B) pentavalant  (C) hexavalant  (D) tetravalant  \nAnswer: (C)"
+    },
+    {
+      "question": "The number of output pins in 8085 microprocessors are",
+      "choices": [
+        "27.",
+        "40.",
+        "21.",
+        "19."
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: The number of output pins in 8085 microprocessors are\n(A) 27.  (B) 40.  (C) 21.  (D) 19.  \nAnswer: (D)  \nExplanation: The number of output"
+    },
+    {
+      "question": "If P is the power of a star connected system then what will be power of an equivalent delta connected system?",
+      "choices": [
+        "P",
+        "3P",
+        "P/3",
+        "None of the above"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: If P is the power of a star connected system then what will be power of an equivalent delta connected system?\n(A) P  (B) 3P  (C) P/3  (D) None of the above  \nAnswer: (B) 3P\nWhat is the"
+    },
+    {
+      "question": "Which oscillators are easy to fabricate in a monolithic IC?",
+      "choices": [
+        "Crystal oscillator.",
+        "Hartley oscillator.",
+        "Wien bridge oscillator.",
+        "Relaxation oscillator."
+      ],
+      "ground_truth": "D",
+      "prediction": "A",
+      "raw_output": "Question: Which oscillators are easy to fabricate in a monolithic IC?\n(A) Crystal oscillator.  (B) Hartley oscillator.  (C) Wien bridge oscillator.  (D) Relaxation oscillator.  \nAnswer: (A) Crystal oscillator. Explanation: The crystal"
+    },
+    {
+      "question": "If all the elements in a particular network are linear, then the superposition theorem would hold, when the excitation is",
+      "choices": [
+        "DC only",
+        "AC only",
+        "Either AC or DC",
+        "An Impulse"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: If all the elements in a particular network are linear, then the superposition theorem would hold, when the excitation is\n(A) DC only  (B) AC only  (C) Either AC or DC  (D) An Impulse  \nAnswer: (C) Either AC or DC\nCoT"
+    },
+    {
+      "question": "The feedback factor of a Wien bridge oscillator using Op-Amp is",
+      "choices": [
+        "1/3",
+        "1/4",
+        "1/2",
+        "1"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: The feedback factor of a Wien bridge oscillator using Op-Amp is\n(A) 1/3  (B) 1/4  (C) 1/2  (D) 1  \nAnswer: (C) 1/2\nIs the"
+    },
+    {
+      "question": "The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state clock cycles denoted by Tw. The wait states are always inserted between",
+      "choices": [
+        "T1 & T2",
+        "T2 & T3",
+        "T3 & T4",
+        "T4 & T1"
+      ],
+      "ground_truth": "C",
+      "prediction": "D",
+      "raw_output": "Question: The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state clock cycles denoted by Tw. The wait states are always inserted between\n(A) T1 & T2  (B) T2 & T3  (C) T3 & T4  (D) T4 & T1  \nAnswer: (D) T4 & T1  \nExplanation"
+    },
+    {
+      "question": "Which of the following is not a sinusoidal oscillator?",
+      "choices": [
+        "LC oscillator",
+        "RC phase shift oscillator",
+        "Relaxation oscillator",
+        "Crystal oscillator"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following is not a sinusoidal oscillator?\n(A) LC oscillator  (B) RC phase shift oscillator  (C) Relaxation oscillator  (D) Crystal oscillator  \nAnswer: (C) Relaxation oscillator\nAnswer: ("
+    },
+    {
+      "question": "A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire will be",
+      "choices": [
+        "parallel to the plane of the wire.",
+        "perpendicular to the circumference of the wire.",
+        "parallel to half portion and perpendicular for the other half.",
+        "none of above."
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire will be\n(A) parallel to the plane of the wire.  (B) perpendicular to the circumference of the wire.  (C) parallel to half portion and perpendicular for the other half.  (D) none of above.  \nAnswer: (B)  \nMy answer: (B)"
+    }
+  ]
+}

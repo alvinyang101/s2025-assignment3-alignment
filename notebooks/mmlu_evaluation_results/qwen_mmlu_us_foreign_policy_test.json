@@ -1,0 +1,1205 @@
+{
+  "accuracy": 0.68,
+  "results": [
+    {
+      "question": "What is the structure of the United Nations Security Council?",
+      "choices": [
+        "5 permanent members with veto power, 10 rotating members with no veto power",
+        "5 permanent members and 10 rotating members, all with veto power",
+        "10 permanent members with veto power, and 5 rotating members without veto power",
+        "15 permanent members with veto power"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: What is the structure of the United Nations Security Council?\n(A) 5 permanent members with veto power, 10 rotating members with no veto power  (B) 5 permanent members and 10 rotating members, all with veto power  (C) 10 permanent members with veto power, and 5 rotating members without veto power  (D) 15 permanent members with veto power  \nAnswer: (B)\nYou are an AI assistant. Provide"
+    },
+    {
+      "question": "What was the significance of the Gulf of Tonkin resolution?",
+      "choices": [
+        "It allowed the US to intensify its involvement in Vietnam",
+        "It illustrated the influence of public opinion on US foreign policy",
+        "It enhanced Congressional control over the Vietnam War",
+        "It curtailed US involvement in Vietnam"
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: What was the significance of the Gulf of Tonkin resolution?\n(A) It allowed the US to intensify its involvement in Vietnam  (B) It illustrated the influence of public opinion on US foreign policy  (C) It enhanced Congressional control over the Vietnam War  (D) It curtailed US involvement in Vietnam  \nAnswer: (D)"
+    },
+    {
+      "question": "Which is not a nonstate actor that poses a threat to the United States?",
+      "choices": [
+        "Terrorists",
+        "Organized crime",
+        "Drug traffickers",
+        "China"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which is not a nonstate actor that poses a threat to the United States?\n(A) Terrorists  (B) Organized crime  (C) Drug traffickers  (D) China  \nAnswer: (D)"
+    },
+    {
+      "question": "Who was the first American president to visit communist China?",
+      "choices": [
+        "Richard Nixon",
+        "George H. W. Bush",
+        "Jimmy Carter",
+        "Ronald Reagan"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: Who was the first American president to visit communist China?\n(A) Richard Nixon  (B) George H. W. Bush  (C) Jimmy Carter  (D) Ronald Reagan  \nAnswer: (A)"
+    },
+    {
+      "question": "The Strategic Arms Reduction Treaty was the first accord",
+      "choices": [
+        "on nuclear weapons signed between the United States and the Soviet Union.",
+        "cutting conventional arms in Europe.",
+        "to be rejected by the U.S. Senate.",
+        "mandating the elimination of many long-range nuclear missiles."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: The Strategic Arms Reduction Treaty was the first accord\n(A) on nuclear weapons signed between the United States and the Soviet Union.  (B) cutting conventional arms in Europe.  (C) to be rejected by the U.S. Senate.  (D) mandating the elimination of many long-range nuclear missiles.  \nAnswer: (D)"
+    },
+    {
+      "question": "What were the implications of the Cold War for American exceptionalism?",
+      "choices": [
+        "It ended the influence of American exceptionalism entirely",
+        "Exceptionalism was enhanced by America's status as the 'leader of the free world'",
+        "The extension of American power globally challenged core assumptions of exceptionalism",
+        "Both b and c"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: What were the implications of the Cold War for American exceptionalism?\n(A) It ended the influence of American exceptionalism entirely  (B) Exceptionalism was enhanced by America's status as the 'leader of the free world'  (C) The extension of American power globally challenged core assumptions of exceptionalism  (D) Both b and c  \nAnswer: C"
+    },
+    {
+      "question": "Why did Franklin D. Roosevelt initially favour an 'isolationist' stance on the part of the US during the 1930s?",
+      "choices": [
+        "He believed that internal reform rather than international negotiation was the key to economic regeneration of the US",
+        "He believed that German domination of Europe would be in US interests",
+        "He always favoured isolationism",
+        "All of the above"
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: Why did Franklin D. Roosevelt initially favour an 'isolationist' stance on the part of the US during the 1930s?\n(A) He believed that internal reform rather than international negotiation was the key to economic regeneration of the US  (B) He believed that German domination of Europe would be in US interests  (C) He always favoured isolationism  (D) All of the above  \nAnswer: (D) All of the above\n\nQuestion:"
+    },
+    {
+      "question": "What was the 'New Populism'?",
+      "choices": [
+        "A strand of neo-isolationist sentiment",
+        "A strand of internationalist sentiment",
+        "An expression of American cultural superiority",
+        "Increased incorporation of public opinion in foreign policy making"
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: What was the 'New Populism'?\n(A) A strand of neo-isolationist sentiment  (B) A strand of internationalist sentiment  (C) An expression of American cultural superiority  (D) Increased incorporation of public opinion in foreign policy making  \nAnswer: (D)"
+    },
+    {
+      "question": "How did World War I shift economic power from Europe to the United States?",
+      "choices": [
+        "The war reduced European population levels below that of the United States",
+        "The United States seized German resources after the war",
+        "European countries paid the United States for assistance",
+        "The United States became a creditor country and financial centre, with European war spending boosting the US economy"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: How did World War I shift economic power from Europe to the United States?\n(A) The war reduced European population levels below that of the United States  (B) The United States seized German resources after the war  (C) European countries paid the United States for assistance  (D) The United States became a creditor country and financial centre, with European war spending boosting the US economy  \nAnswer: (D) The United States became a creditor country"
+    },
+    {
+      "question": "In American government, the power to declare war rests with",
+      "choices": [
+        "the president of the United States.",
+        "the secretary of defense.",
+        "the chairman of the Joint Chiefs of Staff.",
+        "Congress."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: In American government, the power to declare war rests with\n(A) the president of the United States.  (B) the secretary of defense.  (C) the chairman of the Joint Chiefs of Staff.  (D) Congress.  \nAnswer: (D)"
+    },
+    {
+      "question": "How did the Cold War context shape US perceptions of the Third World?",
+      "choices": [
+        "The US ignored the Third World",
+        "Local developments were viewed through a geopolitical lens",
+        "The US unreservedly supported decolonization",
+        "None of the above"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: How did the Cold War context shape US perceptions of the Third World?\n(A) The US ignored the Third World  (B) Local developments were viewed through a geopolitical lens  (C) The US unreservedly supported decolonization  (D) None of the above  \nAnswer: B"
+    },
+    {
+      "question": "What was unique about the NATO intervention in Kosovo?",
+      "choices": [
+        "It was the first time the US became involved in the Balkans",
+        "It was the first time NATO used military force",
+        "It was the first war won by airpower alone",
+        "It was the first war to employ 'smart weapons'"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: What was unique about the NATO intervention in Kosovo?\n(A) It was the first time the US became involved in the Balkans  (B) It was the first time NATO used military force  (C) It was the first war won by airpower alone  (D) It was the first war to employ 'smart weapons'  \nAnswer: (B)"
+    },
+    {
+      "question": "What, according to Systemic theories, is the primary determinant of a state's foreign policy?",
+      "choices": [
+        "The character of a state's leader",
+        "The distribution of power in the international system",
+        "The distribution of power within a state's governmental system",
+        "A state's political ideology"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: What, according to Systemic theories, is the primary determinant of a state's foreign policy?\n(A) The character of a state's leader  (B) The distribution of power in the international system  (C) The distribution of power within a state's governmental system  (D) A state's political ideology  \nAnswer: (C)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "Why is there so much uncertainty over which states have nuclear weapons?",
+      "choices": [
+        "Leaders have incentives to lie",
+        "If leaders revealed their programs, they would be more likely to be attacked",
+        "Leaders will not always grant foreign monitors access to their nuclear programs",
+        "ALL of the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Why is there so much uncertainty over which states have nuclear weapons?\n(A) Leaders have incentives to lie  (B) If leaders revealed their programs, they would be more likely to be attacked  (C) Leaders will not always grant foreign monitors access to their nuclear programs  (D) ALL of the above  \nAnswer: (D) ALL of the above\n\nQuestion:"
+    },
+    {
+      "question": "Within American politics, the power to accord official recognition to other countries belongs to",
+      "choices": [
+        "the Senate.",
+        "the president.",
+        "the Secretary of State.",
+        "the chairman of the Joint Chiefs."
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: Within American politics, the power to accord official recognition to other countries belongs to\n(A) the Senate.  (B) the president.  (C) the Secretary of State.  (D) the chairman of the Joint Chiefs.  \nAnswer: (C)"
+    },
+    {
+      "question": "What did the Moscow Treaty on Strategic Offensive Reductions do?",
+      "choices": [
+        "Required the United States and Russia to demobilize their armies",
+        "Required the United States and Russia to dismantle a significant number of their nuclear weapons",
+        "Prohibited the acquisition of new military bases",
+        "Prohibited short-range nuclear weapons"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: What did the Moscow Treaty on Strategic Offensive Reductions do?\n(A) Required the United States and Russia to demobilize their armies  (B) Required the United States and Russia to dismantle a significant number of their nuclear weapons  (C) Prohibited the acquisition of new military bases  (D) Prohibited short-range nuclear weapons  \nAnswer: (B)"
+    },
+    {
+      "question": "What were the 'open-door notes'?",
+      "choices": [
+        "An American declaration that the US was always open to Chinese immigration",
+        "An American proclamation that China should be divided up between the US, Japan and the European empires",
+        "An American proclamation that China should be open to US trade and missionaries",
+        "An American declaration of support for Chinese economic protectionism"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: What were the 'open-door notes'?\n(A) An American declaration that the US was always open to Chinese immigration  (B) An American proclamation that China should be divided up between the US, Japan and the European empires  (C) An American proclamation that China should be open to US trade and missionaries  (D) An American declaration of support for Chinese economic protectionism  \nAnswer: (C)"
+    },
+    {
+      "question": "International trade will almost always benefit both countries, so why do countries try to protect their own firms from exposure to the world market?",
+      "choices": [
+        "Irrationality on the part of the leadership",
+        "Costs of free trade are concentrated, but benefits are dispersed",
+        "Regime type",
+        "International conflict prevents trade"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: International trade will almost always benefit both countries, so why do countries try to protect their own firms from exposure to the world market?\n(A) Irrationality on the part of the leadership  (B) Costs of free trade are concentrated, but benefits are dispersed  (C) Regime type  (D) International conflict prevents trade  \nAnswer: (B) Costs of free trade are concentrated,"
+    },
+    {
+      "question": "Why did George H.W. Bush allow Saddam Hussein to remain in power after the Gulf War of 1991?",
+      "choices": [
+        "Lack of US firepower",
+        "Concern over oil supplies",
+        "Limited UN mandate and fear of a protracted conflict",
+        "Difficult terrain and fear of civilian casualties"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Why did George H.W. Bush allow Saddam Hussein to remain in power after the Gulf War of 1991?\n(A) Lack of US firepower  (B) Concern over oil supplies  (C) Limited UN mandate and fear of a protracted conflict  (D) Difficult terrain and fear of civilian casualties  \nAnswer: (C)"
+    },
+    {
+      "question": "Why do Liberal Internationalists argue that international institutions are important to US grand strategy?",
+      "choices": [
+        "They allow the US to withdraw from the international arena",
+        "They serve American interests",
+        "The US is incapable of acting alone",
+        "None of the above"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Why do Liberal Internationalists argue that international institutions are important to US grand strategy?\n(A) They allow the US to withdraw from the international arena  (B) They serve American interests  (C) The US is incapable of acting alone  (D) None of the above  \nAnswer: B\nIs the question answered in a satisfactory fashion"
+    },
+    {
+      "question": "What was the significance of the Truman Doctrine?",
+      "choices": [
+        "It indicated the special place of Greece and Turkey in American interests",
+        "It was Truman's first statement on European affairs",
+        "It indicated US reluctance to get involved in incidents outside of its immediate sphere of influence",
+        "It indicated that the US would now view all local revolts through a geopolitical lens"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: What was the significance of the Truman Doctrine?\n(A) It indicated the special place of Greece and Turkey in American interests  (B) It was Truman's first statement on European affairs  (C) It indicated US reluctance to get involved in incidents outside of its immediate sphere of influence  (D) It indicated that the US would now view all local revolts through a geopolitical lens  \nAnswer: (C)"
+    },
+    {
+      "question": "What tend to be the effects of oil and other natural resource trade on developing states?",
+      "choices": [
+        "It democratizes countries",
+        "It has no real effect",
+        "It encourages stability of the regime",
+        "It changes the nature of the investor"
+      ],
+      "ground_truth": "C",
+      "prediction": "D",
+      "raw_output": "Question: What tend to be the effects of oil and other natural resource trade on developing states?\n(A) It democratizes countries  (B) It has no real effect  (C) It encourages stability of the regime  (D) It changes the nature of the investor  \nAnswer: (D)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "The dominant course for foreign policy throughout most of American history can be categorized as",
+      "choices": [
+        "containment.",
+        "neoconservatism.",
+        "isolationism.",
+        "protectionism."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: The dominant course for foreign policy throughout most of American history can be categorized as\n(A) containment.  (B) neoconservatism.  (C) isolationism.  (D) protectionism.  \nAnswer: (C)"
+    },
+    {
+      "question": "What led Britain to impose new taxes on their American colonies?",
+      "choices": [
+        "To increase the wealth of King George III",
+        "The growing costs of war with France",
+        "Anger at America's growing prosperity",
+        "Pressure from rich merchants"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: What led Britain to impose new taxes on their American colonies?\n(A) To increase the wealth of King George III  (B) The growing costs of war with France  (C) Anger at America's growing prosperity  (D) Pressure from rich merchants  \nAnswer: (C) Anger at America's growing prosperity"
+    },
+    {
+      "question": "Who said \"Globalization is not something we can hold off or turn off. It is the economic equivalent of a force of nature-like wind or water\"?",
+      "choices": [
+        "Ronald Reagan",
+        "George Soros",
+        "Bill Clinton",
+        "George W. Bush"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: Who said \"Globalization is not something we can hold off or turn off. It is the economic equivalent of a force of nature-like wind or water\"?\n(A) Ronald Reagan  (B) George Soros  (C) Bill Clinton  (D) George W. Bush  \nAnswer: (B)"
+    },
+    {
+      "question": "The idea that war is \"the continuation of politics by other means\" helps to capture",
+      "choices": [
+        "diplomacy is the quietest instrument of influence in global politics.",
+        "the way political parties fight with each other.",
+        "the idea that governments use their military to help pursue policy goals.",
+        "the way Democrats and Republicans differ over the war in Iraq."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: The idea that war is \"the continuation of politics by other means\" helps to capture\n(A) diplomacy is the quietest instrument of influence in global politics.  (B) the way political parties fight with each other.  (C) the idea that governments use their military to help pursue policy goals.  (D) the way Democrats and Republicans differ over the war in Iraq.  \nAnswer: (C)"
+    },
+    {
+      "question": "What are the key elements of the Liberal approach to US foreign policy?",
+      "choices": [
+        "Promotion of Democracy, free-trade and international institutions",
+        "Alliances, diplomacy and protectionism",
+        "The balance of power, self-sufficiency and prudence",
+        "None of the above"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: What are the key elements of the Liberal approach to US foreign policy?\n(A) Promotion of Democracy, free-trade and international institutions  (B) Alliances, diplomacy and protectionism  (C) The balance of power, self-sufficiency and prudence  (D) None of the above  \nAnswer: (C)\nQuestion: What is the main purpose"
+    },
+    {
+      "question": "What was the key difference between US expansion pre- and post- 1865?",
+      "choices": [
+        "US expansion was based on territory rather than markets post-1865",
+        "US expansion was based on markets rather than territory post-1865",
+        "US expansion was limited to Latin America post-1865",
+        "US expansion ended after 1865"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: What was the key difference between US expansion pre- and post- 1865?\n(A) US expansion was based on territory rather than markets post-1865  (B) US expansion was based on markets rather than territory post-1865  (C) US expansion was limited to Latin America post-1865  (D) US expansion ended after 1865  \nAnswer: (B) US expansion was based on markets rather"
+    },
+    {
+      "question": "What case did President Eisenhower make against the 'military-industrial complex' in his farewell speech?",
+      "choices": [
+        "That the capitalist search for profits was the leading cause of armed conflict",
+        "That the United States no longer needed to be militarily strong",
+        "That military spending gave the arms industry unwarranted influence on politics and government",
+        "That private companies would undermine the role of the Armed Forces"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: What case did President Eisenhower make against the 'military-industrial complex' in his farewell speech?\n(A) That the capitalist search for profits was the leading cause of armed conflict  (B) That the United States no longer needed to be militarily strong  (C) That military spending gave the arms industry unwarranted influence on politics and government  (D) That private companies would undermine the role of the Armed Forces  \nAnswer: (C)"
+    },
+    {
+      "question": "Within the United Nations, real power is located in",
+      "choices": [
+        "the Security Council.",
+        "the Chamber of Deputies.",
+        "the Council of Ministers.",
+        "the Secretariat."
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: Within the United Nations, real power is located in\n(A) the Security Council.  (B) the Chamber of Deputies.  (C) the Council of Ministers.  (D) the Secretariat.  \nAnswer: (A)"
+    },
+    {
+      "question": "In general, how do conservatives and liberals differ when it comes to defense spending?",
+      "choices": [
+        "Conservatives are skeptical of increases in defense spending; liberals advocate increases in defense spending.",
+        "Conservatives favor social spending over defense spending; liberals favor defense spending over social spending.",
+        "Conservatives advocate increases in defense spending; liberals are generally skeptical of increases in defense spending.",
+        "Conservatives emphasize strong economies; liberals emphasize strong military readiness."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: In general, how do conservatives and liberals differ when it comes to defense spending?\n(A) Conservatives are skeptical of increases in defense spending; liberals advocate increases in defense spending.  (B) Conservatives favor social spending over defense spending; liberals favor defense spending over social spending.  (C) Conservatives advocate increases in defense spending; liberals are generally skeptical of increases in defense spending.  (D) Conservatives emphasize strong economies; liberals emphasize strong military readiness.  \nAnswer: (C)"
+    },
+    {
+      "question": "Intergovernmental organizations SELDOM do which of the following?",
+      "choices": [
+        "Provide strong enforcement",
+        "Monitor parties",
+        "Provide fora for discussion",
+        "Reduce transaction costs for agreements"
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: Intergovernmental organizations SELDOM do which of the following?\n(A) Provide strong enforcement  (B) Monitor parties  (C) Provide fora for discussion  (D) Reduce transaction costs for agreements  \nAnswer: D"
+    },
+    {
+      "question": "Which of the following are possible constraints on US foreign policy decision making?",
+      "choices": [
+        "Foreign policies of other states",
+        "International law",
+        "Intergovernmental organizations",
+        "All of the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following are possible constraints on US foreign policy decision making?\n(A) Foreign policies of other states  (B) International law  (C) Intergovernmental organizations  (D) All of the above  \nAnswer: D"
+    },
+    {
+      "question": "What is direct diplomacy?",
+      "choices": [
+        "Members of Congress negotiating directly with foreign governments",
+        "Face-to-face meetings between state leaders",
+        "The president consulting Congress on foreign policy issues",
+        "Bilateral talks that do not involve a third-party negotiator"
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: What is direct diplomacy?\n(A) Members of Congress negotiating directly with foreign governments  (B) Face-to-face meetings between state leaders  (C) The president consulting Congress on foreign policy issues  (D) Bilateral talks that do not involve a third-party negotiator  \nAnswer: (D)\nYou are an AI assistant that follows"
+    },
+    {
+      "question": "What was the Clinton Administration's policy on the Russian economy?",
+      "choices": [
+        "The US inhibited the marketization of the Russian economy",
+        "The US promoted the marketization of the Russian economy",
+        "The US supported public ownership of natural resources",
+        "None, the US was only concerned with security issues"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: What was the Clinton Administration's policy on the Russian economy?\n(A) The US inhibited the marketization of the Russian economy  (B) The US promoted the marketization of the Russian economy  (C) The US supported public ownership of natural resources  (D) None, the US was only concerned with security issues  \nAnswer: (B) The US promoted the marketization of"
+    },
+    {
+      "question": "How many major powers are there in a multipolar system?",
+      "choices": [
+        "0",
+        "1",
+        "2",
+        "3 or more"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: How many major powers are there in a multipolar system?\n(A) 0  (B) 1  (C) 2  (D) 3 or more  \nAnswer: (D)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "Why did Americans believe that they could found a different kind of empire after 1776?",
+      "choices": [
+        "This would be an 'empire of liberty'",
+        "This empire would be multi-cultural",
+        "This type of empire would be based on expansion",
+        "This would be empire free of slavery"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: Why did Americans believe that they could found a different kind of empire after 1776?\n(A) This would be an 'empire of liberty'  (B) This empire would be multi-cultural  (C) This type of empire would be based on expansion  (D) This would be empire free of slavery  \nAnswer: (C) This type of empire would be based"
+    },
+    {
+      "question": "The trade-off between defense and social spending is often referred to as a choice between",
+      "choices": [
+        "bread and butter.",
+        "war and peace.",
+        "guns and butter.",
+        "bombs and books."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: The trade-off between defense and social spending is often referred to as a choice between\n(A) bread and butter.  (B) war and peace.  (C) guns and butter.  (D) bombs and books.  \nAnswer: (C)"
+    },
+    {
+      "question": "What did Charles Krauthammer mean by a 'unipolar moment' when describing the post-Cold War system?",
+      "choices": [
+        "The chance for the United States to share power with other countries in the world",
+        "An opportunity to use to collapse of the Soviet Union to extend US power",
+        "An international system that didn't face any threats",
+        "The never-ending domination of the United States"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: What did Charles Krauthammer mean by a 'unipolar moment' when describing the post-Cold War system?\n(A) The chance for the United States to share power with other countries in the world  (B) An opportunity to use to collapse of the Soviet Union to extend US power  (C) An international system that didn't face any threats  (D) The never-ending domination of the United States  \nAnswer: (B)"
+    },
+    {
+      "question": "Which of the following considers it immoral to use force abroad to do good things (such human rights protection, democracy, etc)?",
+      "choices": [
+        "Realism",
+        "Idealism",
+        "Liberalism",
+        "None of the above"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following considers it immoral to use force abroad to do good things (such human rights protection, democracy, etc)?\n(A) Realism  (B) Idealism  (C) Liberalism  (D) None of the above  \nAnswer: (C) Liberalism\nYou are an AI"
+    },
+    {
+      "question": "According to realists, what is the fundamental difference between the international system and the domestic system?",
+      "choices": [
+        "Armed conflict",
+        "Anarchy",
+        "Institutions",
+        "No common language"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: According to realists, what is the fundamental difference between the international system and the domestic system?\n(A) Armed conflict  (B) Anarchy  (C) Institutions  (D) No common language  \nAnswer: (B)"
+    },
+    {
+      "question": "Which is NOT a reason for why intergovernmental organizations are ineffective at promoting human rights?",
+      "choices": [
+        "These organizations merely identify those states who already support human rights",
+        "They cannot get enough information about which leaders will abuse their citizens",
+        "These organizations have little ability to constrain abusive leaders",
+        "None of the above"
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: Which is NOT a reason for why intergovernmental organizations are ineffective at promoting human rights?\n(A) These organizations merely identify those states who already support human rights  (B) They cannot get enough information about which leaders will abuse their citizens  (C) These organizations have little ability to constrain abusive leaders  (D) None of the above  \nAnswer: D"
+    },
+    {
+      "question": "Why might the 'Philadelphian System' be linked to the idea of American exceptionalism?",
+      "choices": [
+        "It encouraged greater involvement in European politics",
+        "It was designed as the antithesis of European politics",
+        "It created a large standing army",
+        "It encouraged the centralization of political power in the US"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Why might the 'Philadelphian System' be linked to the idea of American exceptionalism?\n(A) It encouraged greater involvement in European politics  (B) It was designed as the antithesis of European politics  (C) It created a large standing army  (D) It encouraged the centralization of political power in the US  \nAnswer: (B)"
+    },
+    {
+      "question": "Which of the following are possible constraints on US foreign policy decision making?",
+      "choices": [
+        "Foreign policies of other states",
+        "International law",
+        "Intergovernmental organizations",
+        "All of the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following are possible constraints on US foreign policy decision making?\n(A) Foreign policies of other states  (B) International law  (C) Intergovernmental organizations  (D) All of the above  \nAnswer: D"
+    },
+    {
+      "question": "D\u00e9tente, or the relaxing of tensions coupled with firm guarantees of mutual security, represented a shift in American foreign policy toward the communist world ushered in by",
+      "choices": [
+        "Richard Nixon.",
+        "Eugene McCarthy",
+        "Lyndon Johnson.",
+        "Robert Kennedy."
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: D\u00e9tente, or the relaxing of tensions coupled with firm guarantees of mutual security, represented a shift in American foreign policy toward the communist world ushered in by\n(A) Richard Nixon.  (B) Eugene McCarthy  (C) Lyndon Johnson.  (D) Robert Kennedy.  \nAnswer: (A) Richard Nixon.\nYou are an AI"
+    },
+    {
+      "question": "Which of these is not a component of the 'American Creed'?",
+      "choices": [
+        "Liberty",
+        "Equality",
+        "Autocracy",
+        "Individualism"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of these is not a component of the 'American Creed'?\n(A) Liberty  (B) Equality  (C) Autocracy  (D) Individualism  \nAnswer: (C)"
+    },
+    {
+      "question": "During the early years of his administration, Reagan's foreign and defense policies emphasized",
+      "choices": [
+        "nuclear disarmament.",
+        "d\u00e9tente.",
+        "anticommunism.",
+        "international free trade."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: During the early years of his administration, Reagan's foreign and defense policies emphasized\n(A) nuclear disarmament.  (B) d\u00e9tente.  (C) anticommunism.  (D) international free trade.  \nAnswer: (C)"
+    },
+    {
+      "question": "The Vietnam War can be understood as",
+      "choices": [
+        "a war that deeply divided the United States and fostered cynicism toward the American government.",
+        "an example of the doctrine of containment, because U.S. involvement was designed to prevent the fall of South Vietnam to the communists.",
+        "an example of how even a great power may not be able to prevail against a determined enemy unless there is a clear objective and the national will to do so.",
+        "All of the above are true."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: The Vietnam War can be understood as\n(A) a war that deeply divided the United States and fostered cynicism toward the American government.  (B) an example of the doctrine of containment, because U.S. involvement was designed to prevent the fall of South Vietnam to the communists.  (C) an example of how even a great power may not be able to prevail against a determined enemy unless there is a clear objective and the national will to do so.  (D) All of the above are true.  \nAnswer: (D) All of the above are true.\n"
+    },
+    {
+      "question": "The departments of the executive branch that assist the president in designing and carrying out U.S. foreign policy are known as",
+      "choices": [
+        "the United Nations.",
+        "the National Security Council.",
+        "the State Department.",
+        "the National Security Agency."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: The departments of the executive branch that assist the president in designing and carrying out U.S. foreign policy are known as\n(A) the United Nations.  (B) the National Security Council.  (C) the State Department.  (D) the National Security Agency.  \nAnswer: (C)"
+    },
+    {
+      "question": "The largest increase in peacetime defense spending in American history occurred under which president?",
+      "choices": [
+        "Jimmy Carter",
+        "Ronald Reagan",
+        "Bill Clinton",
+        "Dwight Eisenhower"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: The largest increase in peacetime defense spending in American history occurred under which president?\n(A) Jimmy Carter  (B) Ronald Reagan  (C) Bill Clinton  (D) Dwight Eisenhower  \nAnswer: (B)"
+    },
+    {
+      "question": "What caused a public uproar involving the National Security Agency in 2005?",
+      "choices": [
+        "Revelations that the NSA was monitoring the communications of American citizens without obtaining warrants",
+        "A leaked memo that linked the events of September 11, 2001, with the Democratic National Committee",
+        "Revelations that the NSA had tortured prisoners at Guantanamo, Cuba",
+        "A scathing report condemning the George W. Bush administration for \"building a case for the war in Iraq on a quicksand foundation\""
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: What caused a public uproar involving the National Security Agency in 2005?\n(A) Revelations that the NSA was monitoring the communications of American citizens without obtaining warrants  (B) A leaked memo that linked the events of September 11, 2001, with the Democratic National Committee  (C) Revelations that the NSA had tortured prisoners at Guantanamo, Cuba  (D) A scathing report condemning the George W. Bush administration for \"building a case for the war in Iraq on a quicksand foundation\"  \nAnswer: (D)"
+    },
+    {
+      "question": "What was the Marshall Plan?",
+      "choices": [
+        "A plan that provided economic assistance to rebuild Europe.",
+        "A plan to provide aid to Greece and Turkey in their stand against Soviet and Soviet-assisted threats",
+        "A plan that provided Europe with military assistance to counter the Soviet threat",
+        "The plan designed to stop communism in Asia"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: What was the Marshall Plan?\n(A) A plan that provided economic assistance to rebuild Europe.  (B) A plan to provide aid to Greece and Turkey in their stand against Soviet and Soviet-assisted threats  (C) A plan that provided Europe with military assistance to counter the Soviet threat  (D) The plan designed to stop communism in Asia  \nAnswer: (A)"
+    },
+    {
+      "question": "Bureaucratic politics suggests we should be worried about which of the following with regard to nuclear weapons?",
+      "choices": [
+        "Having the capability to deter the most powerful rival",
+        "Having the capability to deter smaller states",
+        "How nuclear attacks are identified and responded to; who controls the weapons",
+        "Bureaucratic politics provides no information about nuclear proliferation and use"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Bureaucratic politics suggests we should be worried about which of the following with regard to nuclear weapons?\n(A) Having the capability to deter the most powerful rival  (B) Having the capability to deter smaller states  (C) How nuclear attacks are identified and responded to; who controls the weapons  (D) Bureaucratic politics provides no information about nuclear proliferation and use  \nAnswer: (C) How nuclear attacks are identified and responded"
+    },
+    {
+      "question": "According to International Institutionalists, what problems have international institutions been designed to address?",
+      "choices": [
+        "War",
+        "Anarchy",
+        "Collective action and coordination problems",
+        "All of the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: According to International Institutionalists, what problems have international institutions been designed to address?\n(A) War  (B) Anarchy  (C) Collective action and coordination problems  (D) All of the above  \nAnswer: (D)\n\nQuestion: Which of the following best"
+    },
+    {
+      "question": "What was meant by the term 'New World Order'?",
+      "choices": [
+        "A new democratic internationalism led by the United States",
+        "A new balance of power between the US and China",
+        "A new global economic framework",
+        "A new era of globalization"
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: What was meant by the term 'New World Order'?\n(A) A new democratic internationalism led by the United States  (B) A new balance of power between the US and China  (C) A new global economic framework  (D) A new era of globalization  \nAnswer: (D)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "The best known and perhaps most important international organization is",
+      "choices": [
+        "the United Nations.",
+        "the North Atlantic Treaty Organization (NATO).",
+        "the Organization of Petroleum Exporting Countries (OPEC).",
+        "the World Trade Organization (WTO)."
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: The best known and perhaps most important international organization is\n(A) the United Nations.  (B) the North Atlantic Treaty Organization (NATO).  (C) the Organization of Petroleum Exporting Countries (OPEC).  (D) the World Trade Organization (WTO).  \nAnswer: (A)"
+    },
+    {
+      "question": "What was meant by the term 'American multiplication table'?",
+      "choices": [
+        "Increase in the US population",
+        "Increase in US finances",
+        "Increase in US military capability",
+        "Increase in US international influence"
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: What was meant by the term 'American multiplication table'?\n(A) Increase in the US population  (B) Increase in US finances  (C) Increase in US military capability  (D) Increase in US international influence  \nAnswer: (D) Increase in US international influence\nIs"
+    },
+    {
+      "question": "Global and regional international trade agreements work by using which of the following mechanisms?",
+      "choices": [
+        "Reciprocity across multiple issues",
+        "Reputational concerns of the actors",
+        "Side payments for adjusting to the organization (such as the Common Agricultural Policy in the EU)",
+        "ALL of the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Global and regional international trade agreements work by using which of the following mechanisms?\n(A) Reciprocity across multiple issues  (B) Reputational concerns of the actors  (C) Side payments for adjusting to the organization (such as the Common Agricultural Policy in the EU)  (D) ALL of the above  \nAnswer: (D)\n\nQuestion: Which of the following is"
+    },
+    {
+      "question": "Why did Lincoln oppose the southward expansion of the US?",
+      "choices": [
+        "It would have drained the US economically",
+        "It would have involved compromising opposition to slavery",
+        "It would have increased immigration to the US",
+        "None of the above"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Why did Lincoln oppose the southward expansion of the US?\n(A) It would have drained the US economically  (B) It would have involved compromising opposition to slavery  (C) It would have increased immigration to the US  (D) None of the above  \nAnswer: (B)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "Growing tension between the United States and the Soviet Union resulted in a policy that John Foster Dulles referred to as",
+      "choices": [
+        "\"mutual assured destruction.\"",
+        "\"brinkmanship.\"",
+        "\"realism.\"",
+        "\"not in my backyard.\""
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Growing tension between the United States and the Soviet Union resulted in a policy that John Foster Dulles referred to as\n(A) \"mutual assured destruction.\"  (B) \"brinkmanship.\"  (C) \"realism.\"  (D) \"not in my backyard.\"  \nAnswer: (B)"
+    },
+    {
+      "question": "Why do some scholars claim that Reagan 'won the Cold War'?",
+      "choices": [
+        "Reagan's first term military spending pressured the Soviet Union to keep up its international commitments",
+        "Reagan encouraged engagement with the Soviet Union",
+        "Reagan encouraged a softer approach towards communism",
+        "Reagan reduced military spending and this allowed the Soviet Union space to reform"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: Why do some scholars claim that Reagan 'won the Cold War'?\n(A) Reagan's first term military spending pressured the Soviet Union to keep up its international commitments  (B) Reagan encouraged engagement with the Soviet Union  (C) Reagan encouraged a softer approach towards communism  (D) Reagan reduced military spending and this allowed the Soviet Union space to reform  \nAnswer: (A)"
+    },
+    {
+      "question": "What is the implication of American exceptionalism in terms of global economics?",
+      "choices": [
+        "It encourages the use of tariffs",
+        "It encourages nationalization",
+        "It encourages liberalization of global trade",
+        "It encourages redistribution of wealth"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: What is the implication of American exceptionalism in terms of global economics?\n(A) It encourages the use of tariffs  (B) It encourages nationalization  (C) It encourages liberalization of global trade  (D) It encourages redistribution of wealth  \nAnswer: (C)"
+    },
+    {
+      "question": "What were the primary institutions of the liberal international economic order?\nI. GATT\nII. IMF\nIII. World Bank\nIV. NATO",
+      "choices": [
+        "IV only",
+        "II and III",
+        "I, II, and III",
+        "I, II, III, and IV"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: What were the primary institutions of the liberal international economic order?\nI. GATT\nII. IMF\nIII. World Bank\nIV. NATO\n(A) IV only  (B) II and III  (C) I, II, and III  (D) I, II, III, and IV  \nAnswer: C"
+    },
+    {
+      "question": "According to Rosenau, which factor is important to consider in explaining the foreign policy behavior of the United States?",
+      "choices": [
+        "The external environment of the international system",
+        "Domestic environment, government and bureaucracy",
+        "The President's individual personality.",
+        "All of the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: According to Rosenau, which factor is important to consider in explaining the foreign policy behavior of the United States?\n(A) The external environment of the international system  (B) Domestic environment, government and bureaucracy  (C) The President's individual personality.  (D) All of the above  \nAnswer: (D)"
+    },
+    {
+      "question": "How many states in the international system are likely to have nuclear weapons right now?",
+      "choices": [
+        "Fewer than 7",
+        "Between 8 and 15",
+        "Between 16 and 25",
+        "More than 25"
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: How many states in the international system are likely to have nuclear weapons right now?\n(A) Fewer than 7  (B) Between 8 and 15  (C) Between 16 and 25  (D) More than 25  \nAnswer: (D) More than 25\nYou"
+    },
+    {
+      "question": "Why is NSC 68 seen as a turning point in US Cold War Foreign policy?",
+      "choices": [
+        "It indicated the primacy of economic containment",
+        "It indicated a desire to engage with the Soviet Union",
+        "It indicated a shift towards military containment",
+        "It dispensed with the idea of containment"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Why is NSC 68 seen as a turning point in US Cold War Foreign policy?\n(A) It indicated the primacy of economic containment  (B) It indicated a desire to engage with the Soviet Union  (C) It indicated a shift towards military containment  (D) It dispensed with the idea of containment  \nAnswer: (C) It indicated a shift towards military containment"
+    },
+    {
+      "question": "What was meant by the term 'Rogue States'?",
+      "choices": [
+        "States aligned with the USSR during the Cold War",
+        "States outside of the 'family of nations'",
+        "Communist States",
+        "The former Soviet states"
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: What was meant by the term 'Rogue States'?\n(A) States aligned with the USSR during the Cold War  (B) States outside of the 'family of nations'  (C) Communist States  (D) The former Soviet states  \nAnswer: (D)"
+    },
+    {
+      "question": "The foreign policy doctrine that European nations should stay out of Latin America is known as",
+      "choices": [
+        "the Powell Doctrine.",
+        "the Roosevelt Doctrine.",
+        "the Bush Doctrine.",
+        "the Monroe Doctrine."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: The foreign policy doctrine that European nations should stay out of Latin America is known as\n(A) the Powell Doctrine.  (B) the Roosevelt Doctrine.  (C) the Bush Doctrine.  (D) the Monroe Doctrine.  \nAnswer: (D)"
+    },
+    {
+      "question": "Why do contemporary European liberal democrats tend to object to the influence of exceptionalism on American foreign policy?",
+      "choices": [
+        "They see it as a challenge to European global influence",
+        "They see it as an ideological fa\u00e7ade for US imperialism",
+        "They see it as a temporary phenomenon",
+        "None of the above"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Why do contemporary European liberal democrats tend to object to the influence of exceptionalism on American foreign policy?\n(A) They see it as a challenge to European global influence  (B) They see it as an ideological fa\u00e7ade for US imperialism  (C) They see it as a temporary phenomenon  (D) None of the above  \nAnswer: (B) They see it as an ideological fa\u00e7"
+    },
+    {
+      "question": "In what sense might exceptionalism link isolationist and internationalist strategies?",
+      "choices": [
+        "Both encourage world government",
+        "Both focus on the decline of the American power",
+        "It doesn't - the two are fundamentally opposed",
+        "Both can be viewed as different means of achieving the same liberal ends"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: In what sense might exceptionalism link isolationist and internationalist strategies?\n(A) Both encourage world government  (B) Both focus on the decline of the American power  (C) It doesn't - the two are fundamentally opposed  (D) Both can be viewed as different means of achieving the same liberal ends  \nAnswer: D\n\nQuestion: Which of the following best describes"
+    },
+    {
+      "question": "Why do realists tend to object to the influence of exceptionalism on American foreign policy?",
+      "choices": [
+        "It leads to a diminished focus on collective security",
+        "It diminishes the prospects for world government",
+        "It enhances the prospects for world government",
+        "It leads to a diminished focus on security, power and interest"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Why do realists tend to object to the influence of exceptionalism on American foreign policy?\n(A) It leads to a diminished focus on collective security  (B) It diminishes the prospects for world government  (C) It enhances the prospects for world government  (D) It leads to a diminished focus on security, power and interest  \nAnswer: (D)"
+    },
+    {
+      "question": "What features distinguish Socio-Economic accounts of US Cold War foreign policy?",
+      "choices": [
+        "A focus on class and economic interests",
+        "A focus on liberal ideology",
+        "A focus on language and culture",
+        "All of the above"
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: What features distinguish Socio-Economic accounts of US Cold War foreign policy?\n(A) A focus on class and economic interests  (B) A focus on liberal ideology  (C) A focus on language and culture  (D) All of the above  \nAnswer: (D)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "What did Paul Kennedy argue in his book The Rise and Fall of the Great Powers?",
+      "choices": [
+        "All of the world's leading economies were declining due to low growth and inflation",
+        "The United States could no longer remain a superpower and was in decline",
+        "The soft power of the United States would allow it to avoid decline",
+        "The rise of Japan had been exaggerated"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: What did Paul Kennedy argue in his book The Rise and Fall of the Great Powers?\n(A) All of the world's leading economies were declining due to low growth and inflation  (B) The United States could no longer remain a superpower and was in decline  (C) The soft power of the United States would allow it to avoid decline  (D) The rise of Japan had been exaggerated  \nAnswer: (B)"
+    },
+    {
+      "question": "The Joint Chiefs of Staff is made up of",
+      "choices": [
+        "the critical domestic and foreign policy advisers to the president.",
+        "foreign policy advisers who meet with the president daily.",
+        "the commanding officers of each branch of the armed services, along with a chairperson and vice chairperson.",
+        "the highest-ranking generals in the U.S. Army."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: The Joint Chiefs of Staff is made up of\n(A) the critical domestic and foreign policy advisers to the president.  (B) foreign policy advisers who meet with the president daily.  (C) the commanding officers of each branch of the armed services, along with a chairperson and vice chairperson.  (D) the highest-ranking generals in the U.S. Army.  \nAnswer: (C)"
+    },
+    {
+      "question": "What is American exceptionalism?",
+      "choices": [
+        "The belief that the United States is different from other major powers because it is concerned not only with Power, but also with Principles.",
+        "The belief that the United States is different because it is the most powerful nation in the world.",
+        "The belief that the United States is pacifist.",
+        "The belief that the United States is different because it is motivated more by economic factors than other countries are."
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: What is American exceptionalism?\n(A) The belief that the United States is different from other major powers because it is concerned not only with Power, but also with Principles.  (B) The belief that the United States is different because it is the most powerful nation in the world.  (C) The belief that the United States is pacifist.  (D) The belief that the United States is different because it is motivated more by economic factors than other countries are.  \nAnswer: (A) The belief that the United States is"
+    },
+    {
+      "question": "The role of gathering and interpreting intelligence about foreign countries in order to allow policymakers to make good foreign policy decisions was given to",
+      "choices": [
+        "the Central Intelligence Agency (CIA).",
+        "the Federal Bureau of Investigation (FBI).",
+        "the National Security Council.",
+        "Both A and B are correct."
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: The role of gathering and interpreting intelligence about foreign countries in order to allow policymakers to make good foreign policy decisions was given to\n(A) the Central Intelligence Agency (CIA).  (B) the Federal Bureau of Investigation (FBI).  (C) the National Security Council.  (D) Both A and B are correct.  \nAnswer: (D) Both A and B are correct.\n\n"
+    },
+    {
+      "question": "The cooperative international organization of 185 countries designed to stabilize the exchange of currencies and the world economy is",
+      "choices": [
+        "the World Bank.",
+        "the United Nations.",
+        "UNICEF.",
+        "the International Monetary Fund."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: The cooperative international organization of 185 countries designed to stabilize the exchange of currencies and the world economy is\n(A) the World Bank.  (B) the United Nations.  (C) UNICEF.  (D) the International Monetary Fund.  \nAnswer: (D)"
+    },
+    {
+      "question": "What policies are part of a grand strategy of Offshore Balancing?",
+      "choices": [
+        "Maintaining a balance between the United States and other countries and not entering into alliances",
+        "Investing equally in domestic and international security with balanced protection against terrorism and other states",
+        "Embrace multi-polarity, show greater restraint internationally and require other states to meet their own security burdens.",
+        "Isolate the US from the international system and not seek global power"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: What policies are part of a grand strategy of Offshore Balancing?\n(A) Maintaining a balance between the United States and other countries and not entering into alliances  (B) Investing equally in domestic and international security with balanced protection against terrorism and other states  (C) Embrace multi-polarity, show greater restraint internationally and require other states to meet their own security burdens.  (D) Isolate the US from the international system and not seek global power  \nAnswer: (C)"
+    },
+    {
+      "question": "What was the Marshall plan?",
+      "choices": [
+        "A plan designed to aid the economy recovery of Europe",
+        "An attempt to diminish the potential attraction of the Soviet system to Europeans",
+        "An aid programme that embedded US influence in Europe",
+        "All of the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: What was the Marshall plan?\n(A) A plan designed to aid the economy recovery of Europe  (B) An attempt to diminish the potential attraction of the Soviet system to Europeans  (C) An aid programme that embedded US influence in Europe  (D) All of the above  \nAnswer: (D)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "What accounted for the US avoidance of catastrophe at the hands of the British in 1814?",
+      "choices": [
+        "Naval victories",
+        "Diplomacy",
+        "British preoccupation with Europe",
+        "All of the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: What accounted for the US avoidance of catastrophe at the hands of the British in 1814?\n(A) Naval victories  (B) Diplomacy  (C) British preoccupation with Europe  (D) All of the above  \nAnswer: (D)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "What was a main organizational change proposed by the 9/11 Commission with regard to the U.S. intelligence community?",
+      "choices": [
+        "Creation of the Department of Homeland Security",
+        "Moving the Department of Defense Intelligence Agencies to the CIA for better coordination",
+        "Creation of the National Intelligence Director",
+        "Moving the domestic intelligence component of the FBI to the CIA"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: What was a main organizational change proposed by the 9/11 Commission with regard to the U.S. intelligence community?\n(A) Creation of the Department of Homeland Security  (B) Moving the Department of Defense Intelligence Agencies to the CIA for better coordination  (C) Creation of the National Intelligence Director  (D) Moving the domestic intelligence component of the FBI to the CIA  \nAnswer: (C)"
+    },
+    {
+      "question": "The government body formed to coordinate American foreign and military policy is known as",
+      "choices": [
+        "the National Security Council.",
+        "the Pentagon.",
+        "the Defense Policy Institute.",
+        "the Joint Chiefs of Staff."
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: The government body formed to coordinate American foreign and military policy is known as\n(A) the National Security Council.  (B) the Pentagon.  (C) the Defense Policy Institute.  (D) the Joint Chiefs of Staff.  \nAnswer: (D)"
+    },
+    {
+      "question": "What drives US foreign policy according to the Marxist perspective?",
+      "choices": [
+        "Economic protectionism",
+        "Class consciousness",
+        "The search for new markets",
+        "Superstructure"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: What drives US foreign policy according to the Marxist perspective?\n(A) Economic protectionism  (B) Class consciousness  (C) The search for new markets  (D) Superstructure  \nAnswer: (C)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "Why might American exceptionalism lead to opposition to world government?",
+      "choices": [
+        "Its general anti-statism opposes centralized government",
+        "It views world government as impractical",
+        "It views the UN as a sufficient form of global governance",
+        "None of the above"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: Why might American exceptionalism lead to opposition to world government?\n(A) Its general anti-statism opposes centralized government  (B) It views world government as impractical  (C) It views the UN as a sufficient form of global governance  (D) None of the above  \nAnswer: (A)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "Which of the following considers states to be the primary actors in international relations?",
+      "choices": [
+        "Realism",
+        "Idealism",
+        "Liberalism",
+        "None of the above"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: Which of the following considers states to be the primary actors in international relations?\n(A) Realism  (B) Idealism  (C) Liberalism  (D) None of the above  \nAnswer: (A)"
+    },
+    {
+      "question": "The importance of oil in shaping U.S. foreign policy helps to highlight",
+      "choices": [
+        "the importance of military superiority.",
+        "how the importance of oil is often overexaggerated.",
+        "the increasing importance of economic instruments of foreign policy.",
+        "the need to drill for domestic sources."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: The importance of oil in shaping U.S. foreign policy helps to highlight\n(A) the importance of military superiority.  (B) how the importance of oil is often overexaggerated.  (C) the increasing importance of economic instruments of foreign policy.  (D) the need to drill for domestic sources.  \nAnswer: (C)"
+    },
+    {
+      "question": "The president's principal civilian adviser on the military is the",
+      "choices": [
+        "national security adviser.",
+        "director of the CIA.",
+        "secretary of defense.",
+        "secretary of state."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: The president's principal civilian adviser on the military is the\n(A) national security adviser.  (B) director of the CIA.  (C) secretary of defense.  (D) secretary of state.  \nAnswer: (C)"
+    },
+    {
+      "question": "How do Ideational approaches to US foreign policy during the Cold War differ from Realist accounts of the same period?",
+      "choices": [
+        "They place greater emphasis on economic factors",
+        "They place greater emphasis on material interests and power",
+        "They place greater emphasis on ideology and beliefs",
+        "They place greater emphasis on geopolitics"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: How do Ideational approaches to US foreign policy during the Cold War differ from Realist accounts of the same period?\n(A) They place greater emphasis on economic factors  (B) They place greater emphasis on material interests and power  (C) They place greater emphasis on ideology and beliefs  (D) They place greater emphasis on geopolitics  \nAnswer: (C) They place greater emphasis on ideology and"
+    },
+    {
+      "question": "How did the relationship between President and Congress develop under George H.W. Bush and Bill Clinton?",
+      "choices": [
+        "Congress asserted its primacy in foreign policy",
+        "US foreign policy became substantially decentralized",
+        "The Presidency welcomed the influence of Congress",
+        "None of the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: How did the relationship between President and Congress develop under George H.W. Bush and Bill Clinton?\n(A) Congress asserted its primacy in foreign policy  (B) US foreign policy became substantially decentralized  (C) The Presidency welcomed the influence of Congress  (D) None of the above  \nAnswer: (C)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "Which of the following points supports the argument for American unilateralism?",
+      "choices": [
+        "Benevolent hegemony",
+        "Ineffectiveness of multilateralism",
+        "American power",
+        "All of the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following points supports the argument for American unilateralism?\n(A) Benevolent hegemony  (B) Ineffectiveness of multilateralism  (C) American power  (D) All of the above  \nAnswer: (D)\n\nQuestion: Which of the following best"
+    },
+    {
+      "question": "Historically, what has been the general pattern of defense spending in the United States?",
+      "choices": [
+        "Steady increases over time.",
+        "Increased spending during wars, with demobilization bringing spending down but not back to prewar levels",
+        "Unpredictable fluctuations.",
+        "Increased spending during wars, with further increases after the war to prepare for future engagements."
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: Historically, what has been the general pattern of defense spending in the United States?\n(A) Steady increases over time.  (B) Increased spending during wars, with demobilization bringing spending down but not back to prewar levels  (C) Unpredictable fluctuations.  (D) Increased spending during wars, with further increases after the war to prepare for future engagements.  \nAnswer: (D) Increased spending during wars, with further"
+    },
+    {
+      "question": "International development may be tied to the security of the state, why?",
+      "choices": [
+        "Threats to the state centralize political and economic power, threatening state development",
+        "Too many casualties drain the productive power of the state",
+        "Threats to the state encourage socialism",
+        "The two are correlated, but there is no causal effect"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: International development may be tied to the security of the state, why?\n(A) Threats to the state centralize political and economic power, threatening state development  (B) Too many casualties drain the productive power of the state  (C) Threats to the state encourage socialism  (D) The two are correlated, but there is no causal effect  \nAnswer: (A) Threats to the state centralize"
+    },
+    {
+      "question": "What was the 'Domino Theory'?",
+      "choices": [
+        "The idea that the Cold War operated according to the principles of game theory",
+        "The idea that certain states were of higher value than others to the US during the Cold War",
+        "The idea that the fall of one state to communism would inexorably lead to the fall of its neighbors",
+        "The idea that the growth of democracy in one state would inexorably lead to its growth in others"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: What was the 'Domino Theory'?\n(A) The idea that the Cold War operated according to the principles of game theory  (B) The idea that certain states were of higher value than others to the US during the Cold War  (C) The idea that the fall of one state to communism would inexorably lead to the fall of its neighbors  (D) The idea that the growth of democracy in one state would inexorably lead to its growth in others  \nAnswer: (C)"
+    },
+    {
+      "question": "What has been an effective way of disbursing US foreign aid to encourage change in target states?",
+      "choices": [
+        "Conditional programs, such as the Millennium Challenge, that require change before receipt of aid",
+        "the use of intergovernmental organizations to monitor aid disbursement",
+        "withdrawal of aid for bad policies",
+        "None of the above, international aid never works"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: What has been an effective way of disbursing US foreign aid to encourage change in target states?\n(A) Conditional programs, such as the Millennium Challenge, that require change before receipt of aid  (B) the use of intergovernmental organizations to monitor aid disbursement  (C) withdrawal of aid for bad policies  (D) None of the above, international aid never works  \nAnswer: (B)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "What was established at Bretton Woods in 1994 to stabilize the global economy?",
+      "choices": [
+        "The International Monetary Fund (IMF)",
+        "The US Dollar as the world's reserve currency",
+        "The General Agreement on Tariffs and Trade (GATT)",
+        "All of the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: What was established at Bretton Woods in 1994 to stabilize the global economy?\n(A) The International Monetary Fund (IMF)  (B) The US Dollar as the world's reserve currency  (C) The General Agreement on Tariffs and Trade (GATT)  (D) All of the above  \nAnswer: (D)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "Which of the following is NOT a good predictor of which states will get nuclear weapons?",
+      "choices": [
+        "Receipt of sensitive nuclear assistance",
+        "Wealth/GDP",
+        "Rivalry with a nuclear state",
+        "Regime type"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following is NOT a good predictor of which states will get nuclear weapons?\n(A) Receipt of sensitive nuclear assistance  (B) Wealth/GDP  (C) Rivalry with a nuclear state  (D) Regime type  \nAnswer: (B) Wealth/GDP\n\nQuestion: Which"
+    },
+    {
+      "question": "What was 'democratic enlargement'?",
+      "choices": [
+        "A proposal for reform of the US system of government",
+        "A proposal for the extension of democratic rule globally",
+        "A proposal for the extension of free markets",
+        "Both b and c"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: What was 'democratic enlargement'?\n(A) A proposal for reform of the US system of government  (B) A proposal for the extension of democratic rule globally  (C) A proposal for the extension of free markets  (D) Both b and c  \nAnswer: (B)"
+    },
+    {
+      "question": "What is meant by the phrase 'empire by invitation'?",
+      "choices": [
+        "Voluntary reliance on an external power for security",
+        "Willful openness to colonization",
+        "Cultural imperialism",
+        "Open advocacy of imperialism for economic gain"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: What is meant by the phrase 'empire by invitation'?\n(A) Voluntary reliance on an external power for security  (B) Willful openness to colonization  (C) Cultural imperialism  (D) Open advocacy of imperialism for economic gain  \nAnswer: (A)"
+    },
+    {
+      "question": "In what way did the George W Bush administration change the direction of US foreign policy?",
+      "choices": [
+        "It criticized international organizations, rather than trying to strengthen them",
+        "It expanded NATO to include former Soviet states",
+        "It focused on a more personal style of leadership",
+        "It increased international support for the United States"
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: In what way did the George W Bush administration change the direction of US foreign policy?\n(A) It criticized international organizations, rather than trying to strengthen them  (B) It expanded NATO to include former Soviet states  (C) It focused on a more personal style of leadership  (D) It increased international support for the United States  \nAnswer: (D)"
+    },
+    {
+      "question": "Peace, commerce, and honest friendship with all nations, entangling alliances with none'. Identify the speaker.",
+      "choices": [
+        "James Madison",
+        "Abraham Lincoln",
+        "Woodrow Wilson",
+        "Thomas Jefferson"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Peace, commerce, and honest friendship with all nations, entangling alliances with none'. Identify the speaker.\n(A) James Madison  (B) Abraham Lincoln  (C) Woodrow Wilson  (D) Thomas Jefferson  \nAnswer: (D) Thomas Jefferson\n\nQuestion: Which of"
+    }
+  ]
+}

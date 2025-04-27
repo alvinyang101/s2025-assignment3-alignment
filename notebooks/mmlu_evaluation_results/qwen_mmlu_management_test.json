@@ -1,0 +1,1241 @@
+{
+  "accuracy": 0.6213592233009708,
+  "results": [
+    {
+      "question": "What is the term for a sub-optimal but acceptable outcome of negotiations between parties?",
+      "choices": [
+        "Bargaining",
+        "Satisficing",
+        "Accepting",
+        "Compromising"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: What is the term for a sub-optimal but acceptable outcome of negotiations between parties?\n(A) Bargaining  (B) Satisficing  (C) Accepting  (D) Compromising  \nAnswer: (B)"
+    },
+    {
+      "question": "What is the term for the 'rule of thumb' type of bias in decision making?",
+      "choices": [
+        "Framing bias",
+        "Hindsight bias",
+        "Over-confidence bias",
+        "Heuristics"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: What is the term for the 'rule of thumb' type of bias in decision making?\n(A) Framing bias  (B) Hindsight bias  (C) Over-confidence bias  (D) Heuristics  \nAnswer: (D)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "What is a normative perspective?",
+      "choices": [
+        "The way things are.",
+        "The way things are going to be.",
+        "The way things should be.",
+        "The way things were."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: What is a normative perspective?\n(A) The way things are.  (B) The way things are going to be.  (C) The way things should be.  (D) The way things were.  \nAnswer: (C) The way things should be.\nYou"
+    },
+    {
+      "question": "In the 'five forces model', what is the type of competitive activity that exists between organisations?",
+      "choices": [
+        "The potential for entry into the industry",
+        "The threat of substitute products",
+        "The power of customers",
+        "The level of rivalry"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: In the 'five forces model', what is the type of competitive activity that exists between organisations?\n(A) The potential for entry into the industry  (B) The threat of substitute products  (C) The power of customers  (D) The level of rivalry  \nAnswer: D"
+    },
+    {
+      "question": "Which one of the following political leaders could not be termed a 'transformational' leader?",
+      "choices": [
+        "Margaret Thatcher",
+        "Mikhail Gorbachov",
+        "Nelson Mandela",
+        "Bill Clinton"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Which one of the following political leaders could not be termed a 'transformational' leader?\n(A) Margaret Thatcher  (B) Mikhail Gorbachov  (C) Nelson Mandela  (D) Bill Clinton  \nAnswer: (B)"
+    },
+    {
+      "question": "What is a Gantt chart a type of?",
+      "choices": [
+        "Work flow design",
+        "Work schedule design",
+        "Work rate design",
+        "Work output design"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: What is a Gantt chart a type of?\n(A) Work flow design  (B) Work schedule design  (C) Work rate design  (D) Work output design  \nAnswer: (B)"
+    },
+    {
+      "question": "Which one of the following is a feature of McGregor's Theory X?",
+      "choices": [
+        "Workers enjoy responsibility.",
+        "Workers view physical and mental effort as a natural part of work.",
+        "Workers like to show initiative.",
+        "Workers like to be directed."
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Which one of the following is a feature of McGregor's Theory X?\n(A) Workers enjoy responsibility.  (B) Workers view physical and mental effort as a natural part of work.  (C) Workers like to show initiative.  (D) Workers like to be directed.  \nAnswer: (B)"
+    },
+    {
+      "question": "What is the term for power derived from status or position in an organisation?",
+      "choices": [
+        "Referent",
+        "Expert",
+        "Reward",
+        "Legitimate"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: What is the term for power derived from status or position in an organisation?\n(A) Referent  (B) Expert  (C) Reward  (D) Legitimate  \nAnswer: (D)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "Which writer is most associated with bureaucratic structures?",
+      "choices": [
+        "Henry Fayol",
+        "Max Weber",
+        "Adam Smith",
+        "Mary Parker Follett"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Which writer is most associated with bureaucratic structures?\n(A) Henry Fayol  (B) Max Weber  (C) Adam Smith  (D) Mary Parker Follett  \nAnswer: (B)"
+    },
+    {
+      "question": "Who of the following is the industrial philanthropist?",
+      "choices": [
+        "Frederick Taylor",
+        "Seebohm Rowntree",
+        "Henry Ford",
+        "Max Weber"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Who of the following is the industrial philanthropist?\n(A) Frederick Taylor  (B) Seebohm Rowntree  (C) Henry Ford  (D) Max Weber  \nAnswer: (B) Seebohm Rowntree\n"
+    },
+    {
+      "question": "Individualism as a guiding moral philosophy was advocated by which economist?",
+      "choices": [
+        "John Kenneth Galbraith",
+        "John Maynard Keynes",
+        "Milton Friedman",
+        "Alfred Marshall"
+      ],
+      "ground_truth": "C",
+      "prediction": "D",
+      "raw_output": "Question: Individualism as a guiding moral philosophy was advocated by which economist?\n(A) John Kenneth Galbraith  (B) John Maynard Keynes  (C) Milton Friedman  (D) Alfred Marshall  \nAnswer: (D) Alfred Marshall\nYou are an AI"
+    },
+    {
+      "question": "The Hawthorn Studies are most associated with which writer?",
+      "choices": [
+        "Mary Parker Follett",
+        "Elton Mayo",
+        "Lillian Gilbreth",
+        "Frederick Taylor"
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: The Hawthorn Studies are most associated with which writer?\n(A) Mary Parker Follett  (B) Elton Mayo  (C) Lillian Gilbreth  (D) Frederick Taylor  \nAnswer: (D) Frederick Taylor\nYou are an AI"
+    },
+    {
+      "question": "How can you describe the thinking and outlook of transformational leaders?",
+      "choices": [
+        "Strategic",
+        "Operational",
+        "Functional",
+        "Developmental"
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: How can you describe the thinking and outlook of transformational leaders?\n(A) Strategic  (B) Operational  (C) Functional  (D) Developmental  \nAnswer: (D)\nQuestion: What is the primary goal"
+    },
+    {
+      "question": "What are the key characteristics of transactional leaders?",
+      "choices": [
+        "Guiding, mentoring and motivating",
+        "Guiding, commanding and motivating",
+        "Guiding, demonstrating and motivating",
+        "Guiding, mentoring and demonstrating"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: What are the key characteristics of transactional leaders?\n(A) Guiding, mentoring and motivating  (B) Guiding, commanding and motivating  (C) Guiding, demonstrating and motivating  (D) Guiding, mentoring and demonstrating  \nAnswer: (B)\nQuestion: What is the primary purpose"
+    },
+    {
+      "question": "What is not an assumption underpinning the rational decision making model?",
+      "choices": [
+        "Incomplete information",
+        "An agreed goal",
+        "A structured problem",
+        "High level of certainty regarding the environment"
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: What is not an assumption underpinning the rational decision making model?\n(A) Incomplete information  (B) An agreed goal  (C) A structured problem  (D) High level of certainty regarding the environment  \nAnswer: (D) High level of certainty regarding the environment"
+    },
+    {
+      "question": "Which one of the following is not one of Drucker's five guiding principles of management?",
+      "choices": [
+        "Making people's strengths effective and their weaknesses irrelevant.",
+        "Enhancing the ability of people to contribute.",
+        "To operate the organisation's status system.",
+        "Integrating people in a common venture by thinking through, setting and exemplifying the organisational objectives, values and goals."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which one of the following is not one of Drucker's five guiding principles of management?\n(A) Making people's strengths effective and their weaknesses irrelevant.  (B) Enhancing the ability of people to contribute.  (C) To operate the organisation's status system.  (D) Integrating people in a common venture by thinking through, setting and exemplifying the organisational objectives, values and goals.  \nAnswer: C"
+    },
+    {
+      "question": "What is a paradigm?",
+      "choices": [
+        "A theoretical assumption",
+        "An illustration",
+        "A theoretical model",
+        "An example serving as a model"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: What is a paradigm?\n(A) A theoretical assumption  (B) An illustration  (C) A theoretical model  (D) An example serving as a model  \nAnswer: (C) A theoretical model\nYou are an"
+    },
+    {
+      "question": "What one of the following is not a key management skill in planning?",
+      "choices": [
+        "Conceptual skills",
+        "Analytical skills",
+        "IT and computing skills",
+        "Communication skills"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: What one of the following is not a key management skill in planning?\n(A) Conceptual skills  (B) Analytical skills  (C) IT and computing skills  (D) Communication skills  \nAnswer: C"
+    },
+    {
+      "question": "According to Belbin (1981) an extroverted and enthusiastic person fits with what role?",
+      "choices": [
+        "Co-ordinator",
+        "Shaper",
+        "Resource investigator",
+        "Implementer"
+      ],
+      "ground_truth": "C",
+      "prediction": "A",
+      "raw_output": "Question: According to Belbin (1981) an extroverted and enthusiastic person fits with what role?\n(A) Co-ordinator  (B) Shaper  (C) Resource investigator  (D) Implementer  \nAnswer: (A) Co-ordinator\n(A) Co"
+    },
+    {
+      "question": "Which is not a recognised form of business continuity planning?",
+      "choices": [
+        "Contingency planning",
+        "Scenario planning",
+        "Financial planning",
+        "Building planning"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: Which is not a recognised form of business continuity planning?\n(A) Contingency planning  (B) Scenario planning  (C) Financial planning  (D) Building planning  \nAnswer: (C)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "What is the term for an organisation that adapts to changes in the environment by quickly responding to shifts in supply and demand conditions?",
+      "choices": [
+        "Opportunistic organisation",
+        "Enterprising organisation",
+        "International organisation",
+        "Agile organisation"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: What is the term for an organisation that adapts to changes in the environment by quickly responding to shifts in supply and demand conditions?\n(A) Opportunistic organisation  (B) Enterprising organisation  (C) International organisation  (D) Agile organisation  \nAnswer: (D) Agile organisation\nYou are an AI"
+    },
+    {
+      "question": "Which of these is not part of the recognised challenges for modern managers?",
+      "choices": [
+        "Micro-managing the workforce",
+        "Managing communications",
+        "Managing change",
+        "Managing the learning organisation"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: Which of these is not part of the recognised challenges for modern managers?\n(A) Micro-managing the workforce  (B) Managing communications  (C) Managing change  (D) Managing the learning organisation  \nAnswer: (B)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "To what does emotional intelligence refer?",
+      "choices": [
+        "How people view and understand the world.",
+        "How people view and understand themselves.",
+        "How people view and understand others.",
+        "How people view and understand themselves and others."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: To what does emotional intelligence refer?\n(A) How people view and understand the world.  (B) How people view and understand themselves.  (C) How people view and understand others.  (D) How people view and understand themselves and others.  \nAnswer: (D) How people view and understand themselves and"
+    },
+    {
+      "question": "Of what is individual freedom to schedule work an example?",
+      "choices": [
+        "Job design",
+        "Job enrichment",
+        "Job rate",
+        "Job planning"
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: Of what is individual freedom to schedule work an example?\n(A) Job design  (B) Job enrichment  (C) Job rate  (D) Job planning  \nAnswer: (D) Job planning\nYou are an AI"
+    },
+    {
+      "question": "What are workers primarily motivated by according to the instrumental approach?",
+      "choices": [
+        "Peer recognition",
+        "Promotion",
+        "Greater freedom",
+        "Economic reward"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: What are workers primarily motivated by according to the instrumental approach?\n(A) Peer recognition  (B) Promotion  (C) Greater freedom  (D) Economic reward  \nAnswer: (D) Economic reward\nYou are an AI"
+    },
+    {
+      "question": "Which is not a characteristic of corporate social responsibility?",
+      "choices": [
+        "Product safety",
+        "Consumer rights",
+        "Environmental policies",
+        "Price-fixing"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which is not a characteristic of corporate social responsibility?\n(A) Product safety  (B) Consumer rights  (C) Environmental policies  (D) Price-fixing  \nAnswer: (D) Price-fixing\nYou are an"
+    },
+    {
+      "question": "Who was a major protagonist of utilitarianism?",
+      "choices": [
+        "John Stuart Mill",
+        "Thomas Hobbes",
+        "Karl Marx",
+        "Adam Smith"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: Who was a major protagonist of utilitarianism?\n(A) John Stuart Mill  (B) Thomas Hobbes  (C) Karl Marx  (D) Adam Smith  \nAnswer: (A)"
+    },
+    {
+      "question": "As what is ensuring that one individual does not carry the burden of a whole work task referred to?",
+      "choices": [
+        "Work specialisation",
+        "Work design",
+        "Work schedule",
+        "Work shift"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: As what is ensuring that one individual does not carry the burden of a whole work task referred to?\n(A) Work specialisation  (B) Work design  (C) Work schedule  (D) Work shift  \nAnswer: (B)"
+    },
+    {
+      "question": "How do you describe a work group that comprises workers with demarcated tasks and distant line managers?",
+      "choices": [
+        "Dependent",
+        "Independent",
+        "Interdependent",
+        "Collaborative"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: How do you describe a work group that comprises workers with demarcated tasks and distant line managers?\n(A) Dependent  (B) Independent  (C) Interdependent  (D) Collaborative  \nAnswer: (C) Interdependent\nYou are an AI"
+    },
+    {
+      "question": "Specialisation is a feature of which organisational structure?",
+      "choices": [
+        "Matrix",
+        "Divisional",
+        "Multi-divisional",
+        "Functional"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: Specialisation is a feature of which organisational structure?\n(A) Matrix  (B) Divisional  (C) Multi-divisional  (D) Functional  \nAnswer: (C)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "Which one is not an element in the primary activities of a value chain?",
+      "choices": [
+        "Procurement",
+        "Inbound logistics",
+        "Outbound logistics",
+        "Service"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: Which one is not an element in the primary activities of a value chain?\n(A) Procurement  (B) Inbound logistics  (C) Outbound logistics  (D) Service  \nAnswer: (B) Inbound logistics\nAnswer: ("
+    },
+    {
+      "question": "What is the term for the act of getting individuals to behave in ways that are acceptable to a group?",
+      "choices": [
+        "Indoctrination",
+        "Brainwashing",
+        "Propaganda",
+        "Socialisation"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: What is the term for the act of getting individuals to behave in ways that are acceptable to a group?\n(A) Indoctrination  (B) Brainwashing  (C) Propaganda  (D) Socialisation  \nAnswer: (D)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "When does an acquisition take place?",
+      "choices": [
+        "Two equal partners decide to work together.",
+        "Two equal partners share resources.",
+        "Two unequal partners join together.",
+        "Two unequal partners become one after a buyout."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: When does an acquisition take place?\n(A) Two equal partners decide to work together.  (B) Two equal partners share resources.  (C) Two unequal partners join together.  (D) Two unequal partners become one after a buyout.  \nAnswer: (D) Two unequal partners become one after a"
+    },
+    {
+      "question": "Who of these is the entrepreneur?",
+      "choices": [
+        "Barack Obama",
+        "James Dyson",
+        "Damien Hirst",
+        "Mo Farah"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Who of these is the entrepreneur?\n(A) Barack Obama  (B) James Dyson  (C) Damien Hirst  (D) Mo Farah  \nAnswer: (B)"
+    },
+    {
+      "question": "Which of these is not an advantage of a virtual team?",
+      "choices": [
+        "Team members can be recruited for their specific skills or experience.",
+        "No overhead costs associated with physical buildings.",
+        "Conflict can be resolved easily using face-to-face meetings.",
+        "Low transport or commuting costs."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of these is not an advantage of a virtual team?\n(A) Team members can be recruited for their specific skills or experience.  (B) No overhead costs associated with physical buildings.  (C) Conflict can be resolved easily using face-to-face meetings.  (D) Low transport or commuting costs.  \nAnswer: (C)"
+    },
+    {
+      "question": "What is the richest form of information?",
+      "choices": [
+        "Telephone",
+        "Face-to-face",
+        "E-mail",
+        "Video conference"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: What is the richest form of information?\n(A) Telephone  (B) Face-to-face  (C) E-mail  (D) Video conference  \nAnswer: (B)"
+    },
+    {
+      "question": "What is the purpose of a 'quality circle'?",
+      "choices": [
+        "Bring together managers and workers to find improvements.",
+        "Bring together managers and workers to discuss output.",
+        "Bring together managers and workers to review quality of work.",
+        "Bring together managers and workers to review targets."
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: What is the purpose of a 'quality circle'?\n(A) Bring together managers and workers to find improvements.  (B) Bring together managers and workers to discuss output.  (C) Bring together managers and workers to review quality of work.  (D) Bring together managers and workers to review targets.  \nAnswer: (A)"
+    },
+    {
+      "question": "What is the guiding principle behind New Public Management?",
+      "choices": [
+        "Profit maximisation",
+        "Introducing private sector business principles into the public sector",
+        "Replacing public management with private sector management",
+        "Restructuring public organisations"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: What is the guiding principle behind New Public Management?\n(A) Profit maximisation  (B) Introducing private sector business principles into the public sector  (C) Replacing public management with private sector management  (D) Restructuring public organisations  \nAnswer: (B)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "Profitability stemming from how well a firm positions itself in the market is a key feature of which writer's view on strategy?",
+      "choices": [
+        "Peter Drucker",
+        "Jay Barney",
+        "Michael Porter",
+        "Henry Mintzberg"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Profitability stemming from how well a firm positions itself in the market is a key feature of which writer's view on strategy?\n(A) Peter Drucker  (B) Jay Barney  (C) Michael Porter  (D) Henry Mintzberg  \nAnswer: (C) Michael Porter\n\nQuestion: Which of"
+    },
+    {
+      "question": "Functional structures help to create\u0085...",
+      "choices": [
+        "teamwork",
+        "specialisation",
+        "project work groups",
+        "multi-skilled employees"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Functional structures help to create\u0085...\n(A) teamwork  (B) specialisation  (C) project work groups  (D) multi-skilled employees  \nAnswer: (B)"
+    },
+    {
+      "question": "What is a succession plan?",
+      "choices": [
+        "Dismissing an employee for a more favourable employee",
+        "A formal process of planning to fill a role that will become vacant",
+        "A vote of no confidence in a board member",
+        "The formal process of acquiring a new staff member"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: What is a succession plan?\n(A) Dismissing an employee for a more favourable employee  (B) A formal process of planning to fill a role that will become vacant  (C) A vote of no confidence in a board member  (D) The formal process of acquiring a new staff member  \nAnswer: (B) A formal process of planning to fill"
+    },
+    {
+      "question": "What is the definition of a scenario in scenario planning?",
+      "choices": [
+        "An imagined sequence of future events",
+        "An unpredictable event",
+        "A planned for event",
+        "An unplanned for event"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: What is the definition of a scenario in scenario planning?\n(A) An imagined sequence of future events  (B) An unpredictable event  (C) A planned for event  (D) An unplanned for event  \nAnswer: (A)"
+    },
+    {
+      "question": "What assumption is the garbage can model of decision making based on?",
+      "choices": [
+        "Limited knowledge and great insight",
+        "Limited knowledge but high level of experience",
+        "Limited knowledge and uncertainty",
+        "Limited knowledge and high risk"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: What assumption is the garbage can model of decision making based on?\n(A) Limited knowledge and great insight  (B) Limited knowledge but high level of experience  (C) Limited knowledge and uncertainty  (D) Limited knowledge and high risk  \nAnswer: (C)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "By which principle is utilitarianism defined?",
+      "choices": [
+        "Equality for everyone",
+        "Maximisation of outcomes for individuals",
+        "The best outcome for the majority of people",
+        "The least worst outcome for everybody"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: By which principle is utilitarianism defined?\n(A) Equality for everyone  (B) Maximisation of outcomes for individuals  (C) The best outcome for the majority of people  (D) The least worst outcome for everybody  \nAnswer: (C) The best outcome for the majority of"
+    },
+    {
+      "question": "What is the term for the set of behaviours and tasks that a member of the group is expected to perform because he or she is a member of the group?",
+      "choices": [
+        "Group roles",
+        "Virtual teamwork",
+        "Synergy",
+        "Role making"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: What is the term for the set of behaviours and tasks that a member of the group is expected to perform because he or she is a member of the group?\n(A) Group roles  (B) Virtual teamwork  (C) Synergy  (D) Role making  \nAnswer: (A) Group roles\nYou are an AI"
+    },
+    {
+      "question": "What is the term for a process that enables an organisation to assess and demonstrate its social, economic, and environmental benefits and limitation?",
+      "choices": [
+        "Social plan",
+        "Social strategy",
+        "Social audit",
+        "Social account"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: What is the term for a process that enables an organisation to assess and demonstrate its social, economic, and environmental benefits and limitation?\n(A) Social plan  (B) Social strategy  (C) Social audit  (D) Social account  \nAnswer: (C)\nQuestion: What is the term for"
+    },
+    {
+      "question": "What type of organisational culture is most likely to deliver stability and efficiency?",
+      "choices": [
+        "Task culture",
+        "Role culture",
+        "Power culture",
+        "People culture"
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: What type of organisational culture is most likely to deliver stability and efficiency?\n(A) Task culture  (B) Role culture  (C) Power culture  (D) People culture  \nAnswer: (D)\nQuestion: What is the most important"
+    },
+    {
+      "question": "Who of the following is a leading writer on contingency theory of leadership?",
+      "choices": [
+        "Rosabeth Kanter",
+        "Joan Woodward",
+        "Rensis Likert",
+        "Fred Fiedler"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Who of the following is a leading writer on contingency theory of leadership?\n(A) Rosabeth Kanter  (B) Joan Woodward  (C) Rensis Likert  (D) Fred Fiedler  \nAnswer: (B)"
+    },
+    {
+      "question": "What are characteristics of a programmed decision?",
+      "choices": [
+        "Complex and risky",
+        "Uncertain and non-routine",
+        "Low risk and certain",
+        "Routine and non-complex"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: What are characteristics of a programmed decision?\n(A) Complex and risky  (B) Uncertain and non-routine  (C) Low risk and certain  (D) Routine and non-complex  \nAnswer: (B)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "What is not an advantage of a hierarchical structure?",
+      "choices": [
+        "Clear chain of command",
+        "Quick response to change",
+        "Discipline and stability",
+        "Small span of control"
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: What is not an advantage of a hierarchical structure?\n(A) Clear chain of command  (B) Quick response to change  (C) Discipline and stability  (D) Small span of control  \nAnswer: (D)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "What is a strategic alliance?",
+      "choices": [
+        "Any form of partnership between one firm and another",
+        "Formal agreement committing two or more firms to exchange resources to produce products or services",
+        "Formal agreement to share profits from a shared investment",
+        "Formal agreement to share knowledge"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: What is a strategic alliance?\n(A) Any form of partnership between one firm and another  (B) Formal agreement committing two or more firms to exchange resources to produce products or services  (C) Formal agreement to share profits from a shared investment  (D) Formal agreement to share knowledge  \nAnswer: (B)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "What are group norms?",
+      "choices": [
+        "Modes of behaviour that are acceptable to and shared by group members",
+        "Modes of behaviour that are shared by some members of the group",
+        "Modes of behaviour that challenge group values and beliefs",
+        "Modes of behaviour that are different of those of the other group members"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: What are group norms?\n(A) Modes of behaviour that are acceptable to and shared by group members  (B) Modes of behaviour that are shared by some members of the group  (C) Modes of behaviour that challenge group values and beliefs  (D) Modes of behaviour that are different of those of the other group members  \nAnswer: (A) Modes of behaviour that are acceptable to"
+    },
+    {
+      "question": "Which of the following is not a recognised type of plan?",
+      "choices": [
+        "Business",
+        "Succession",
+        "Ad hoc",
+        "Financial"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following is not a recognised type of plan?\n(A) Business  (B) Succession  (C) Ad hoc  (D) Financial  \nAnswer: (C)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "What is the term for the extent to which competition in one country is influenced by competition in other countries?",
+      "choices": [
+        "International trade",
+        "Global economics",
+        "Global competition",
+        "Globalisation"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: What is the term for the extent to which competition in one country is influenced by competition in other countries?\n(A) International trade  (B) Global economics  (C) Global competition  (D) Globalisation  \nAnswer: (C)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "As what are key factors that reflect the situation of an organisation referred to?",
+      "choices": [
+        "Administrations",
+        "Processes",
+        "Activities",
+        "Contingencies"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: As what are key factors that reflect the situation of an organisation referred to?\n(A) Administrations  (B) Processes  (C) Activities  (D) Contingencies  \nAnswer: (D) Contingencies\n\nQuestion: What"
+    },
+    {
+      "question": "Which of these does not form part of the key streams identified by March (1988) in decision making in highly ambiguous environments?",
+      "choices": [
+        "Expectations",
+        "Choice opportunities",
+        "Problems",
+        "Solutions"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: Which of these does not form part of the key streams identified by March (1988) in decision making in highly ambiguous environments?\n(A) Expectations  (B) Choice opportunities  (C) Problems  (D) Solutions  \nAnswer: (C) Problems\n\nQuestion: Which of the"
+    },
+    {
+      "question": "What does PEST stand for?",
+      "choices": [
+        "Political, environmental, strategic, testing",
+        "Political, environmental, strategic, technological",
+        "Political, economic, strategic, technological",
+        "Political, economic, social, technological"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: What does PEST stand for?\n(A) Political, environmental, strategic, testing  (B) Political, environmental, strategic, technological  (C) Political, economic, strategic, technological  (D) Political, economic, social, technological  \nAnswer: (C) Political, economic, strategic, technological"
+    },
+    {
+      "question": "What does the acronym SMART stand for?",
+      "choices": [
+        "Suitable, measurable, actionable, rewarded and timely",
+        "Specific, measurable, actionable, resourced and timely",
+        "Standardised, measurable, achievable, rewarded, and timely",
+        "Specific, measurable, achievable, rewarded and timely"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: What does the acronym SMART stand for?\n(A) Suitable, measurable, actionable, rewarded and timely  (B) Specific, measurable, actionable, resourced and timely  (C) Standardised, measurable, achievable, rewarded, and timely  (D) Specific, measurable, achievable, rewarded and timely  \nAnswer: (B)"
+    },
+    {
+      "question": "Which writer was concerned with the reaction of workers to key characteristics of bureaucracies?",
+      "choices": [
+        "Merton",
+        "Weber",
+        "Gouldner",
+        "Mayo"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: Which writer was concerned with the reaction of workers to key characteristics of bureaucracies?\n(A) Merton  (B) Weber  (C) Gouldner  (D) Mayo  \nAnswer: (B)"
+    },
+    {
+      "question": "What is the optimal span of control?",
+      "choices": [
+        "2",
+        "5",
+        "7",
+        "None of the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: What is the optimal span of control?\n(A) 2  (B) 5  (C) 7  (D) None of the above  \nAnswer: (B) 5\nIs the question answered"
+    },
+    {
+      "question": "What one of these is not a recognised type of authority?",
+      "choices": [
+        "Executive",
+        "Functional",
+        "Line management",
+        "Supplier"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: What one of these is not a recognised type of authority?\n(A) Executive  (B) Functional  (C) Line management  (D) Supplier  \nAnswer: (C) Line management\nIs this answer to"
+    },
+    {
+      "question": "Which one of the following is not a characteristic of a team?",
+      "choices": [
+        "Minimal and formal knowledge sharing",
+        "Collective output",
+        "Individual and collective responsibility",
+        "Fluid dimension to roles and tasks"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: Which one of the following is not a characteristic of a team?\n(A) Minimal and formal knowledge sharing  (B) Collective output  (C) Individual and collective responsibility  (D) Fluid dimension to roles and tasks  \nAnswer: A\n\nQuestion: Which of the following is not"
+    },
+    {
+      "question": "Which of these factors is not one of the competing responsibilities that influence corporate social responsibility?",
+      "choices": [
+        "Ethical",
+        "Economic",
+        "Discretionary",
+        "Technical"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: Which of these factors is not one of the competing responsibilities that influence corporate social responsibility?\n(A) Ethical  (B) Economic  (C) Discretionary  (D) Technical  \nAnswer: (C) Discretionary\n\nQuestion: Which"
+    },
+    {
+      "question": "What is the term used in Ansoff's matrix for increasing market share with existing products in existing markets?",
+      "choices": [
+        "Product development",
+        "Market penetration",
+        "Diversification",
+        "Market development"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: What is the term used in Ansoff's matrix for increasing market share with existing products in existing markets?\n(A) Product development  (B) Market penetration  (C) Diversification  (D) Market development  \nAnswer: (B)"
+    },
+    {
+      "question": "What is characteristic for the location of a virtual team?",
+      "choices": [
+        "In the same building",
+        "In the same industry",
+        "In the same country",
+        "remotely"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: What is characteristic for the location of a virtual team?\n(A) In the same building  (B) In the same industry  (C) In the same country  (D) remotely  \nAnswer: (D)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "According to the Five Factor model, 'extraversion' as a personality type is characterised by what type of people?",
+      "choices": [
+        "Good natured",
+        "Calm and self-confident",
+        "Sensitive and curious",
+        "Assertive and sociable"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: According to the Five Factor model, 'extraversion' as a personality type is characterised by what type of people?\n(A) Good natured  (B) Calm and self-confident  (C) Sensitive and curious  (D) Assertive and sociable  \nAnswer: (D)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "What is the overriding philosophy underpinning the strategic direction of an organisation?",
+      "choices": [
+        "Vision statement",
+        "Mission statement",
+        "Strategy statement",
+        "Business statement"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: What is the overriding philosophy underpinning the strategic direction of an organisation?\n(A) Vision statement  (B) Mission statement  (C) Strategy statement  (D) Business statement  \nAnswer: (C)\nQuestion: What is the primary purpose"
+    },
+    {
+      "question": "What is the term for the action in which managers at an organisation analyse the current situation of their organisation and then develop plans to accomplish its mission and achieve its goals?",
+      "choices": [
+        "Synergy planning",
+        "Strategy formulation",
+        "Functional planning",
+        "SWOT analysis"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: What is the term for the action in which managers at an organisation analyse the current situation of their organisation and then develop plans to accomplish its mission and achieve its goals?\n(A) Synergy planning  (B) Strategy formulation  (C) Functional planning  (D) SWOT analysis  \nAnswer: (B)"
+    },
+    {
+      "question": "What is Frank Gilbreth`s work most noted for?",
+      "choices": [
+        "Working conditions",
+        "Time and motion studies",
+        "Work psychology",
+        "Work as a social setting"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: What is Frank Gilbreth`s work most noted for?\n(A) Working conditions  (B) Time and motion studies  (C) Work psychology  (D) Work as a social setting  \nAnswer: (C)"
+    },
+    {
+      "question": "What is another name for contingency planning?",
+      "choices": [
+        "Synergy planning",
+        "Ad hoc planning",
+        "Business level planning",
+        "Scenario planning"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: What is another name for contingency planning?\n(A) Synergy planning  (B) Ad hoc planning  (C) Business level planning  (D) Scenario planning  \nAnswer: (D)"
+    },
+    {
+      "question": "Which feature does not form one of Fayol's 14 principles of management?",
+      "choices": [
+        "Esprit de corps",
+        "Initiative",
+        "Order",
+        "Individualism"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which feature does not form one of Fayol's 14 principles of management?\n(A) Esprit de corps  (B) Initiative  (C) Order  (D) Individualism  \nAnswer: (D)"
+    },
+    {
+      "question": "What one of the following is not a characteristic of the job characteristics model?",
+      "choices": [
+        "Task identity",
+        "Autonomy",
+        "Reward",
+        "Feedback"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: What one of the following is not a characteristic of the job characteristics model?\n(A) Task identity  (B) Autonomy  (C) Reward  (D) Feedback  \nAnswer: (C)"
+    },
+    {
+      "question": "Workers' acceptance of change is characteristic of what type of culture?",
+      "choices": [
+        "Team culture",
+        "Collaborative culture",
+        "Group culture",
+        "Collective culture"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Workers' acceptance of change is characteristic of what type of culture?\n(A) Team culture  (B) Collaborative culture  (C) Group culture  (D) Collective culture  \nAnswer: (B) Collaborative culture\nYou are an"
+    },
+    {
+      "question": "What is a virtual organisation?",
+      "choices": [
+        "An organisation that uses information and communications technologies (ICT's) to coordinate activities without physical boundaries between different functions",
+        "An organisation that uses internet technologies to sell products to customers",
+        "An organisation that manages the supply chain using digital technologies",
+        "An organisation that coordinates the workforce via video conferencing"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: What is a virtual organisation?\n(A) An organisation that uses information and communications technologies (ICT's) to coordinate activities without physical boundaries between different functions  (B) An organisation that uses internet technologies to sell products to customers  (C) An organisation that manages the supply chain using digital technologies  (D) An organisation that coordinates the workforce via video conferencing  \nAnswer: (A)"
+    },
+    {
+      "question": "From what does a chain of command extend?",
+      "choices": [
+        "Bottom to top",
+        "Top to bottom",
+        "Diagonally",
+        "Laterally"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: From what does a chain of command extend?\n(A) Bottom to top  (B) Top to bottom  (C) Diagonally  (D) Laterally  \nAnswer: (B)"
+    },
+    {
+      "question": "What do you call a style of leadership that takes account of others' views, opinions and ideas?",
+      "choices": [
+        "Laissez-faire",
+        "People-oriented",
+        "Democratic",
+        "Autocratic"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: What do you call a style of leadership that takes account of others' views, opinions and ideas?\n(A) Laissez-faire  (B) People-oriented  (C) Democratic  (D) Autocratic  \nAnswer: (B)"
+    },
+    {
+      "question": "What is the guiding principle of scientific management?",
+      "choices": [
+        "Experimentation",
+        "Fluid working relationships",
+        "Freedom of association",
+        "One best way to do a job"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: What is the guiding principle of scientific management?\n(A) Experimentation  (B) Fluid working relationships  (C) Freedom of association  (D) One best way to do a job  \nAnswer: (D)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "What is the term Tuckman uses for reaching consensus as a group?",
+      "choices": [
+        "Storming",
+        "Performing",
+        "Forming",
+        "Norming"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: What is the term Tuckman uses for reaching consensus as a group?\n(A) Storming  (B) Performing  (C) Forming  (D) Norming  \nAnswer: (C)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "What theory is built around the principle that 'people make choices regarding how to behave based on values and beliefs'?",
+      "choices": [
+        "Expectancy",
+        "Instrumental",
+        "Classical",
+        "Contingency"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: What theory is built around the principle that 'people make choices regarding how to behave based on values and beliefs'?\n(A) Expectancy  (B) Instrumental  (C) Classical  (D) Contingency  \nAnswer: (C)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "What is the term for decisions limited by human capacity to absorb and analyse information?",
+      "choices": [
+        "Cognitive rationality",
+        "Conscious rationality",
+        "Bounded rationality",
+        "Restricted rationality"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: What is the term for decisions limited by human capacity to absorb and analyse information?\n(A) Cognitive rationality  (B) Conscious rationality  (C) Bounded rationality  (D) Restricted rationality  \nAnswer: (C)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "What is a definition of an objective?",
+      "choices": [
+        "A defined specified outcome to be achieved in the long-term",
+        "A clear set of goals to be attained given a set number of resources",
+        "A clearly defined and measurable outcome to be achieved over a specified timeframe",
+        "A set standard of performance agreed by workers and managers"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: What is a definition of an objective?\n(A) A defined specified outcome to be achieved in the long-term  (B) A clear set of goals to be attained given a set number of resources  (C) A clearly defined and measurable outcome to be achieved over a specified timeframe  (D) A set standard of performance agreed by workers and managers  \nAnswer: (C) A clearly defined and measurable outcome to"
+    },
+    {
+      "question": "What is not a purpose of an organisational structure?",
+      "choices": [
+        "To coordinate people and resources",
+        "To organise lines of communication",
+        "To formalise authority",
+        "To limit workers' rights"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: What is not a purpose of an organisational structure?\n(A) To coordinate people and resources  (B) To organise lines of communication  (C) To formalise authority  (D) To limit workers' rights  \nAnswer: (D)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "To what time-frame do strategic plans relate?",
+      "choices": [
+        "Long-term",
+        "Medium-term",
+        "Short-term",
+        "Unspecified time it takes to achieve an aim"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: To what time-frame do strategic plans relate?\n(A) Long-term  (B) Medium-term  (C) Short-term  (D) Unspecified time it takes to achieve an aim  \nAnswer: (C) Short-term\n(A) Long-term"
+    },
+    {
+      "question": "What is the term for organisational development through a formally designed organisational structure?",
+      "choices": [
+        "Organic",
+        "Mechanistic",
+        "Formal",
+        "Structured"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: What is the term for organisational development through a formally designed organisational structure?\n(A) Organic  (B) Mechanistic  (C) Formal  (D) Structured  \nAnswer: (C)\nIs the following a factual statement?\n"
+    },
+    {
+      "question": "'There is no discernible link between planning and performance'. Who is this position held by?",
+      "choices": [
+        "Michael Porter",
+        "Milton Friedman",
+        "Gary Hamel",
+        "Henry Mintzberg"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: 'There is no discernible link between planning and performance'. Who is this position held by?\n(A) Michael Porter  (B) Milton Friedman  (C) Gary Hamel  (D) Henry Mintzberg  \nAnswer: (D)"
+    },
+    {
+      "question": "What does situational theory of leadership emphasise?",
+      "choices": [
+        "Personality traits",
+        "Events",
+        "Environment",
+        "Political situation"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: What does situational theory of leadership emphasise?\n(A) Personality traits  (B) Events  (C) Environment  (D) Political situation  \nAnswer: (B)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "What is intuitive decision making based on?",
+      "choices": [
+        "Guesswork",
+        "Gambling",
+        "Instinct",
+        "Rationality"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: What is intuitive decision making based on?\n(A) Guesswork  (B) Gambling  (C) Instinct  (D) Rationality  \nAnswer: (C)\nIs this statement correct: \"Int"
+    },
+    {
+      "question": "Enhancement of job satisfaction and productivity are key characteristics of which theoretical perspective of work design?",
+      "choices": [
+        "Process improvement",
+        "Techno-structural change model",
+        "Job characteristics model",
+        "Socio-technical systems"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: Enhancement of job satisfaction and productivity are key characteristics of which theoretical perspective of work design?\n(A) Process improvement  (B) Techno-structural change model  (C) Job characteristics model  (D) Socio-technical systems  \nAnswer: (C) Job characteristics model\n\nQuestion: Which"
+    },
+    {
+      "question": "Which 18th century writer produced a famous book called 'The Wealth of Nations'?",
+      "choices": [
+        "Frederick Taylor",
+        "Henry Mintzberg",
+        "Adam Smith",
+        "Dr Samuel Johnson"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which 18th century writer produced a famous book called 'The Wealth of Nations'?\n(A) Frederick Taylor  (B) Henry Mintzberg  (C) Adam Smith  (D) Dr Samuel Johnson  \nAnswer: (C) Adam Smith\nYou are an AI"
+    },
+    {
+      "question": "Which one of these characteristics is most commonly associated with the 'rational goal' model of management?",
+      "choices": [
+        "Worker welfare",
+        "Health and safety",
+        "Interpersonal relationships",
+        "Productivity"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which one of these characteristics is most commonly associated with the 'rational goal' model of management?\n(A) Worker welfare  (B) Health and safety  (C) Interpersonal relationships  (D) Productivity  \nAnswer: (D) Productivity\n\nQuestion: Which of"
+    },
+    {
+      "question": "In what order do managers typically perform the managerial functions?",
+      "choices": [
+        "organising, planning, controlling, leading",
+        "organising, leading, planning, controlling",
+        "planning, organising, leading, controlling",
+        "planning, organising, controlling, leading"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: In what order do managers typically perform the managerial functions?\n(A) organising, planning, controlling, leading  (B) organising, leading, planning, controlling  (C) planning, organising, leading, controlling  (D) planning, organising, controlling, leading  \nAnswer: (C) planning, organising, leading, controlling"
+    },
+    {
+      "question": "How does lateral communication in an organisation occur?",
+      "choices": [
+        "Information passes upwards.",
+        "Information passes downwards.",
+        "Information is a two-way process.",
+        "Information passes between different departments and functions."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: How does lateral communication in an organisation occur?\n(A) Information passes upwards.  (B) Information passes downwards.  (C) Information is a two-way process.  (D) Information passes between different departments and functions.  \nAnswer: (D)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "Of what is advertising a form?",
+      "choices": [
+        "Focusing strategy",
+        "Differentiation",
+        "Cost leadership",
+        "Growth"
+      ],
+      "ground_truth": "B",
+      "prediction": "A",
+      "raw_output": "Question: Of what is advertising a form?\n(A) Focusing strategy  (B) Differentiation  (C) Cost leadership  (D) Growth  \nAnswer: (A) Focusing strategy\nYou are an"
+    },
+    {
+      "question": "What is not a component of an agile organisation?",
+      "choices": [
+        "Market focus and position",
+        "Human resources: multi-skilling",
+        "Organisational structure",
+        "Project-based culture"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: What is not a component of an agile organisation?\n(A) Market focus and position  (B) Human resources: multi-skilling  (C) Organisational structure  (D) Project-based culture  \nAnswer: (D) Project-based culture\nYou are an"
+    },
+    {
+      "question": "Of what is worker autonomy in decision making an example?",
+      "choices": [
+        "Worker freedom",
+        "Greater worker negotiation",
+        "Worker empowerment",
+        "Increased worker power"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Of what is worker autonomy in decision making an example?\n(A) Worker freedom  (B) Greater worker negotiation  (C) Worker empowerment  (D) Increased worker power  \nAnswer: (C) Worker empowerment\nYou are an AI"
+    },
+    {
+      "question": "Vertical integration forwards is when a firm mergers or acquires another",
+      "choices": [
+        "Towards the source of supply",
+        "Towards the consumer",
+        "At the same stage of the supply chain",
+        "In another industry"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: Vertical integration forwards is when a firm mergers or acquires another\n(A) Towards the source of supply  (B) Towards the consumer  (C) At the same stage of the supply chain  (D) In another industry  \nAnswer: (C) At the same stage of the supply"
+    },
+    {
+      "question": "What is the term for an autonomous business entity within an overall corporate enterprise which is set apart from other areas of the business?",
+      "choices": [
+        "Subsidiary",
+        "Strategic partnership",
+        "Strategic alliance",
+        "Strategic business unit"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: What is the term for an autonomous business entity within an overall corporate enterprise which is set apart from other areas of the business?\n(A) Subsidiary  (B) Strategic partnership  (C) Strategic alliance  (D) Strategic business unit  \nAnswer: (D)"
+    },
+    {
+      "question": "What is not a characteristic of a corporate social responsibility framework?",
+      "choices": [
+        "Retaining the status quo",
+        "Understanding society",
+        "Harnessing diversity",
+        "Building capacity"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: What is not a characteristic of a corporate social responsibility framework?\n(A) Retaining the status quo  (B) Understanding society  (C) Harnessing diversity  (D) Building capacity  \nAnswer: (A) Retaining the status quo\nYou"
+    },
+    {
+      "question": "What is a whistleblower?",
+      "choices": [
+        "Someone who reports illegal or unethical acts",
+        "Someone who commits illegal or unethical acts",
+        "Someone who benefits from illegal or unethical acts",
+        "Someone who devises illegal or unethical acts"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: What is a whistleblower?\n(A) Someone who reports illegal or unethical acts  (B) Someone who commits illegal or unethical acts  (C) Someone who benefits from illegal or unethical acts  (D) Someone who devises illegal or unethical acts  \nAnswer: (A) Someone who reports illegal or unethical acts"
+    },
+    {
+      "question": "What is T-group training?",
+      "choices": [
+        "A group whose aim is transformational change",
+        "A group brought together to deliver training programmes",
+        "Team training for the purposes of advancing technology",
+        "Team building activities involving learning"
+      ],
+      "ground_truth": "D",
+      "prediction": "A",
+      "raw_output": "Question: What is T-group training?\n(A) A group whose aim is transformational change  (B) A group brought together to deliver training programmes  (C) Team training for the purposes of advancing technology  (D) Team building activities involving learning  \nAnswer: (A)"
+    },
+    {
+      "question": "What is a social enterprise concerned with?",
+      "choices": [
+        "Profit maximisation",
+        "Maximising market share",
+        "Providing public service",
+        "Running a business to create social benefits"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: What is a social enterprise concerned with?\n(A) Profit maximisation  (B) Maximising market share  (C) Providing public service  (D) Running a business to create social benefits  \nAnswer: (D)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "Which of the following is not part of Schein's model of the formation of culture?",
+      "choices": [
+        "Shared values",
+        "Pre-conceptions",
+        "Shared beliefs",
+        "Norms"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following is not part of Schein's model of the formation of culture?\n(A) Shared values  (B) Pre-conceptions  (C) Shared beliefs  (D) Norms  \nAnswer: (B)"
+    },
+    {
+      "question": "What is not one of the layers of cultural influence?",
+      "choices": [
+        "Social",
+        "Business",
+        "Organisational",
+        "Company"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: What is not one of the layers of cultural influence?\n(A) Social  (B) Business  (C) Organisational  (D) Company  \nAnswer: (D) Company\nYou are an AI assistant"
+    }
+  ]
+}

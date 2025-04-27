@@ -1,0 +1,1625 @@
+{
+  "accuracy": 0.4666666666666667,
+  "results": [
+    {
+      "question": "A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral",
+      "choices": [
+        "paralysis of the facial muscles.",
+        "paralysis of the facial muscles and loss of taste.",
+        "paralysis of the facial muscles, loss of taste and lacrimation.",
+        "paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation."
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral\n(A) paralysis of the facial muscles.  (B) paralysis of the facial muscles and loss of taste.  (C) paralysis of the facial muscles, loss of taste and lacrimation.  (D) paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.  \nAnswer: (D) paralysis of the facial muscles, loss"
+    },
+    {
+      "question": "A \"dished face\" profile is often associated with",
+      "choices": [
+        "a protruding mandible due to reactivation of the condylar cartilage by acromegaly.",
+        "a recessive maxilla due to failure of elongation of the cranial base.",
+        "an enlarged frontal bone due to hydrocephaly.",
+        "defective development of the maxillary air sinus."
+      ],
+      "ground_truth": "B",
+      "prediction": "A",
+      "raw_output": "Question: A \"dished face\" profile is often associated with\n(A) a protruding mandible due to reactivation of the condylar cartilage by acromegaly.  (B) a recessive maxilla due to failure of elongation of the cranial base.  (C) an enlarged frontal bone due to hydrocephaly.  (D) defective development of the maxillary air sinus.  \nAnswer: (A)"
+    },
+    {
+      "question": "Which of the following best describes the structure that collects urine in the body?",
+      "choices": [
+        "Bladder",
+        "Kidney",
+        "Ureter",
+        "Urethra"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following best describes the structure that collects urine in the body?\n(A) Bladder  (B) Kidney  (C) Ureter  (D) Urethra  \nAnswer: (B) Kidney\nYou are an AI"
+    },
+    {
+      "question": "Which of the following structures is derived from ectomesenchyme?",
+      "choices": [
+        "Motor neurons",
+        "Skeletal muscles",
+        "Melanocytes",
+        "Sweat glands"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following structures is derived from ectomesenchyme?\n(A) Motor neurons  (B) Skeletal muscles  (C) Melanocytes  (D) Sweat glands  \nAnswer: (C) Melanocytes\n\nQuestion: Which"
+    },
+    {
+      "question": "Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?",
+      "choices": [
+        "Afferent arteriole",
+        "Glomerulus",
+        "Loop of Henle",
+        "Renal pelvis"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?\n(A) Afferent arteriole  (B) Glomerulus  (C) Loop of Henle  (D) Renal pelvis  \nAnswer: (B)"
+    },
+    {
+      "question": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.",
+      "choices": [
+        "They will be unable to breathe without life support.",
+        "They will only be able to breathe quietly.",
+        "It is impossible to predict an effect on breathing.",
+        "Breathing will be unaffected."
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.\n(A) They will be unable to breathe without life support.  (B) They will only be able to breathe quietly.  (C) It is impossible to predict an effect on breathing.  (D) Breathing will be unaffected.  \nAnswer: (D)"
+    },
+    {
+      "question": "Which of the following anatomical regions of abdomen lies just distal to the sternum?",
+      "choices": [
+        "Epigastric",
+        "Hypochondriac",
+        "Hypogastric",
+        "Lumbar"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following anatomical regions of abdomen lies just distal to the sternum?\n(A) Epigastric  (B) Hypochondriac  (C) Hypogastric  (D) Lumbar  \nAnswer: (B) Hypochondriac\nYou are"
+    },
+    {
+      "question": "Which of the following best describes the human body's defense mechanism against environmental bacteria?",
+      "choices": [
+        "Hair in the nose",
+        "Mucous membranes",
+        "Osteoblasts",
+        "Saliva"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following best describes the human body's defense mechanism against environmental bacteria?\n(A) Hair in the nose  (B) Mucous membranes  (C) Osteoblasts  (D) Saliva  \nAnswer: (B) Mucous membranes\n\nQuestion:"
+    },
+    {
+      "question": "The palatine processes begin to fuse at",
+      "choices": [
+        "six weeks post-fertilization.",
+        "eight weeks post-fertilization.",
+        "ten weeks post-fertilization.",
+        "twelve weeks post-fertilization."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: The palatine processes begin to fuse at\n(A) six weeks post-fertilization.  (B) eight weeks post-fertilization.  (C) ten weeks post-fertilization.  (D) twelve weeks post-fertilization.  \nAnswer: (B)"
+    },
+    {
+      "question": "Primary motor cortex activity results in",
+      "choices": [
+        "bilateral contraction of antigravity limb muscles.",
+        "bilateral contraction of limb musculature.",
+        "contraction of ipsilateral limb musculature.",
+        "contraction of contralateral limb musculature."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Primary motor cortex activity results in\n(A) bilateral contraction of antigravity limb muscles.  (B) bilateral contraction of limb musculature.  (C) contraction of ipsilateral limb musculature.  (D) contraction of contralateral limb musculature.  \nAnswer: (D) contraction of contralateral limb mus"
+    },
+    {
+      "question": "You notice that your patient's submandibular lymph nodes are enlarged. You would look for potential infection sites in the",
+      "choices": [
+        "hard palate.",
+        "hard palate and upper lip.",
+        "hard palate, upper lip and upper central incisor.",
+        "hard palate, upper lip, upper central incisor and lower first molar."
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: You notice that your patient's submandibular lymph nodes are enlarged. You would look for potential infection sites in the\n(A) hard palate.  (B) hard palate and upper lip.  (C) hard palate, upper lip and upper central incisor.  (D) hard palate, upper lip, upper central incisor and lower first molar.  \nAnswer: (B)"
+    },
+    {
+      "question": "A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which of the following signs will be present?",
+      "choices": [
+        "Pupillary constriction and a medial strabismus",
+        "Pupillary dilatation and a medial strabismus",
+        "Pupillary constriction and a lateral strabismus",
+        "Pupillary dilatation and a lateral strabismus"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which of the following signs will be present?\n(A) Pupillary constriction and a medial strabismus  (B) Pupillary dilatation and a medial strabismus  (C) Pupillary constriction and a lateral strabismus  (D) Pupillary dilatation and a lateral strabismus  \nAnswer: (B) Pupillary dilatation and"
+    },
+    {
+      "question": "Which of the following statements is true of the temporomandibular joint?",
+      "choices": [
+        "It has an articular disc of hyaline cartilage",
+        "Its articular surfaces are covered by hyaline cartilage",
+        "Proprioceptive information is carried by the chorda tympani and deep temporal nerves",
+        "Proprioceptive information is carried by the masseteric and auriculotemporal nerves."
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following statements is true of the temporomandibular joint?\n(A) It has an articular disc of hyaline cartilage  (B) Its articular surfaces are covered by hyaline cartilage  (C) Proprioceptive information is carried by the chorda tympani and deep temporal nerves  (D) Proprioceptive information is carried by the masseteric and auriculotemporal nerves.  \nAnswer: (B)"
+    },
+    {
+      "question": "Laryngoscopic examination of the vocal folds after suspected recurrent laryngeal nerve damage usually shows that the vocal fold on the injured side is tensed and in an intermediate position between adduction and abduction. This is because",
+      "choices": [
+        "cricothyroid muscle is still functional but the interarytenoid muscles are fully active.",
+        "cricothyroid muscle is still functional but the interarytenoids are weak.",
+        "cricothyroid muscle is paralyzed but the interarytenoids are fully active.",
+        "cricothyroid muscle is paralyzed but the interarytenoids are weak."
+      ],
+      "ground_truth": "B",
+      "prediction": "A",
+      "raw_output": "Question: Laryngoscopic examination of the vocal folds after suspected recurrent laryngeal nerve damage usually shows that the vocal fold on the injured side is tensed and in an intermediate position between adduction and abduction. This is because\n(A) cricothyroid muscle is still functional but the interarytenoid muscles are fully active.  (B) cricothyroid muscle is still functional but the interarytenoids are weak.  (C) cricothyroid muscle is paralyzed but the interarytenoids are fully active.  (D) cricothyroid muscle is paralyzed but the interarytenoids are weak.  \nAnswer: (A)"
+    },
+    {
+      "question": "Which one of the following statements about the growth of the mandible is correct?",
+      "choices": [
+        "The mental symphysis closes at about 1 year postnatally",
+        "The condylar growth cartilage ceases activity at puberty",
+        "The ossification centre appears about 8 weeks I.U.L medial to Meckel's cartilage",
+        "The functional matrix acting on the angle of the mandible is the lateral pterygoid muscle"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: Which one of the following statements about the growth of the mandible is correct?\n(A) The mental symphysis closes at about 1 year postnatally  (B) The condylar growth cartilage ceases activity at puberty  (C) The ossification centre appears about 8 weeks I.U.L medial to Meckel's cartilage  (D) The functional matrix acting on the angle of the mandible is the lateral pterygoid muscle  \nAnswer: (C) The ossification centre appears about "
+    },
+    {
+      "question": "Which of the following statements is true of the pupillary light reflex?",
+      "choices": [
+        "Its efferent limb is carried in the optic nerve",
+        "It is mediated by the inferior colliculi in the midbrain",
+        "It is a consensual reflex",
+        "Its afferent limb is carried in the oculomotor nerve"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following statements is true of the pupillary light reflex?\n(A) Its efferent limb is carried in the optic nerve  (B) It is mediated by the inferior colliculi in the midbrain  (C) It is a consensual reflex  (D) Its afferent limb is carried in the oculomotor nerve  \nAnswer: (C) It is a consensual reflex\n\n"
+    },
+    {
+      "question": "Which muscles are normally active during quiet inspiration?",
+      "choices": [
+        "External and internal intercostal muscles",
+        "External intercostal muscles and diaphragm",
+        "Internal intercostal muscles and diaphragm",
+        "External and internal intercostal muscles and diaphragm"
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: Which muscles are normally active during quiet inspiration?\n(A) External and internal intercostal muscles  (B) External intercostal muscles and diaphragm  (C) Internal intercostal muscles and diaphragm  (D) External and internal intercostal muscles and diaphragm  \nAnswer: (D)"
+    },
+    {
+      "question": "Male hormones are produced by which of the following?",
+      "choices": [
+        "Glans penis",
+        "Prepuce",
+        "Prostate",
+        "Testes"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Male hormones are produced by which of the following?\n(A) Glans penis  (B) Prepuce  (C) Prostate  (D) Testes  \nAnswer: (D) Testes  \nExplanation: Testes"
+    },
+    {
+      "question": "Oxygenated blood is carried to the heart by which of the following structures?",
+      "choices": [
+        "Aorta",
+        "Carotid arteries",
+        "Inferior vena cava",
+        "Pulmonary veins"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Oxygenated blood is carried to the heart by which of the following structures?\n(A) Aorta  (B) Carotid arteries  (C) Inferior vena cava  (D) Pulmonary veins  \nAnswer: (B)"
+    },
+    {
+      "question": "Which of the following allows air to pass into the lungs?",
+      "choices": [
+        "Aorta",
+        "Esophagus",
+        "Trachea",
+        "Pancreas"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following allows air to pass into the lungs?\n(A) Aorta  (B) Esophagus  (C) Trachea  (D) Pancreas  \nAnswer: (C) Trachea\nYou are an"
+    },
+    {
+      "question": "Where is the sinoatrial node located?",
+      "choices": [
+        "Between the left atrium and the left ventricle",
+        "Between the right atrium and the right ventricle",
+        "In the upper wall of the right atrium",
+        "In the upper wall of the left ventricle"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: Where is the sinoatrial node located?\n(A) Between the left atrium and the left ventricle  (B) Between the right atrium and the right ventricle  (C) In the upper wall of the right atrium  (D) In the upper wall of the left ventricle  \nAnswer: (B) Between the right atrium and the"
+    },
+    {
+      "question": "In relation to the rib, the corresponding intercostal nerve lies",
+      "choices": [
+        "deep to its superior border.",
+        "superficial to its superior border.",
+        "deep to its inferior border.",
+        "superficial to its inferior border."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: In relation to the rib, the corresponding intercostal nerve lies\n(A) deep to its superior border.  (B) superficial to its superior border.  (C) deep to its inferior border.  (D) superficial to its inferior border.  \nAnswer: (B)"
+    },
+    {
+      "question": "The regional lymphatic drainage of the left side of the tip of the tongue is to the",
+      "choices": [
+        "left submental lymph node.",
+        "left and right submental lymph nodes.",
+        "left submandibular lymph node.",
+        "left and right submandibular lymph nodes."
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: The regional lymphatic drainage of the left side of the tip of the tongue is to the\n(A) left submental lymph node.  (B) left and right submental lymph nodes.  (C) left submandibular lymph node.  (D) left and right submandibular lymph nodes.  \nAnswer: (D)"
+    },
+    {
+      "question": "Gastrulation is the process of",
+      "choices": [
+        "mesoderm formation and occurs after neurulation.",
+        "ectomesenchyme formation and occurs before neurulation.",
+        "mesoderm formation and occurs before neurulation.",
+        "ectomesenchyme formation and occurs after neurulation."
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: Gastrulation is the process of\n(A) mesoderm formation and occurs after neurulation.  (B) ectomesenchyme formation and occurs before neurulation.  (C) mesoderm formation and occurs before neurulation.  (D) ectomesenchyme formation and occurs after neurulation.  \nAnswer: (C)"
+    },
+    {
+      "question": "The spheno-occipital synchondrosis",
+      "choices": [
+        "is a secondary growth cartilage.",
+        "influences the position of the viscerocranium.",
+        "ceases activity at 7 years of age.",
+        "can be reactivated in patients affected by acromegaly."
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: The spheno-occipital synchondrosis\n(A) is a secondary growth cartilage.  (B) influences the position of the viscerocranium.  (C) ceases activity at 7 years of age.  (D) can be reactivated in patients affected by acromegaly.  \nAnswer: (D)"
+    },
+    {
+      "question": "Which of the following substances is found in greater quantity in exhaled air?",
+      "choices": [
+        "Carbon dioxide",
+        "Carbon monoxide",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "ground_truth": "C",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following substances is found in greater quantity in exhaled air?\n(A) Carbon dioxide  (B) Carbon monoxide  (C) Nitrogen  (D) Oxygen  \nAnswer: (D) Oxygen\n\nQuestion: Which of the"
+    },
+    {
+      "question": "Which of the following conditions is characterized by the presence of kidney stones (renal calculi)?",
+      "choices": [
+        "Glomerulonephritis",
+        "Interstitial nephritis",
+        "Nephrolithiasis",
+        "Polycystic kidney"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following conditions is characterized by the presence of kidney stones (renal calculi)?\n(A) Glomerulonephritis  (B) Interstitial nephritis  (C) Nephrolithiasis  (D) Polycystic kidney  \nAnswer: C"
+    },
+    {
+      "question": "A pulse may be felt on a patient's face where the",
+      "choices": [
+        "facial artery crosses the mandible.",
+        "facial artery crosses the maxilla.",
+        "superficial temporal artery crosses the maxilla.",
+        "superficial temporal artery crosses the orbital rim."
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: A pulse may be felt on a patient's face where the\n(A) facial artery crosses the mandible.  (B) facial artery crosses the maxilla.  (C) superficial temporal artery crosses the maxilla.  (D) superficial temporal artery crosses the orbital rim.  \nAnswer: (B)"
+    },
+    {
+      "question": "A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs is most likely to be involved?",
+      "choices": [
+        "Appendix",
+        "Gallbladder",
+        "Spleen",
+        "Urinary bladder"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs is most likely to be involved?\n(A) Appendix  (B) Gallbladder  (C) Spleen  (D) Urinary bladder  \nAnswer: C"
+    },
+    {
+      "question": "Which statement concerning the atrioventricular bundle is correct?",
+      "choices": [
+        "It is formed of autonomic nerve processes and is the only electrical connection between the atria and the ventricles.",
+        "It is formed of Purkinje fibres and is the only electrical connection between the atria and the ventricles",
+        "It is formed of autonomic nerve processes and forms one of several electrical connections between the atria and ventricles.",
+        "It is formed of Purkinje fibres and forms one of several electrical connections between the atria and ventricles."
+      ],
+      "ground_truth": "B",
+      "prediction": "A",
+      "raw_output": "Question: Which statement concerning the atrioventricular bundle is correct?\n(A) It is formed of autonomic nerve processes and is the only electrical connection between the atria and the ventricles.  (B) It is formed of Purkinje fibres and is the only electrical connection between the atria and the ventricles  (C) It is formed of autonomic nerve processes and forms one of several electrical connections between the atria and ventricles.  (D) It is formed of Purkinje fibres and forms one of several electrical connections between the atria and ventricles.  \nAnswer: (A)"
+    },
+    {
+      "question": "Which of the following terms describes the motion of bending the forearm toward the body?",
+      "choices": [
+        "Abduction",
+        "Eversion",
+        "Flexion",
+        "Pronation"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following terms describes the motion of bending the forearm toward the body?\n(A) Abduction  (B) Eversion  (C) Flexion  (D) Pronation  \nAnswer: (C) Flexion\n\nQuestion: Which of"
+    },
+    {
+      "question": "Food is prevented from entering the larynx during the pharyngeal phase of swallowing by",
+      "choices": [
+        "constriction of the laryngeal entrance.",
+        "upward movement of the epiglottis.",
+        "downward movement of the larynx.",
+        "increase in respiratory rate."
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: Food is prevented from entering the larynx during the pharyngeal phase of swallowing by\n(A) constriction of the laryngeal entrance.  (B) upward movement of the epiglottis.  (C) downward movement of the larynx.  (D) increase in respiratory rate.  \nAnswer: (B) upward movement of the epigl"
+    },
+    {
+      "question": "At which of the following locations does bile enter the digestive tract?",
+      "choices": [
+        "Gastroesophageal sphincter",
+        "Duodenum",
+        "Ileocecum",
+        "Jejunum"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: At which of the following locations does bile enter the digestive tract?\n(A) Gastroesophageal sphincter  (B) Duodenum  (C) Ileocecum  (D) Jejunum  \nAnswer: (B) Duodenum\nYou are an"
+    },
+    {
+      "question": "In which of the following positions does a patient lie face down?",
+      "choices": [
+        "Dorsal",
+        "Erect",
+        "Lateral",
+        "Prone"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: In which of the following positions does a patient lie face down?\n(A) Dorsal  (B) Erect  (C) Lateral  (D) Prone  \nAnswer: (B) Erect\n\nQuestion: Which of the"
+    },
+    {
+      "question": "Complete bilateral cleft palate is due to failure of fusion of the",
+      "choices": [
+        "palatine processes.",
+        "palatine and frontonasal processes.",
+        "palatine, frontonasal and secondary nasal processes.",
+        "palatine, frontonasal, secondary nasal processes and mandibular processes."
+      ],
+      "ground_truth": "C",
+      "prediction": "D",
+      "raw_output": "Question: Complete bilateral cleft palate is due to failure of fusion of the\n(A) palatine processes.  (B) palatine and frontonasal processes.  (C) palatine, frontonasal and secondary nasal processes.  (D) palatine, frontonasal, secondary nasal processes and mandibular processes.  \nAnswer: (D)"
+    },
+    {
+      "question": "The auditory tube",
+      "choices": [
+        "connects the inner ear and nasopharynx.",
+        "is derived from the second pharyngeal pouch.",
+        "is opened by the action of levator veli palatini.",
+        "is closed by the action of tensor veli palatini."
+      ],
+      "ground_truth": "C",
+      "prediction": "D",
+      "raw_output": "Question: The auditory tube\n(A) connects the inner ear and nasopharynx.  (B) is derived from the second pharyngeal pouch.  (C) is opened by the action of levator veli palatini.  (D) is closed by the action of tensor veli palatini.  \nAnswer: (D)"
+    },
+    {
+      "question": "Which of the following is the lymphoid organ that is a reservoir for red blood cells and filters organisms from the blood?",
+      "choices": [
+        "Appendix",
+        "Gallbladder",
+        "Pancreas",
+        "Spleen"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following is the lymphoid organ that is a reservoir for red blood cells and filters organisms from the blood?\n(A) Appendix  (B) Gallbladder  (C) Pancreas  (D) Spleen  \nAnswer: (D) Spleen\n\nQuestion: Which"
+    },
+    {
+      "question": "Which of the following cavities are separated by the diaphragm?",
+      "choices": [
+        "Abdominal and pelvic",
+        "Cranial and spinal",
+        "Thoracic and abdominal",
+        "Pericardial and pleural"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following cavities are separated by the diaphragm?\n(A) Abdominal and pelvic  (B) Cranial and spinal  (C) Thoracic and abdominal  (D) Pericardial and pleural  \nAnswer: (C)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "The walls of bronchioles contain",
+      "choices": [
+        "cartilage, smooth muscle and respiratory epithelium.",
+        "cartilage and smooth muscle.",
+        "cartilage and respiratory epithelium.",
+        "smooth muscle and respiratory epithelium."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: The walls of bronchioles contain\n(A) cartilage, smooth muscle and respiratory epithelium.  (B) cartilage and smooth muscle.  (C) cartilage and respiratory epithelium.  (D) smooth muscle and respiratory epithelium.  \nAnswer: (D)"
+    },
+    {
+      "question": "Which of the following organs removes bilirubin from the blood, manufactures plasma proteins, and is involved with the production of prothrombin and fibrinogen?",
+      "choices": [
+        "Gallbladder",
+        "Kidney",
+        "Liver",
+        "Spleen"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following organs removes bilirubin from the blood, manufactures plasma proteins, and is involved with the production of prothrombin and fibrinogen?\n(A) Gallbladder  (B) Kidney  (C) Liver  (D) Spleen  \nAnswer: (C) Liver\n\nQuestion: Which of the"
+    },
+    {
+      "question": "Which of the following conditions is characterized by incompetence of the esophageal sphincter?",
+      "choices": [
+        "Crohn's disease",
+        "Esophageal varices",
+        "Gastroesophageal reflux disease",
+        "Pyloric stenosis"
+      ],
+      "ground_truth": "C",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following conditions is characterized by incompetence of the esophageal sphincter?\n(A) Crohn's disease  (B) Esophageal varices  (C) Gastroesophageal reflux disease  (D) Pyloric stenosis  \nAnswer: (D) Pyloric stenosis\n\n"
+    },
+    {
+      "question": "The muscles of the soft palate are innervated by branches of the",
+      "choices": [
+        "trigeminal and glossopharyngeal nerves.",
+        "facial and glossopharyngeal nerves.",
+        "trigeminal and vagus nerves.",
+        "facial and vagus nerves."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: The muscles of the soft palate are innervated by branches of the\n(A) trigeminal and glossopharyngeal nerves.  (B) facial and glossopharyngeal nerves.  (C) trigeminal and vagus nerves.  (D) facial and vagus nerves.  \nAnswer: (B)"
+    },
+    {
+      "question": "Which of the following is the large bone found superior to the patella and inferior to the ischium?",
+      "choices": [
+        "Calcaneus",
+        "Femur",
+        "Symphysis pubis",
+        "Tibia"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following is the large bone found superior to the patella and inferior to the ischium?\n(A) Calcaneus  (B) Femur  (C) Symphysis pubis  (D) Tibia  \nAnswer: (B)"
+    },
+    {
+      "question": "A successful inferior alveolar nerve block will produce anaesthesia of the",
+      "choices": [
+        "lower lip.",
+        "lower lip and mandibular teeth.",
+        "lower lip, mandibular teeth and labial gingivae of the anterior mandibular teeth.",
+        "lower lip, mandibular teeth and labial gingivae of the anterior and buccal gingivae of the posterior mandibular teeth."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: A successful inferior alveolar nerve block will produce anaesthesia of the\n(A) lower lip.  (B) lower lip and mandibular teeth.  (C) lower lip, mandibular teeth and labial gingivae of the anterior mandibular teeth.  (D) lower lip, mandibular teeth and labial gingivae of the anterior and buccal gingivae of the posterior mandibular teeth.  \nAnswer: (C)"
+    },
+    {
+      "question": "The mucosa of the upper larynx is innervated by the",
+      "choices": [
+        "internal laryngeal nerve which is the afferent limb of the cough reflex.",
+        "external laryngeal nerve which is the afferent limb of the gag reflex.",
+        "internal laryngeal nerve which is the afferent limb of the gag reflex.",
+        "external laryngeal nerve which is the afferent limb of the cough reflex."
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: The mucosa of the upper larynx is innervated by the\n(A) internal laryngeal nerve which is the afferent limb of the cough reflex.  (B) external laryngeal nerve which is the afferent limb of the gag reflex.  (C) internal laryngeal nerve which is the afferent limb of the gag reflex.  (D) external laryngeal nerve which is the afferent limb of the cough reflex.  \nAnswer: (B)"
+    },
+    {
+      "question": "The bones of the viscerocranium develop initially by",
+      "choices": [
+        "endochondral ossification and follow the somatic growth pattern.",
+        "endochondral ossification and follow the neural growth pattern.",
+        "intramembranous ossification and follow the somatic growth pattern.",
+        "intramembranous ossification and follow the neural growth pattern."
+      ],
+      "ground_truth": "C",
+      "prediction": "A",
+      "raw_output": "Question: The bones of the viscerocranium develop initially by\n(A) endochondral ossification and follow the somatic growth pattern.  (B) endochondral ossification and follow the neural growth pattern.  (C) intramembranous ossification and follow the somatic growth pattern.  (D) intramembranous ossification and follow the neural growth pattern.  \nAnswer: (A) endochondral ossification and follow"
+    },
+    {
+      "question": "The physician directs the medical assistant to complete a request form for an X-ray study of the fibula. The procedure will be performed on which of the following structures?",
+      "choices": [
+        "Heel",
+        "Lower leg",
+        "Toes",
+        "Thigh"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: The physician directs the medical assistant to complete a request form for an X-ray study of the fibula. The procedure will be performed on which of the following structures?\n(A) Heel  (B) Lower leg  (C) Toes  (D) Thigh  \nAnswer: (B)"
+    },
+    {
+      "question": "Which cells in the blood do not have a nucleus?",
+      "choices": [
+        "Lymphocyte",
+        "Monocyte",
+        "Erythrocyte",
+        "Basophil"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which cells in the blood do not have a nucleus?\n(A) Lymphocyte  (B) Monocyte  (C) Erythrocyte  (D) Basophil  \nAnswer: (C)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "The coronal suture joins the",
+      "choices": [
+        "frontal and parietal bones.",
+        "left and right parietal bones.",
+        "parietal and occipital bones.",
+        "parietal, squamous temporal and greater wing of the sphenoid."
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: The coronal suture joins the\n(A) frontal and parietal bones.  (B) left and right parietal bones.  (C) parietal and occipital bones.  (D) parietal, squamous temporal and greater wing of the sphenoid.  \nAnswer: (D)"
+    },
+    {
+      "question": "If you run your finger down the anterior midline of a patient's extended neck from chin to sternal notch, you should be able to palpate, in order, the",
+      "choices": [
+        "hyoid bone, cricoid cartilage, thyroid cartilage.",
+        "thyroid cartilage, cricoid cartilage, hyoid bone.",
+        "hyoid bone, thyroid cartilage, cricoid cartilage.",
+        "thyroid cartilage, hyoid bone, cricoids cartilage."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: If you run your finger down the anterior midline of a patient's extended neck from chin to sternal notch, you should be able to palpate, in order, the\n(A) hyoid bone, cricoid cartilage, thyroid cartilage.  (B) thyroid cartilage, cricoid cartilage, hyoid bone.  (C) hyoid bone, thyroid cartilage, cricoid cartilage.  (D) thyroid cartilage, hyoid bone, cricoids cartilage.  \nAnswer: (B)"
+    },
+    {
+      "question": "Which of the following bony structures may be palpated in a live patient?",
+      "choices": [
+        "The supraorbital foramen",
+        "The infraorbital foramen",
+        "The mental foramen",
+        "All of the above"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following bony structures may be palpated in a live patient?\n(A) The supraorbital foramen  (B) The infraorbital foramen  (C) The mental foramen  (D) All of the above  \nAnswer: D"
+    },
+    {
+      "question": "Which of the following structures accompany the oesophagus through the diaphragm?",
+      "choices": [
+        "The phrenic nerves",
+        "The splanchnic nerves",
+        "The sympathetic trunks",
+        "The vagus nerves"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following structures accompany the oesophagus through the diaphragm?\n(A) The phrenic nerves  (B) The splanchnic nerves  (C) The sympathetic trunks  (D) The vagus nerves  \nAnswer: (B) The splanchnic nerves\n\n"
+    },
+    {
+      "question": "Which sequence describes the systemic circulation?",
+      "choices": [
+        "Left ventricle \u2192 aorta \u2192 arteries \u2192 veins \u2192 capillaries",
+        "Left ventricle \u2192 aorta \u2192 arteries \u2192capillaries \u2192 veins",
+        "Right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 capillaries \u2192veins",
+        "Right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 veins \u2192 capillaries"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Which sequence describes the systemic circulation?\n(A) Left ventricle \u2192 aorta \u2192 arteries \u2192 veins \u2192 capillaries  (B) Left ventricle \u2192 aorta \u2192 arteries \u2192capillaries \u2192 veins  (C) Right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 capillaries \u2192veins  (D) Right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 veins \u2192 capillaries  \nAnswer: (B)\n\nQuestion: Which of the following statements"
+    },
+    {
+      "question": "The anatomic location of the spinal canal is",
+      "choices": [
+        "caudal",
+        "dorsal",
+        "frontal",
+        "transverse"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: The anatomic location of the spinal canal is\n(A) caudal  (B) dorsal  (C) frontal  (D) transverse  \nAnswer: (B)"
+    },
+    {
+      "question": "The parotid duct runs",
+      "choices": [
+        "deep to masseter and enters the mouth opposite the upper second molar.",
+        "superficial to masseter and enters the mouth opposite the upper second molar.",
+        "deep to masseter and enters the mouth opposite the upper second premolar.",
+        "superficial to masseter and enters the mouth opposite the upper second premolar."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: The parotid duct runs\n(A) deep to masseter and enters the mouth opposite the upper second molar.  (B) superficial to masseter and enters the mouth opposite the upper second molar.  (C) deep to masseter and enters the mouth opposite the upper second premolar.  (D) superficial to masseter and enters the mouth opposite the upper second premolar.  \nAnswer: (B)"
+    },
+    {
+      "question": "If the foot is abducted, it is moved in which direction?",
+      "choices": [
+        "Inward",
+        "Outward",
+        "Upward",
+        "Downward"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: If the foot is abducted, it is moved in which direction?\n(A) Inward  (B) Outward  (C) Upward  (D) Downward  \nAnswer: (B)"
+    },
+    {
+      "question": "The infraorbital nerve",
+      "choices": [
+        "is a terminal branch of the maxillary division of the trigeminal nerve.",
+        "is a terminal branch of the maxillary branch of the facial nerve.",
+        "carries parasympathetic secretomotor neurons to the lacrimal gland.",
+        "innervates the inferior part of the orbicularis oculi muscle."
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: The infraorbital nerve\n(A) is a terminal branch of the maxillary division of the trigeminal nerve.  (B) is a terminal branch of the maxillary branch of the facial nerve.  (C) carries parasympathetic secretomotor neurons to the lacrimal gland.  (D) innervates the inferior part of the orbicularis oculi muscle.  \nAnswer: (A)"
+    },
+    {
+      "question": "Which of the following best describes the process whereby the stomach muscles contract to propel food through the digestive tract?",
+      "choices": [
+        "Absorption",
+        "Emulsion",
+        "Peristalsis",
+        "Regurgitation"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following best describes the process whereby the stomach muscles contract to propel food through the digestive tract?\n(A) Absorption  (B) Emulsion  (C) Peristalsis  (D) Regurgitation  \nAnswer: (C)\n\nQuestion: In the context of digestion"
+    },
+    {
+      "question": "Which of the following is the point at which an impulse is transmitted from one neuron to another neuron?",
+      "choices": [
+        "Dendrite",
+        "Glial cell",
+        "Nerve center",
+        "Synapse"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following is the point at which an impulse is transmitted from one neuron to another neuron?\n(A) Dendrite  (B) Glial cell  (C) Nerve center  (D) Synapse  \nAnswer: (D) Synapse\n\nQuestion: Which of"
+    },
+    {
+      "question": "Which of the following muscles initiates elevation of the mandible?",
+      "choices": [
+        "Masseter",
+        "Temporalis",
+        "Lateral pterygoid",
+        "Medial pterygoid."
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following muscles initiates elevation of the mandible?\n(A) Masseter  (B) Temporalis  (C) Lateral pterygoid  (D) Medial pterygoid.  \nAnswer: (B)"
+    },
+    {
+      "question": "Which of the following is an accessory organ of the gastrointestinal system that is responsible for secreting insulin?",
+      "choices": [
+        "Adrenal gland",
+        "Gallbladder",
+        "Liver",
+        "Pancreas"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following is an accessory organ of the gastrointestinal system that is responsible for secreting insulin?\n(A) Adrenal gland  (B) Gallbladder  (C) Liver  (D) Pancreas  \nAnswer: (D) Pancreas\n\nQuestion: Which"
+    },
+    {
+      "question": "A malignant tumour is damaging the patient's glossopharyngeal nerve. They will experience",
+      "choices": [
+        "loss of taste over the anterior two-thirds of the tongue.",
+        "loss of somaesthetic sensation over the anterior two thirds of the tongue.",
+        "loss of taste and somaesthetic sensation over the posterior third of the tongue.",
+        "paralysis of the muscles of the tongue."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: A malignant tumour is damaging the patient's glossopharyngeal nerve. They will experience\n(A) loss of taste over the anterior two-thirds of the tongue.  (B) loss of somaesthetic sensation over the anterior two thirds of the tongue.  (C) loss of taste and somaesthetic sensation over the posterior third of the tongue.  (D) paralysis of the muscles of the tongue.  \nAnswer: (C) loss of taste and somaesthetic sensation"
+    },
+    {
+      "question": "A possible effect of damage to the third cranial nerve by trauma to the orbit is",
+      "choices": [
+        "a convergent strabismus.",
+        "ptosis.",
+        "pupillary contriction.",
+        "bitemporal hemianopia."
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: A possible effect of damage to the third cranial nerve by trauma to the orbit is\n(A) a convergent strabismus.  (B) ptosis.  (C) pupillary contriction.  (D) bitemporal hemianopia.  \nAnswer: (D) bitemporal hemianopia"
+    },
+    {
+      "question": "Blood flows from the right ventricle of the heart into which of the following structures?",
+      "choices": [
+        "Inferior vena cava",
+        "Left ventricle",
+        "Pulmonary arteries",
+        "Pulmonary veins"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: Blood flows from the right ventricle of the heart into which of the following structures?\n(A) Inferior vena cava  (B) Left ventricle  (C) Pulmonary arteries  (D) Pulmonary veins  \nAnswer: (B)"
+    },
+    {
+      "question": "A patient is stabbed in the neck. You suspect damage to the accessory nerve in the posterior triangle. You would test nerve function by asking the patient to",
+      "choices": [
+        "extend their neck against resistance.",
+        "extend their neck without impairment.",
+        "lift their shoulders against resistance.",
+        "lift their shoulders without impairment."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: A patient is stabbed in the neck. You suspect damage to the accessory nerve in the posterior triangle. You would test nerve function by asking the patient to\n(A) extend their neck against resistance.  (B) extend their neck without impairment.  (C) lift their shoulders against resistance.  (D) lift their shoulders without impairment.  \nAnswer: (B)"
+    },
+    {
+      "question": "Which of the following muscles are derived from the first brachial arch?",
+      "choices": [
+        "The muscles of mastication",
+        "The muscles of mastication and anterior belly of digastric",
+        "The muscles of mastication and anterior and posterior bellies of digastric",
+        "The muscles of mastication, anterior and posterior bellies of digastric and geniohyoid"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following muscles are derived from the first brachial arch?\n(A) The muscles of mastication  (B) The muscles of mastication and anterior belly of digastric  (C) The muscles of mastication and anterior and posterior bellies of digastric  (D) The muscles of mastication, anterior and posterior bellies of digastric and geniohyoid  \nAnswer: (C)\n\nQuestion: Which of the following muscles"
+    },
+    {
+      "question": "Which of the following best describes the location where the carotid pulse can be found?",
+      "choices": [
+        "In front of the ears and just above eye level",
+        "In the antecubital space",
+        "In the middle of the groin",
+        "On the anterior side of the neck"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following best describes the location where the carotid pulse can be found?\n(A) In front of the ears and just above eye level  (B) In the antecubital space  (C) In the middle of the groin  (D) On the anterior side of the neck  \nAnswer: (D) On the anterior side of the neck"
+    },
+    {
+      "question": "In the brain stem, pathways for:",
+      "choices": [
+        "nociception decussate in the medial lemniscus",
+        "skilled movements decussate in the medial lemniscus",
+        "skilled motor movements decussate in the pyramids.",
+        "discriminative touch decussate in the pyramids."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: In the brain stem, pathways for:\n(A) nociception decussate in the medial lemniscus  (B) skilled movements decussate in the medial lemniscus  (C) skilled motor movements decussate in the pyramids.  (D) discriminative touch decussate in the pyramids.  \nAnswer: (C)"
+    },
+    {
+      "question": "The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the",
+      "choices": [
+        "thyroid cartilage.",
+        "cricothyroid membrane.",
+        "cricoid cartilage.",
+        "tracheal rings."
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the\n(A) thyroid cartilage.  (B) cricothyroid membrane.  (C) cricoid cartilage.  (D) tracheal rings.  \nAnswer: (B)"
+    },
+    {
+      "question": "You notice a lesion on the labial alveolar mucosa of the lower right lateral incisor tooth of one of your patients and decide to take a biopsy to send for oral pathology report Which nerve would require local anaesthesia in order to carry out a pain-free biopsy?",
+      "choices": [
+        "The incisive nerve",
+        "The mental nerve",
+        "The buccal nerve",
+        "The lingual nerve"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: You notice a lesion on the labial alveolar mucosa of the lower right lateral incisor tooth of one of your patients and decide to take a biopsy to send for oral pathology report Which nerve would require local anaesthesia in order to carry out a pain-free biopsy?\n(A) The incisive nerve  (B) The mental nerve  (C) The buccal nerve  (D) The lingual nerve  \nAnswer: (C) The buccal nerve\nYou"
+    },
+    {
+      "question": "The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in",
+      "choices": [
+        "the capsule and ligaments of the TMJ and the medial pterygoid muscle.",
+        "the capsule and ligaments of the TMJ and the lateral pterygoid muscle.",
+        "the articular disc of the TMJ and the medial pterygoid muscle.",
+        "the articular disc of the TMJ and the lateral pterygoid muscle."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in\n(A) the capsule and ligaments of the TMJ and the medial pterygoid muscle.  (B) the capsule and ligaments of the TMJ and the lateral pterygoid muscle.  (C) the articular disc of the TMJ and the medial pterygoid muscle.  (D) the articular disc of the TMJ and the lateral pterygoid muscle.  \nAnswer: (B)"
+    },
+    {
+      "question": "Which of the following is a substance that aids the transmission of nerve impulses to the muscles?",
+      "choices": [
+        "Acetylcholine",
+        "Cholecystokinin",
+        "Deoxyribose",
+        "Oxytocin"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: Which of the following is a substance that aids the transmission of nerve impulses to the muscles?\n(A) Acetylcholine  (B) Cholecystokinin  (C) Deoxyribose  (D) Oxytocin  \nAnswer: (A)"
+    },
+    {
+      "question": "In the spinal cord, motor neuron cell bodies are located in",
+      "choices": [
+        "Lamina I.",
+        "Lamina II.",
+        "Lamina V.",
+        "Lamina IX"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: In the spinal cord, motor neuron cell bodies are located in\n(A) Lamina I.  (B) Lamina II.  (C) Lamina V.  (D) Lamina IX  \nAnswer: (B) Lamina II.\nAnswer: ("
+    },
+    {
+      "question": "When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the",
+      "choices": [
+        "anterior fragment to be displaced downwards by the action of the digastric muscle.",
+        "posterior fragment to be displaced anteriorly by the action of the lateral pterygoid muscle.",
+        "anterior fragment to be displaced backwards by action of the temporalis muscle.",
+        "posterior fragment to be displaced medially by action of the medial pterygoid muscle."
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the\n(A) anterior fragment to be displaced downwards by the action of the digastric muscle.  (B) posterior fragment to be displaced anteriorly by the action of the lateral pterygoid muscle.  (C) anterior fragment to be displaced backwards by action of the temporalis muscle.  (D) posterior fragment to be displaced medially by action of the medial pterygoid muscle.  \nAnswer: (A) anterior fragment to be displaced downwards by"
+    },
+    {
+      "question": "Examination of a patient indicates that they have a medially directed strabismus (squint). This could be due to damage to the",
+      "choices": [
+        "oculomotor nerve.",
+        "trochlear nerve.",
+        "ophthalmic trigeminal nerve.",
+        "abducens nerve."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Examination of a patient indicates that they have a medially directed strabismus (squint). This could be due to damage to the\n(A) oculomotor nerve.  (B) trochlear nerve.  (C) ophthalmic trigeminal nerve.  (D) abducens nerve.  \nAnswer: (D)"
+    },
+    {
+      "question": "A patient cuts a peripheral motor nerve in their wrist when they fall through a plate glass window. If the nerve does not regenerate, after about 6 months the muscles it normally innervates will show signs of which of the four options below?",
+      "choices": [
+        "spastic paralysis",
+        "flaccid paralysis",
+        "atrophy",
+        "contracture"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: A patient cuts a peripheral motor nerve in their wrist when they fall through a plate glass window. If the nerve does not regenerate, after about 6 months the muscles it normally innervates will show signs of which of the four options below?\n(A) spastic paralysis  (B) flaccid paralysis  (C) atrophy  (D) contracture  \nAnswer: (B)"
+    },
+    {
+      "question": "A patient suffers a CVA in the area of the left internal capsule conveying motor neurons to the right leg. The patient's leg will exhibit",
+      "choices": [
+        "spastic paralysis.",
+        "flaccid paralysis.",
+        "tremor.",
+        "hyporeflexia."
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: A patient suffers a CVA in the area of the left internal capsule conveying motor neurons to the right leg. The patient's leg will exhibit\n(A) spastic paralysis.  (B) flaccid paralysis.  (C) tremor.  (D) hyporeflexia.  \nAnswer: (B)"
+    },
+    {
+      "question": "The crown of a very carious tooth suddenly fractures while the patient is standing eating at a take-away food outlet and a fragment is inhaled. It is more likely to enter the",
+      "choices": [
+        "right lung because the right main bronchus is wider and more vertical than the left.",
+        "left lung because the left main bronchus is wider and more vertical than the right.",
+        "right lung or left lung because the two main bronchi are of equal size and at the same angulation.",
+        "right or left lung because there are no factors predisposing to the fragment going in one particular direction."
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: The crown of a very carious tooth suddenly fractures while the patient is standing eating at a take-away food outlet and a fragment is inhaled. It is more likely to enter the\n(A) right lung because the right main bronchus is wider and more vertical than the left.  (B) left lung because the left main bronchus is wider and more vertical than the right.  (C) right lung or left lung because the two main bronchi are of equal size and at the same angulation.  (D) right or left lung because there are no factors predisposing to the fragment going in one particular direction.  \nAnswer: (B)"
+    },
+    {
+      "question": "Calcium, potassium, and sodium are classified as which of the following?",
+      "choices": [
+        "Androgens",
+        "Catecholamines",
+        "Electrolytes",
+        "Estrogens"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Calcium, potassium, and sodium are classified as which of the following?\n(A) Androgens  (B) Catecholamines  (C) Electrolytes  (D) Estrogens  \nAnswer: (C)"
+    },
+    {
+      "question": "Noradrenaline is the neurotransmitter between which of the two structures below?",
+      "choices": [
+        "parasympathetic pre- and post-ganglionic neurons",
+        "sympathetic pre- and post-ganglionic neurons",
+        "parasympathetic post-ganglionic neurons and target organs",
+        "sympathetic post-ganglionic neurons and target organs"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: Noradrenaline is the neurotransmitter between which of the two structures below?\n(A) parasympathetic pre- and post-ganglionic neurons  (B) sympathetic pre- and post-ganglionic neurons  (C) parasympathetic post-ganglionic neurons and target organs  (D) sympathetic post-ganglionic neurons and target organs  \nAnswer: (C)"
+    },
+    {
+      "question": "Which of the following are mucus-producing glands located on each side of the vaginal opening?",
+      "choices": [
+        "Adrenal",
+        "Bartholin's",
+        "Bulbourethral",
+        "Corpus luteum"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following are mucus-producing glands located on each side of the vaginal opening?\n(A) Adrenal  (B) Bartholin's  (C) Bulbourethral  (D) Corpus luteum  \nAnswer: (B)"
+    },
+    {
+      "question": "When an emergency opening into the airway is required, the cricothyroid membrane should be pierced immediately",
+      "choices": [
+        "superior to the thyroid cartilage.",
+        "inferior to the thyroid cartilage.",
+        "inferior to the cricoid cartilage.",
+        "superior to the thyroid isthmus."
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: When an emergency opening into the airway is required, the cricothyroid membrane should be pierced immediately\n(A) superior to the thyroid cartilage.  (B) inferior to the thyroid cartilage.  (C) inferior to the cricoid cartilage.  (D) superior to the thyroid isthmus.  \nAnswer: (C)"
+    },
+    {
+      "question": "Cerebrospinal fluid circulates around the brain between the",
+      "choices": [
+        "skull and dura mater.",
+        "dura mater and arachnoid mater.",
+        "arachnoid and pia maters.",
+        "pia mater and brain surface."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: Cerebrospinal fluid circulates around the brain between the\n(A) skull and dura mater.  (B) dura mater and arachnoid mater.  (C) arachnoid and pia maters.  (D) pia mater and brain surface.  \nAnswer: (B)"
+    },
+    {
+      "question": "Which of the following closes and seals off the lower airway during swallowing?",
+      "choices": [
+        "Alveoli",
+        "Epiglottis",
+        "Larynx",
+        "Uvula"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following closes and seals off the lower airway during swallowing?\n(A) Alveoli  (B) Epiglottis  (C) Larynx  (D) Uvula  \nAnswer: (B)"
+    },
+    {
+      "question": "Which orbital wall is most likely to collapse in a 'blow out' fracture?",
+      "choices": [
+        "The roof",
+        "The floor",
+        "The lateral wall",
+        "The medial wall"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: Which orbital wall is most likely to collapse in a 'blow out' fracture?\n(A) The roof  (B) The floor  (C) The lateral wall  (D) The medial wall  \nAnswer: (C) The lateral wall\nYou are an"
+    },
+    {
+      "question": "The walls of the maxillary sinus are sinus is related to",
+      "choices": [
+        "the floor of the orbit.",
+        "the floor of the orbit and the upper posterior teeth.",
+        "the floor of the orbit, the upper posterior teeth and the infratemporal fossa.",
+        "the floor of the orbit, the upper posterior teeth, the infratemporal fossa and the hard palate."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: The walls of the maxillary sinus are sinus is related to\n(A) the floor of the orbit.  (B) the floor of the orbit and the upper posterior teeth.  (C) the floor of the orbit, the upper posterior teeth and the infratemporal fossa.  (D) the floor of the orbit, the upper posterior teeth, the infratemporal fossa and the hard palate.  \nAnswer: (C)"
+    },
+    {
+      "question": "Which of one of the following statements about the postnatal growth of the maxilla is correct?",
+      "choices": [
+        "Pneumatisation by enlargement of the developing maxillary sinus ceases at puberty",
+        "Space is created for the eruption of the permanent molars by resorption of the maxillary tuberosity",
+        "The zygomaticomaxillary sutures contribute to increase in height and length of the maxilla",
+        "The intermaxillary suture closes about eight years postnatally"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of one of the following statements about the postnatal growth of the maxilla is correct?\n(A) Pneumatisation by enlargement of the developing maxillary sinus ceases at puberty  (B) Space is created for the eruption of the permanent molars by resorption of the maxillary tuberosity  (C) The zygomaticomaxillary sutures contribute to increase in height and length of the maxilla  (D) The intermaxillary suture closes about eight years postnatally  \nAnswer: (C) The zygomaticomaxillary"
+    },
+    {
+      "question": "The seventh cranial nerve supplies",
+      "choices": [
+        "taste buds on the posterior third of the tongue.",
+        "muscles of the soft palate.",
+        "muscles of the lower lip.",
+        "the parotid salivary gland."
+      ],
+      "ground_truth": "C",
+      "prediction": "D",
+      "raw_output": "Question: The seventh cranial nerve supplies\n(A) taste buds on the posterior third of the tongue.  (B) muscles of the soft palate.  (C) muscles of the lower lip.  (D) the parotid salivary gland.  \nAnswer: (D)"
+    },
+    {
+      "question": "Which of the following paranasal sinuses open into the middle meatus?",
+      "choices": [
+        "The anterior ethmoidal sinuses",
+        "The anterior ethmoidal and frontal sinuses",
+        "The anterior ethmoidal, frontal and maxillary sinuses",
+        "The anterior ethmoidal, frontal, maxillary and sphenoidal sinuses"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following paranasal sinuses open into the middle meatus?\n(A) The anterior ethmoidal sinuses  (B) The anterior ethmoidal and frontal sinuses  (C) The anterior ethmoidal, frontal and maxillary sinuses  (D) The anterior ethmoidal, frontal, maxillary and sphenoidal sinuses  \nAnswer: (B)"
+    },
+    {
+      "question": "Which of the following is a structural, fibrous protein found in the dermis?",
+      "choices": [
+        "Collagen",
+        "Heparin",
+        "Lipocyte",
+        "Melanin"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: Which of the following is a structural, fibrous protein found in the dermis?\n(A) Collagen  (B) Heparin  (C) Lipocyte  (D) Melanin  \nAnswer: (A) Collagen\nYou are an AI"
+    },
+    {
+      "question": "Palatine shelf elevation is due to the effect of",
+      "choices": [
+        "descent of the tongue.",
+        "changes in flexure of the developing brain.",
+        "hydrophilic molecules increasing turgor pressure in the palatine shelves.",
+        "a combination of these three processes."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Palatine shelf elevation is due to the effect of\n(A) descent of the tongue.  (B) changes in flexure of the developing brain.  (C) hydrophilic molecules increasing turgor pressure in the palatine shelves.  (D) a combination of these three processes.  \nAnswer: (D)"
+    },
+    {
+      "question": "On which surfaces of the teeth is dental plaque most likely to accumulate in the mouth of a patient with poor oral hygiene?",
+      "choices": [
+        "The palatal surfaces of the upper molars and lingual surfaces of the lower incisors.",
+        "The buccal surfaces of the upper molars and lingual surfaces of the lower incisors.",
+        "The palatal surfaces of the upper molars and labial surfaces of the lower incisors.",
+        "The buccal surfaces of the upper molars and labial surfaces of the lower incisors."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: On which surfaces of the teeth is dental plaque most likely to accumulate in the mouth of a patient with poor oral hygiene?\n(A) The palatal surfaces of the upper molars and lingual surfaces of the lower incisors.  (B) The buccal surfaces of the upper molars and lingual surfaces of the lower incisors.  (C) The palatal surfaces of the upper molars and labial surfaces of the lower incisors.  (D) The buccal surfaces of the upper molars and labial surfaces of the lower incisors.  \nAnswer: (B)"
+    },
+    {
+      "question": "Laryngeal oedema is usually confined to the larynx above the vocal folds because",
+      "choices": [
+        "there are numerous mucous glands in the vestibular folds.",
+        "the mucosa covering the vocal folds is tightly attached to underlying tissues.",
+        "fluid will drain rapidly into the thorax below the vocal folds.",
+        "the mucosa above the vocal folds is more vascular than that below the vocal folds."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Laryngeal oedema is usually confined to the larynx above the vocal folds because\n(A) there are numerous mucous glands in the vestibular folds.  (B) the mucosa covering the vocal folds is tightly attached to underlying tissues.  (C) fluid will drain rapidly into the thorax below the vocal folds.  (D) the mucosa above the vocal folds is more vascular than that below the vocal folds.  \nAnswer: (B)"
+    },
+    {
+      "question": "The coronary arteries",
+      "choices": [
+        "arise from the arch of the aorta and fill during diastole.",
+        "arise from the ascending aorta and fill during systole.",
+        "arise from the arch of the aorta and fill during systole.",
+        "arise from the ascending aorta and fill during diastole."
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: The coronary arteries\n(A) arise from the arch of the aorta and fill during diastole.  (B) arise from the ascending aorta and fill during systole.  (C) arise from the arch of the aorta and fill during systole.  (D) arise from the ascending aorta and fill during diastole.  \nAnswer: (C)"
+    },
+    {
+      "question": "Which muscle is the most active during a right lateral excursion of the mandible?",
+      "choices": [
+        "Left lateral pterygoid muscle",
+        "Right lateral pterygoid muscle",
+        "Left medial pterygoid muscle",
+        "Right medial pterygoid muscle"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: Which muscle is the most active during a right lateral excursion of the mandible?\n(A) Left lateral pterygoid muscle  (B) Right lateral pterygoid muscle  (C) Left medial pterygoid muscle  (D) Right medial pterygoid muscle  \nAnswer: (B)"
+    },
+    {
+      "question": "The phrenic nerves innervate the",
+      "choices": [
+        "diaphragm.",
+        "diaphragm and parietal pleura.",
+        "diaphragm, parietal pleura and pericardium.",
+        "diaphragm, parietal pleura, pericardium and intercostals muscles."
+      ],
+      "ground_truth": "C",
+      "prediction": "D",
+      "raw_output": "Question: The phrenic nerves innervate the\n(A) diaphragm.  (B) diaphragm and parietal pleura.  (C) diaphragm, parietal pleura and pericardium.  (D) diaphragm, parietal pleura, pericardium and intercostals muscles.  \nAnswer: (D)"
+    },
+    {
+      "question": "Parasympathetic preganglionic nerves leave the central nervous system with the",
+      "choices": [
+        "third cranial nerves.",
+        "fourth cranial nerves.",
+        "fifth cranial nerves.",
+        "sixth cranial nerves."
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: Parasympathetic preganglionic nerves leave the central nervous system with the\n(A) third cranial nerves.  (B) fourth cranial nerves.  (C) fifth cranial nerves.  (D) sixth cranial nerves.  \nAnswer: (B)"
+    },
+    {
+      "question": "In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandibular teeth to be",
+      "choices": [
+        "light pink in colour on both sides of the mucogingigival junction.",
+        "light pink below the mucogingival junction and red above it.",
+        "red below the mucogingival junction and light pink above it.",
+        "red on both sides of the mucogingival junction."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandibular teeth to be\n(A) light pink in colour on both sides of the mucogingigival junction.  (B) light pink below the mucogingival junction and red above it.  (C) red below the mucogingival junction and light pink above it.  (D) red on both sides of the mucogingival junction.  \nAnswer: (B)"
+    },
+    {
+      "question": "Macrostomia results from failure of fusion of",
+      "choices": [
+        "maxillary and mandibular processes.",
+        "left and right mandibular processes.",
+        "maxillary and frontonasal processes.",
+        "mandibular and hyoid arches."
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: Macrostomia results from failure of fusion of\n(A) maxillary and mandibular processes.  (B) left and right mandibular processes.  (C) maxillary and frontonasal processes.  (D) mandibular and hyoid arches.  \nAnswer: (D)"
+    },
+    {
+      "question": "You suspect that your patient has an enlarged submandibular salivary gland. You expect the enlarged gland",
+      "choices": [
+        "to be palpable intraorally..",
+        "to be palpable extraorally.",
+        "to be palpable both intra- and extraorally.",
+        "only to be detectable by radiographical examination."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: You suspect that your patient has an enlarged submandibular salivary gland. You expect the enlarged gland\n(A) to be palpable intraorally..  (B) to be palpable extraorally.  (C) to be palpable both intra- and extraorally.  (D) only to be detectable by radiographical examination.  \nAnswer: (C)"
+    },
+    {
+      "question": "Osteoclasts",
+      "choices": [
+        "deposit bone and differentiate from periosteal mesenchymal cells.",
+        "resorb bone and differentiate from periosteal mesenchymal cells.",
+        "deposit bone and differentiate from monocytes.",
+        "resorb bone and differentiate from monocytes."
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Osteoclasts\n(A) deposit bone and differentiate from periosteal mesenchymal cells.  (B) resorb bone and differentiate from periosteal mesenchymal cells.  (C) deposit bone and differentiate from monocytes.  (D) resorb bone and differentiate from monocytes.  \nAnswer: (B) resorb bone and differentiate from peri"
+    },
+    {
+      "question": "The lateral pterygoid muscle",
+      "choices": [
+        "is attached to the coronoid process and elevates the mandible.",
+        "is attached to the condylar process and elevates the mandible.",
+        "is attached to the coronoid process and protrudes the mandible.",
+        "is attached to the condylar process and protrudes the mandible."
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: The lateral pterygoid muscle\n(A) is attached to the coronoid process and elevates the mandible.  (B) is attached to the condylar process and elevates the mandible.  (C) is attached to the coronoid process and protrudes the mandible.  (D) is attached to the condylar process and protrudes the mandible.  \nAnswer: (B)"
+    },
+    {
+      "question": "In the fetus, the ductus arteriosus passes blood from the",
+      "choices": [
+        "pulmonary vein to the aorta.",
+        "aorta to pulmonary vein.",
+        "pulmonary artery to the aorta.",
+        "aorta to the pulmonary artery."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: In the fetus, the ductus arteriosus passes blood from the\n(A) pulmonary vein to the aorta.  (B) aorta to pulmonary vein.  (C) pulmonary artery to the aorta.  (D) aorta to the pulmonary artery.  \nAnswer: (C)"
+    },
+    {
+      "question": "Which of the following bones develop by endochondral ossification?",
+      "choices": [
+        "The ribs",
+        "The ribs and sternum",
+        "The ribs, sternum and clavicle",
+        "The ribs, sternum, clavicle and vertebrae"
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following bones develop by endochondral ossification?\n(A) The ribs  (B) The ribs and sternum  (C) The ribs, sternum and clavicle  (D) The ribs, sternum, clavicle and vertebrae  \nAnswer: (D) The ribs, sternum, cl"
+    },
+    {
+      "question": "The mucosa of the hard palate is",
+      "choices": [
+        "keratinised and has submucosa and minor salivary glands posterolaterally.",
+        "non-keratinised and has submucosa and minor salivary glands posteromedially.",
+        "keratinised and lacks submucosa and minor salivary glands.",
+        "non-keratinised and lacks submucosa and minor salivary glands."
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: The mucosa of the hard palate is\n(A) keratinised and has submucosa and minor salivary glands posterolaterally.  (B) non-keratinised and has submucosa and minor salivary glands posteromedially.  (C) keratinised and lacks submucosa and minor salivary glands.  (D) non-keratinised and lacks submucosa and minor salivary glands.  \nAnswer: (D)"
+    },
+    {
+      "question": "The head of the sixth rib articulates with",
+      "choices": [
+        "The inferior articular facet of T5 and superior articular facet of T6.",
+        "The inferior articular demifacet of T5 and superior articular facet of T6.",
+        "The inferior articular demifacet of T5 and the superior articular demifacet of T6.",
+        "The superior and inferior demifacets of T6."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: The head of the sixth rib articulates with\n(A) The inferior articular facet of T5 and superior articular facet of T6.  (B) The inferior articular demifacet of T5 and superior articular facet of T6.  (C) The inferior articular demifacet of T5 and the superior articular demifacet of T6.  (D) The superior and inferior demifacets of T6.  \nAnswer: (B) The inferior articular demifacet"
+    },
+    {
+      "question": "Which of the following is located beneath the diaphragm in the left upper quadrant of the abdominal cavity?",
+      "choices": [
+        "Appendix",
+        "Duodenum",
+        "Spleen",
+        "Pancreas"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following is located beneath the diaphragm in the left upper quadrant of the abdominal cavity?\n(A) Appendix  (B) Duodenum  (C) Spleen  (D) Pancreas  \nAnswer: (C) Spleen\n\nQuestion: The"
+    },
+    {
+      "question": "Proprioceptive nerve endings in synovial joints are located in",
+      "choices": [
+        "articular cartilage and synovial membrane.",
+        "synovial membrane and capsule.",
+        "capsule and ligaments.",
+        "ligaments and articular discs."
+      ],
+      "ground_truth": "D",
+      "prediction": "A",
+      "raw_output": "Question: Proprioceptive nerve endings in synovial joints are located in\n(A) articular cartilage and synovial membrane.  (B) synovial membrane and capsule.  (C) capsule and ligaments.  (D) ligaments and articular discs.  \nAnswer: (A)"
+    },
+    {
+      "question": "The thoracic cage is a structural unit important for which of the following functions?",
+      "choices": [
+        "Alimentation",
+        "Menstruation",
+        "Mentation",
+        "Respiration"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: The thoracic cage is a structural unit important for which of the following functions?\n(A) Alimentation  (B) Menstruation  (C) Mentation  (D) Respiration  \nAnswer: (D) Respiration\n\nQuestion: The thor"
+    },
+    {
+      "question": "A patient is admitted after a head injury and sinks rapidly into a coma. An MRI scan indicates an extradural haemorrhage because extravasated blood can be detected between the",
+      "choices": [
+        "skull bones and dura mater.",
+        "dura mater and arachnoid.",
+        "arachnoid and pia mater.",
+        "pia mater and brain surface."
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: A patient is admitted after a head injury and sinks rapidly into a coma. An MRI scan indicates an extradural haemorrhage because extravasated blood can be detected between the\n(A) skull bones and dura mater.  (B) dura mater and arachnoid.  (C) arachnoid and pia mater.  (D) pia mater and brain surface.  \nAnswer: (B)"
+    },
+    {
+      "question": "A successful infraorbital nerve block will produce anaesthesia of the",
+      "choices": [
+        "maxillary anterior teeth.",
+        "maxillary anterior teeth and their labial gingivae.",
+        "maxillary anterior teeth, their labial gingivae and the upper lip.",
+        "maxillary anterior teeth, their labial gingivae, the upper lip and anterior hard palate."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: A successful infraorbital nerve block will produce anaesthesia of the\n(A) maxillary anterior teeth.  (B) maxillary anterior teeth and their labial gingivae.  (C) maxillary anterior teeth, their labial gingivae and the upper lip.  (D) maxillary anterior teeth, their labial gingivae, the upper lip and anterior hard palate.  \nAnswer: (B)"
+    },
+    {
+      "question": "Which of the following foramina pierce the sphenoid bone?",
+      "choices": [
+        "The foramen ovale",
+        "The foramen ovale and rotundum",
+        "The foramen ovale, rotundum and spinosum",
+        "The foramen ovale, rotundum and spinosum and foramen lacerum"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following foramina pierce the sphenoid bone?\n(A) The foramen ovale  (B) The foramen ovale and rotundum  (C) The foramen ovale, rotundum and spinosum  (D) The foramen ovale, rotundum and spinosum and foramen lacerum  \nAnswer: (C) The foramen ovale, rot"
+    },
+    {
+      "question": "Which of the following is a disorder characterized by uncontrollable episodes of falling asleep during the day?",
+      "choices": [
+        "Dyslexia",
+        "Epilepsy",
+        "Hydrocephalus",
+        "Narcolepsy"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following is a disorder characterized by uncontrollable episodes of falling asleep during the day?\n(A) Dyslexia  (B) Epilepsy  (C) Hydrocephalus  (D) Narcolepsy  \nAnswer: (D) Narcolepsy\n\nQuestion: Which"
+    },
+    {
+      "question": "Which of the following allows gas exchange in the lungs?",
+      "choices": [
+        "Alveoli",
+        "Bronchi",
+        "Bronchioles",
+        "Capillaries"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: Which of the following allows gas exchange in the lungs?\n(A) Alveoli  (B) Bronchi  (C) Bronchioles  (D) Capillaries  \nAnswer: (A) Alveoli\nYou are an"
+    },
+    {
+      "question": "A patient has a fracture in which the radius is bent but not displaced, and the skin is intact. This type of fracture is known as which of the following?",
+      "choices": [
+        "Closed, greenstick",
+        "Complex, comminuted",
+        "Compound, transverse",
+        "Open, spiral"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: A patient has a fracture in which the radius is bent but not displaced, and the skin is intact. This type of fracture is known as which of the following?\n(A) Closed, greenstick  (B) Complex, comminuted  (C) Compound, transverse  (D) Open, spiral  \nAnswer: (A)"
+    },
+    {
+      "question": "Fertilization of an ovum by a spermatozoon occurs in which of the following structures?",
+      "choices": [
+        "Cervix",
+        "Fallopian tube",
+        "Ovary",
+        "Uterus"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Fertilization of an ovum by a spermatozoon occurs in which of the following structures?\n(A) Cervix  (B) Fallopian tube  (C) Ovary  (D) Uterus  \nAnswer: (B) Fallopian tube\nYou are"
+    },
+    {
+      "question": "Ectoderm gives rise to",
+      "choices": [
+        "the neural tube.",
+        "ectomesenchymal cells.",
+        "dental enamel.",
+        "all three structures."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Ectoderm gives rise to\n(A) the neural tube.  (B) ectomesenchymal cells.  (C) dental enamel.  (D) all three structures.  \nAnswer: (D)"
+    },
+    {
+      "question": "In men, which of the following structures is located at the neck of the bladder and surrounds the urethra?",
+      "choices": [
+        "Epididymis",
+        "Prostate",
+        "Scrotum",
+        "Seminal vesicle"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: In men, which of the following structures is located at the neck of the bladder and surrounds the urethra?\n(A) Epididymis  (B) Prostate  (C) Scrotum  (D) Seminal vesicle  \nAnswer: (B)"
+    },
+    {
+      "question": "Which of the following options completes the following statement? \"The right atrioventricular valve\u2026\"",
+      "choices": [
+        "is a semilunar valve",
+        "is prevented from everting by papillary muscles.",
+        "is open during systole.",
+        "prevents blood returning from the pulmonary trunk as the heart relaxes."
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following options completes the following statement? \"The right atrioventricular valve\u2026\"\n(A) is a semilunar valve  (B) is prevented from everting by papillary muscles.  (C) is open during systole.  (D) prevents blood returning from the pulmonary trunk as the heart relaxes.  \nAnswer: (D)"
+    },
+    {
+      "question": "Which one of the following brain areas is supplied by branches of the subclavian arteries?",
+      "choices": [
+        "The frontal lobe",
+        "The parietal lobe",
+        "The hypothalamus",
+        "The cerebellum"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Which one of the following brain areas is supplied by branches of the subclavian arteries?\n(A) The frontal lobe  (B) The parietal lobe  (C) The hypothalamus  (D) The cerebellum  \nAnswer: (B)"
+    },
+    {
+      "question": "Which of the following structures is part of the small intestine?",
+      "choices": [
+        "Ascending colon",
+        "Cecum",
+        "Ileum",
+        "Sigmoid colon"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following structures is part of the small intestine?\n(A) Ascending colon  (B) Cecum  (C) Ileum  (D) Sigmoid colon  \nAnswer: (C) Ileum\nYou are an"
+    },
+    {
+      "question": "During an inferior alveolar nerve block the needle ideally passes",
+      "choices": [
+        "posterior and medial to medial pterygoid.",
+        "anterior and lateral to medial pterygoid.",
+        "through medial pterygoid.",
+        "inferior to medial pterygoid."
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: During an inferior alveolar nerve block the needle ideally passes\n(A) posterior and medial to medial pterygoid.  (B) anterior and lateral to medial pterygoid.  (C) through medial pterygoid.  (D) inferior to medial pterygoid.  \nAnswer: (B) anterior and lateral to medial ptery"
+    },
+    {
+      "question": "Patients with which of the following diseases are treated with injections of vitamin B-12?",
+      "choices": [
+        "Bell's palsy",
+        "Crohn's disease",
+        "Pernicious anemia",
+        "Graves' disease"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Patients with which of the following diseases are treated with injections of vitamin B-12?\n(A) Bell's palsy  (B) Crohn's disease  (C) Pernicious anemia  (D) Graves' disease  \nAnswer: (C) Pernicious anemia\n\nQuestion"
+    },
+    {
+      "question": "Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch?",
+      "choices": [
+        "The maxillary bone",
+        "The temporal bone",
+        "The sphenoid bone",
+        "The frontal bone"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch?\n(A) The maxillary bone  (B) The temporal bone  (C) The sphenoid bone  (D) The frontal bone  \nAnswer: (B)"
+    },
+    {
+      "question": "Parasympathetic preganglionic axons leave the CNS with the",
+      "choices": [
+        "cervical spinal nerves.",
+        "thoracic spinal nerves.",
+        "lumbar spinal nerves.",
+        "sacral spinal nerves."
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Parasympathetic preganglionic axons leave the CNS with the\n(A) cervical spinal nerves.  (B) thoracic spinal nerves.  (C) lumbar spinal nerves.  (D) sacral spinal nerves.  \nAnswer: (B)"
+    },
+    {
+      "question": "A patient with damage to their cervical sympathetic chain will show the following signs and symptoms.",
+      "choices": [
+        "Pupillary constriction",
+        "Pupillary constriction and vasodilation of facial vessels",
+        "Pupillary constriction, vasodilation of facial vessels and increased facial sweating",
+        "Pupillary constriction, vasodilation of facial vessels, increased facial sweating and decreased lacrimation"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: A patient with damage to their cervical sympathetic chain will show the following signs and symptoms.\n(A) Pupillary constriction  (B) Pupillary constriction and vasodilation of facial vessels  (C) Pupillary constriction, vasodilation of facial vessels and increased facial sweating  (D) Pupillary constriction, vasodilation of facial vessels, increased facial sweating and decreased lacrimation  \nAnswer: (C)\nIs the following statement true?\n\""
+    },
+    {
+      "question": "Which of the following cranial nerves is related to the sense of smell?",
+      "choices": [
+        "Abducens",
+        "Hypoglossal",
+        "Olfactory",
+        "Trochlear"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following cranial nerves is related to the sense of smell?\n(A) Abducens  (B) Hypoglossal  (C) Olfactory  (D) Trochlear  \nAnswer: C"
+    },
+    {
+      "question": "Where are the vital centres located in the brainstem?",
+      "choices": [
+        "midbrain",
+        "pons",
+        "medulla oblongata",
+        "cerebellum"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Where are the vital centres located in the brainstem?\n(A) midbrain  (B) pons  (C) medulla oblongata  (D) cerebellum  \nAnswer: (C)"
+    },
+    {
+      "question": "Saliva contains an enzyme that acts upon which of the following nutrients?",
+      "choices": [
+        "Starches",
+        "Proteins",
+        "Fats",
+        "Minerals"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: Saliva contains an enzyme that acts upon which of the following nutrients?\n(A) Starches  (B) Proteins  (C) Fats  (D) Minerals  \nAnswer: (B) Proteins\nYou are an AI"
+    },
+    {
+      "question": "During swallowing the",
+      "choices": [
+        "auditory tube opens.",
+        "cricopharyngeus muscle contracts.",
+        "rima glottis opens.",
+        "gag reflex is suspended."
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: During swallowing the\n(A) auditory tube opens.  (B) cricopharyngeus muscle contracts.  (C) rima glottis opens.  (D) gag reflex is suspended.  \nAnswer: (B)"
+    },
+    {
+      "question": "The dorsal roots of all spinal nerves contain",
+      "choices": [
+        "sensory neuronal processes.",
+        "sensory and autonomic neuronal processes.",
+        "motor neuronal processes.",
+        "motor and autonomic neuronal processes."
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: The dorsal roots of all spinal nerves contain\n(A) sensory neuronal processes.  (B) sensory and autonomic neuronal processes.  (C) motor neuronal processes.  (D) motor and autonomic neuronal processes.  \nAnswer: (D)"
+    },
+    {
+      "question": "Which of the following is the master gland of the endocrine system?",
+      "choices": [
+        "Adrenal",
+        "Pancreas",
+        "Pineal",
+        "Pituitary"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following is the master gland of the endocrine system?\n(A) Adrenal  (B) Pancreas  (C) Pineal  (D) Pituitary  \nAnswer: (D) Pituitary\n\nQuestion: Which"
+    },
+    {
+      "question": "Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the",
+      "choices": [
+        "lingual branch of the mandibular trigeminal nerve.",
+        "chorda tympani branch of the facial nerve.",
+        "lingual branch of the glossopharyngeal nerve.",
+        "hypoglossal nerve."
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the\n(A) lingual branch of the mandibular trigeminal nerve.  (B) chorda tympani branch of the facial nerve.  (C) lingual branch of the glossopharyngeal nerve.  (D) hypoglossal nerve.  \nAnswer: (C)"
+    },
+    {
+      "question": "In men, specimens for gonococcal cultures are most commonly obtained from which of the following structures?",
+      "choices": [
+        "Anus",
+        "Bladder",
+        "Urethra",
+        "Testicle"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: In men, specimens for gonococcal cultures are most commonly obtained from which of the following structures?\n(A) Anus  (B) Bladder  (C) Urethra  (D) Testicle  \nAnswer: (B) Bladder\nYou are an AI"
+    },
+    {
+      "question": "Which of the following structures should be visible on a dental panoramic radiograph?",
+      "choices": [
+        "The mandibular canal",
+        "The mandibular canal and maxillary sinus",
+        "The mandibular canal, maxillary sinus and hard palate",
+        "The mandibular canal, maxillary sinus, hard palate and zygomatic arch"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following structures should be visible on a dental panoramic radiograph?\n(A) The mandibular canal  (B) The mandibular canal and maxillary sinus  (C) The mandibular canal, maxillary sinus and hard palate  (D) The mandibular canal, maxillary sinus, hard palate and zygomatic arch  \nAnswer: (D)"
+    }
+  ]
+}

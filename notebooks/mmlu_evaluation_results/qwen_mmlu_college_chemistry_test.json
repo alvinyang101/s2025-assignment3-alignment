@@ -1,0 +1,1205 @@
+{
+  "accuracy": 0.31,
+  "results": [
+    {
+      "question": "The rate, r, of a zero-order chemical reaction A \u2192 B can be expressed as which of the following?",
+      "choices": [
+        "r = k ln[A]",
+        "r = k [A]^2",
+        "r = k [A]",
+        "r = k"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: The rate, r, of a zero-order chemical reaction A \u2192 B can be expressed as which of the following?\n(A) r = k ln[A]  (B) r = k [A]^2  (C) r = k [A]  (D) r = k  \nAnswer: (C) r = k [A]  \n"
+    },
+    {
+      "question": "Infrared (IR) spectroscopy is useful for determining certain aspects of the structure of organic molecules because",
+      "choices": [
+        "all molecular bonds absorb IR radiation",
+        "IR peak intensities are related to molecular mass",
+        "most organic functional groups absorb in a characteristic region of the IR spectrum",
+        "each element absorbs at a characteristic wavelength"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Infrared (IR) spectroscopy is useful for determining certain aspects of the structure of organic molecules because\n(A) all molecular bonds absorb IR radiation  (B) IR peak intensities are related to molecular mass  (C) most organic functional groups absorb in a characteristic region of the IR spectrum  (D) each element absorbs at a characteristic wavelength  \nAnswer: C"
+    },
+    {
+      "question": "What is the maximum number of phases that can be at equilibrium with each other in a three component mixture?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: What is the maximum number of phases that can be at equilibrium with each other in a three component mixture?\n(A) 2  (B) 3  (C) 4  (D) 5  \nAnswer: (B)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "When the following equation is balanced, which of the following is true?\n__ MnO4\u2212 + __ I\u2212 + __ H+ <-> __ Mn2+ + __ IO3\u2212 + __ H2O",
+      "choices": [
+        "The I\u2212 : IO3\u2212 ratio is 3:1.",
+        "The MnO4- : I- ratio is 6:5.",
+        "The MnO4- : Mn2+ ratio is 3:1.",
+        "The H+ : I\u2212 ratio is 2:1."
+      ],
+      "ground_truth": "B",
+      "prediction": "A",
+      "raw_output": "Question: When the following equation is balanced, which of the following is true?\n__ MnO4\u2212 + __ I\u2212 + __ H+ <-> __ Mn2+ + __ IO3\u2212 + __ H2O\n(A) The I\u2212 : IO3\u2212 ratio is 3:1.  (B) The MnO4- : I- ratio is 6:5.  (C) The MnO4- : Mn2+ ratio is 3:1.  (D) The H+ : I\u2212 ratio is 2:1.  \nAnswer: (A) The I\u2212 : IO3\u2212"
+    },
+    {
+      "question": "The equation \u0394H = \u0394U + P\u0394V is applicable",
+      "choices": [
+        "always",
+        "only for constant pressure processes",
+        "only for constant temperature processes",
+        "only for constant volume processes"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: The equation \u0394H = \u0394U + P\u0394V is applicable\n(A) always  (B) only for constant pressure processes  (C) only for constant temperature processes  (D) only for constant volume processes  \nAnswer: (B) only for constant pressure processes\nWhat"
+    },
+    {
+      "question": "Nitronyl nitroxides are stable radicals in which the unpaired electron is coupled to two equivalent nitrogen nuclei. How many lines will appear in the EPR spectrum of a solution of a rigid nitronyl nitroxide diradical with J << a?",
+      "choices": [
+        "3 lines",
+        "9 lines",
+        "5 lines",
+        "7 lines"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: Nitronyl nitroxides are stable radicals in which the unpaired electron is coupled to two equivalent nitrogen nuclei. How many lines will appear in the EPR spectrum of a solution of a rigid nitronyl nitroxide diradical with J << a?\n(A) 3 lines  (B) 9 lines  (C) 5 lines  (D) 7 lines  \nAnswer: (C) 5 lines\nCo-ordination"
+    },
+    {
+      "question": "Cobalt-60 is used in the radiation therapy of cancer and can be produced by bombardment of cobalt-59 with which of the following?",
+      "choices": [
+        "Neutrons",
+        "Alpha particles",
+        "Beta particles",
+        "X-rays"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: Cobalt-60 is used in the radiation therapy of cancer and can be produced by bombardment of cobalt-59 with which of the following?\n(A) Neutrons  (B) Alpha particles  (C) Beta particles  (D) X-rays  \nAnswer: (C) Beta particles\n\nQuestion: Which of"
+    },
+    {
+      "question": "Which of the following is required for both paramagnetism and ferromagnetism?",
+      "choices": [
+        "Strong oxidizing conditions",
+        "Low-spin electron configuration",
+        "Metallic physical properties",
+        "Unpaired electrons"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following is required for both paramagnetism and ferromagnetism?\n(A) Strong oxidizing conditions  (B) Low-spin electron configuration  (C) Metallic physical properties  (D) Unpaired electrons  \nAnswer: (D) Unpaired electrons\n\nQuestion: What"
+    },
+    {
+      "question": "The 1H spectrum of a mixture of dimethylsulphoxide (DMSO) and acetonitrile (AN) contains lines with relative intensities \u03b1 and 3\u03b1, respectively. What is the ratio of the two concentrations, [DMSO]:[AN]?",
+      "choices": [
+        "1:1",
+        "1:3",
+        "1:6",
+        "2:3"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: The 1H spectrum of a mixture of dimethylsulphoxide (DMSO) and acetonitrile (AN) contains lines with relative intensities \u03b1 and 3\u03b1, respectively. What is the ratio of the two concentrations, [DMSO]:[AN]?\n(A) 1:1  (B) 1:3  (C) 1:6  (D) 2:3  \nAnswer: (B)\nIs the question answered correctly? "
+    },
+    {
+      "question": "Which of the following statements most accurately explains why the T1 of a nucleus is sometimes longer than its T2?",
+      "choices": [
+        "T1, unlike T2, is sensitive to very low-frequency molecular motions.",
+        "T2, unlike T1, is sensitive to very low-frequency molecular motions.",
+        "T1, unlike T2, is sensitive to molecular motions at the Larmor frequency.",
+        "T2, unlike T1, is sensitive to molecular motions at the Larmor frequency."
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following statements most accurately explains why the T1 of a nucleus is sometimes longer than its T2?\n(A) T1, unlike T2, is sensitive to very low-frequency molecular motions.  (B) T2, unlike T1, is sensitive to very low-frequency molecular motions.  (C) T1, unlike T2, is sensitive to molecular motions at the Larmor frequency.  (D) T2, unlike T1, is sensitive to molecular motions at the Larmor frequency.  \nAnswer: (B) T2, unlike T1,"
+    },
+    {
+      "question": "The 1H Larmor frequency of benzene exceeds that of trifluoroacetic acid by 1.656 kHz on a 400 MHz spectrometer. The 1H chemical shift of benzene is 7.16 ppm. What is the chemical shift of trifluoroacetic acid?",
+      "choices": [
+        "3.02 ppm",
+        "5.03 ppm",
+        "10.56 ppm",
+        "11.30 ppm"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: The 1H Larmor frequency of benzene exceeds that of trifluoroacetic acid by 1.656 kHz on a 400 MHz spectrometer. The 1H chemical shift of benzene is 7.16 ppm. What is the chemical shift of trifluoroacetic acid?\n(A) 3.02 ppm  (B) 5.03 ppm  (C) 10.56 ppm  (D) 11.30 ppm  \nAnswer: (C) 10.56 ppm"
+    },
+    {
+      "question": "Suppose that the 13C nuclei in a molecule in a 600 MHz spectrometer can be 100% polarized (p = 1). If T1 = 5.0 s, how long does it take for p to reach a value equal to twice the thermal equilibrium polarization at 298 K?",
+      "choices": [
+        "[The polarization relaxes exponentially: p(t) = [p(0) - peq]exp(-t/T1) + peq.]",
+        "72.0 s",
+        "56.6 s",
+        "12.7 s"
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: Suppose that the 13C nuclei in a molecule in a 600 MHz spectrometer can be 100% polarized (p = 1). If T1 = 5.0 s, how long does it take for p to reach a value equal to twice the thermal equilibrium polarization at 298 K?\n(A) [The polarization relaxes exponentially: p(t) = [p(0) - peq]exp(-t/T1) + peq.]  (B) 72.0 s  (C) 56.6 s  (D) 12.7 s  \nAnswer: (D) 12.7 s\n"
+    },
+    {
+      "question": "Estimate the \u03b2-hyperfine value for the cyclobutyl radical (C4H7\u2022) assuming the radical is flat and the HCH angle is 115\u00b0.",
+      "choices": [
+        "4.6 mT",
+        "27 G",
+        "5.4 mT",
+        "3.8 mT"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: Estimate the \u03b2-hyperfine value for the cyclobutyl radical (C4H7\u2022) assuming the radical is flat and the HCH angle is 115\u00b0.\n(A) 4.6 mT  (B) 27 G  (C) 5.4 mT  (D) 3.8 mT  \nAnswer: (C) 5.4 mT\n"
+    },
+    {
+      "question": "What is the ratio of line intensities in the EPR spectrum of the t-Bu radical (CH3)3C\u2022?",
+      "choices": [
+        "1:19:36:84:126:126:84:36:19:1",
+        "1:9:36:84:126:126:84:36:9:1",
+        "1:9:35:82:120:120:82:35:9:1",
+        "1:8:28:56:70:56:28:8:1"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: What is the ratio of line intensities in the EPR spectrum of the t-Bu radical (CH3)3C\u2022?\n(A) 1:19:36:84:126:126:84:36:19:1  (B) 1:9:36:84:126:126:84:36:9:1  (C) 1:9:35:82:120:120:82:35:9:1  (D) 1:8:28:56:70:56:28:8:1  \nAnswer: (B)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "Which one sentence explains most accurately why spin trapping is often used to detect free radical intermediates?",
+      "choices": [
+        "spin trapping provides more structural information than direct detection by EPR",
+        "spin trapping makes it easy to quantify free radical intermediates",
+        "steady state concentration of free radical intermediates is often too low to enable direct detection by EPR",
+        "detection of spin adducts requires lower power than direct detection of radical intermediates"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: Which one sentence explains most accurately why spin trapping is often used to detect free radical intermediates?\n(A) spin trapping provides more structural information than direct detection by EPR  (B) spin trapping makes it easy to quantify free radical intermediates  (C) steady state concentration of free radical intermediates is often too low to enable direct detection by EPR  (D) detection of spin adducts requires lower power than direct detection of radical intermediates  \nAnswer: (C) steady state concentration of free radical intermedi"
+    },
+    {
+      "question": "Calculate the magnetic moment (\u03bcI) of a 13C nucleus.",
+      "choices": [
+        "6.1445 x 10^-27 J T-1",
+        "3.1445 x 10^-27 J T-1",
+        "9.1445 x 10^-27 J T-1",
+        "1.1445 x 10^-28 J T-1"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Calculate the magnetic moment (\u03bcI) of a 13C nucleus.\n(A) 6.1445 x 10^-27 J T-1  (B) 3.1445 x 10^-27 J T-1  (C) 9.1445 x 10^-27 J T-1  (D) 1.1445 x 10^-28 J T-1  \nAnswer: (C)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "The normal modes of a carbon dioxide molecule that are infrared-active include which of the following?\nI. Bending\nII. Symmetric stretching\nIII. Asymmetric stretching",
+      "choices": [
+        "I only",
+        "II only",
+        "III only",
+        "I and III only"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: The normal modes of a carbon dioxide molecule that are infrared-active include which of the following?\nI. Bending\nII. Symmetric stretching\nIII. Asymmetric stretching\n(A) I only  (B) II only  (C) III only  (D) I and III only  \nAnswer: (D) I and III only\n\nQuestion:"
+    },
+    {
+      "question": "Which of the following is a true statement about optical isomerism of complexes containing achiral ligands?",
+      "choices": [
+        "Square planar complexes can display optical isomerism only if all four ligands are identical.",
+        "Tetrahedral complexes never display optical isomerism.",
+        "Linear complexes can display optical isomerism when both ligands are different.",
+        "Octahedral complexes of monodentate ligands can display optical isomerism only when they have at least three different ligands."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following is a true statement about optical isomerism of complexes containing achiral ligands?\n(A) Square planar complexes can display optical isomerism only if all four ligands are identical.  (B) Tetrahedral complexes never display optical isomerism.  (C) Linear complexes can display optical isomerism when both ligands are different.  (D) Octahedral complexes of monodentate ligands can display optical isomerism only when they have at least three different ligands.  \nAnswer: (D) Octahedral complexes of monod"
+    },
+    {
+      "question": "Which one of the following statements is true:",
+      "choices": [
+        "Protons and neutrons have orbital and spin angular momentum.",
+        "Protons have orbital and spin angular momentum, neutrons have spin angular momentum.",
+        "Protons and neutrons possess orbital angular momentum only.",
+        "Protons and neutrons possess spin angular momentum only."
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: Which one of the following statements is true:\n(A) Protons and neutrons have orbital and spin angular momentum.  (B) Protons have orbital and spin angular momentum, neutrons have spin angular momentum.  (C) Protons and neutrons possess orbital angular momentum only.  (D) Protons and neutrons possess spin angular momentum only.  \nAnswer: (B)"
+    },
+    {
+      "question": "Calculate the Larmor frequency for a proton in a magnetic field of 1 T.",
+      "choices": [
+        "23.56 GHz",
+        "42.58 MHz",
+        "74.34 kHz",
+        "13.93 MHz"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Calculate the Larmor frequency for a proton in a magnetic field of 1 T.\n(A) 23.56 GHz  (B) 42.58 MHz  (C) 74.34 kHz  (D) 13.93 MHz  \nAnswer: (B)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "Which of the following is an n-type semiconductor?",
+      "choices": [
+        "Silicon",
+        "Diamond",
+        "Silicon carbide",
+        "Arsenic-doped silicon"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following is an n-type semiconductor?\n(A) Silicon  (B) Diamond  (C) Silicon carbide  (D) Arsenic-doped silicon  \nAnswer: (C) Silicon carbide\n\nQuestion: Which"
+    },
+    {
+      "question": "Which of the following statements most accurately explains why the 1H spectrum of 12CHCl3 is a singlet?",
+      "choices": [
+        "Both 35Cl and 37Cl have I = 0.",
+        "The hydrogen atom undergoes rapid intermolecular exchange.",
+        "The molecule is not rigid.",
+        "Both 35Cl and 37Cl have electric quadrupole moments."
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following statements most accurately explains why the 1H spectrum of 12CHCl3 is a singlet?\n(A) Both 35Cl and 37Cl have I = 0.  (B) The hydrogen atom undergoes rapid intermolecular exchange.  (C) The molecule is not rigid.  (D) Both 35Cl and 37Cl have electric quadrupole moments.  \nAnswer: (B) The hydrogen atom undergoes rapid inter"
+    },
+    {
+      "question": "At 25\u00b0C, the maximum amount of PbI2 that can be dissolved in 1.00 L of pure water is 1.0 mmol. Assuming complete dissociation, the solubility product, K_sp, for lead iodide at 25\u00b0C is",
+      "choices": [
+        "1.0 \u00d7 10^\u22123",
+        "1.0 \u00d7 10^\u22126",
+        "1.0 \u00d7 10^\u22129",
+        "4.0 \u00d7 10^\u22129"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: At 25\u00b0C, the maximum amount of PbI2 that can be dissolved in 1.00 L of pure water is 1.0 mmol. Assuming complete dissociation, the solubility product, K_sp, for lead iodide at 25\u00b0C is\n(A) 1.0 \u00d7 10^\u22123  (B) 1.0 \u00d7 10^\u22126  (C) 1.0 \u00d7 10^\u22129  (D) 4.0 \u00d7 10^\u22129  \nAnswer: (C)\nIs the question correct?\n\nPossible answers"
+    },
+    {
+      "question": "The 13C spectrum of which isomer of C6H14 has lines with five distinct chemical shifts?",
+      "choices": [
+        "hexane",
+        "2-methylpentane",
+        "3-methylpentane",
+        "2,3-dimethylbutane"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: The 13C spectrum of which isomer of C6H14 has lines with five distinct chemical shifts?\n(A) hexane  (B) 2-methylpentane  (C) 3-methylpentane  (D) 2,3-dimethylbutane  \nAnswer: (B)\nIs this correct? Yes, that"
+    },
+    {
+      "question": "Which of the following is the most common naturally-occurring form in which silicon is found?",
+      "choices": [
+        "Metallic element",
+        "Sulfide",
+        "Fluoride",
+        "Oxide"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following is the most common naturally-occurring form in which silicon is found?\n(A) Metallic element  (B) Sulfide  (C) Fluoride  (D) Oxide  \nAnswer: (B)"
+    },
+    {
+      "question": "Which nuclide has an NMR frequency of 115.5 MHz in a 20.0 T magnetic field?",
+      "choices": [
+        "17O",
+        "19F",
+        "29Si",
+        "31P"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: Which nuclide has an NMR frequency of 115.5 MHz in a 20.0 T magnetic field?\n(A) 17O  (B) 19F  (C) 29Si  (D) 31P  \nAnswer: (B) 19F\nYou are"
+    },
+    {
+      "question": "Which of the following must be true about a binary liquid mixture that obeys Raoult\u2019s law?\nI. The partial pressure of each component at equilibrium is proportional to its mole fraction in the liquid mixture.\nII. The volume of the mixture is equal to the sum of the volumes of each component before mixing.\nIII. Intermolecular interactions in the mixture are identical to intermolecular interactions in the pure components.",
+      "choices": [
+        "I only",
+        "III only",
+        "I and III only",
+        "I, II, and III"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following must be true about a binary liquid mixture that obeys Raoult\u2019s law?\nI. The partial pressure of each component at equilibrium is proportional to its mole fraction in the liquid mixture.\nII. The volume of the mixture is equal to the sum of the volumes of each component before mixing.\nIII. Intermolecular interactions in the mixture are identical to intermolecular interactions in the pure components.\n(A) I only  (B) III only  (C) I and III only  (D) I, II, and III  \nAnswer: (D) I, II, and III\n\n"
+    },
+    {
+      "question": "A single line is seen in the 31P spectrum of a solution of sodium phosphate. The 31P chemical shifts of H2PO4\u203e and HPO42\u2013 are 3.42 ppm and 5.82 ppm respectively. What is the chemical shift when the pH of the solution equals the pKa of H2PO4\u203e?",
+      "choices": [
+        "3.41 ppm",
+        "3.98 ppm",
+        "4.33 ppm",
+        "4.62 ppm"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: A single line is seen in the 31P spectrum of a solution of sodium phosphate. The 31P chemical shifts of H2PO4\u203e and HPO42\u2013 are 3.42 ppm and 5.82 ppm respectively. What is the chemical shift when the pH of the solution equals the pKa of H2PO4\u203e?\n(A) 3.41 ppm  (B) 3.98 ppm  (C) 4.33 ppm  (D) 4.62 ppm  \nAnswer: (B)\nIs this answer correct?\n\nPick from"
+    },
+    {
+      "question": "For EDTA titrations, the analyte solution and the titrant solution are both buffered at the same pH for which of the following reasons?\nI. The conditional formation constant is affected by pH.\nII. The fraction of EDTA in the fully deprotonated Y4\u2212 form varies with pH.\nIII. When EDTA reacts to form a metal complex, H+ is a product in most cases.",
+      "choices": [
+        "I only",
+        "I and II only",
+        "I and III only",
+        "I, II, and III"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: For EDTA titrations, the analyte solution and the titrant solution are both buffered at the same pH for which of the following reasons?\nI. The conditional formation constant is affected by pH.\nII. The fraction of EDTA in the fully deprotonated Y4\u2212 form varies with pH.\nIII. When EDTA reacts to form a metal complex, H+ is a product in most cases.\n(A) I only  (B) I and II only  (C) I and III only  (D) I, II, and III  \nAnswer: (D)"
+    },
+    {
+      "question": "The Henry\u2019s law constant for CO2 dissolved in water at 25\u00b0C is 30.0 atm M^\u22121. The concentration of dissolved CO2 in a vessel pressurized with 2.0 atm of CO2 is",
+      "choices": [
+        "1.5 M",
+        "0.15 M",
+        "0.067 M",
+        "0.015 M"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: The Henry\u2019s law constant for CO2 dissolved in water at 25\u00b0C is 30.0 atm M^\u22121. The concentration of dissolved CO2 in a vessel pressurized with 2.0 atm of CO2 is\n(A) 1.5 M  (B) 0.15 M  (C) 0.067 M  (D) 0.015 M  \nAnswer: (B)\nIs this correct?\nYes, the"
+    },
+    {
+      "question": "A student performs five titrations and obtains a mean result of 0.110 M, with a standard deviation of 0.001 M. If the actual concentration of the titrated solution is 0.100 M, which of the following is true about the titration results?",
+      "choices": [
+        "Accurate but not precise",
+        "Precise but not accurate",
+        "Both accurate and precise",
+        "Neither accurate nor precise"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: A student performs five titrations and obtains a mean result of 0.110 M, with a standard deviation of 0.001 M. If the actual concentration of the titrated solution is 0.100 M, which of the following is true about the titration results?\n(A) Accurate but not precise  (B) Precise but not accurate  (C) Both accurate and precise  (D) Neither accurate nor precise  \nAnswer: (B) Precise but not accurate\nExplanation"
+    },
+    {
+      "question": "A Cu(II) metal ion (giso = 2.12) produces four lines with a separation of 500 MHz between each line. Express the hyperfine splitting in field units of mT and the hyperfine coupling in units of wavenumbers.",
+      "choices": [
+        "500 MHz = 0.185 mT = 0.29842 cm-1",
+        "500 MHz = 16.850 mT = 0.01667 cm-1",
+        "500 MHz = 32.953 mT = 0.76298 cm-1",
+        "500 MHz = 45.672 mT = 2.86329 cm-1"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: A Cu(II) metal ion (giso = 2.12) produces four lines with a separation of 500 MHz between each line. Express the hyperfine splitting in field units of mT and the hyperfine coupling in units of wavenumbers.\n(A) 500 MHz = 0.185 mT = 0.29842 cm-1  (B) 500 MHz = 16.850 mT = 0.01667 cm-1  (C) 500 MHz = 32.953 mT = 0.76298 cm-1  (D) 500 MHz = 45.672 mT = 2.86329 cm-1  \nAnswer: (C)\nMy answer: (C) "
+    },
+    {
+      "question": "On the basis of oxidation-reduction potential, which of the following is most likely to occur?",
+      "choices": [
+        "Al(s) + 3 NaNO3(aq) 3 Na(s) + Al(NO3)3(aq)",
+        "Zn(s) + 2 Ag(NO3)(aq) \u2192 2 Ag(s) + Zn(NO3)2(aq)",
+        "Pb(s) + Ca(NO3)2(aq) \u2192 Ca(s) + Pb(NO3)2(aq)",
+        "Pb(s) + 2 LiNO3(aq) \u2192 2 Li(s) + Pb(NO3)2(aq)"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: On the basis of oxidation-reduction potential, which of the following is most likely to occur?\n(A) Al(s) + 3 NaNO3(aq) 3 Na(s) + Al(NO3)3(aq)  (B) Zn(s) + 2 Ag(NO3)(aq) \u2192 2 Ag(s) + Zn(NO3)2(aq)  (C) Pb(s) + Ca(NO3)2(aq) \u2192 Ca(s) + Pb(NO3)2(aq)  (D) Pb(s) + 2 LiNO3(aq) \u2192 2 Li(s) + Pb(NO3)2(aq)  \nAnswer: (B)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "Which of the following statements is not a reason why tetramethylsilane is used as a 1H chemical shift reference.",
+      "choices": [
+        "Its 1H spectrum is a singlet.",
+        "Its protons are quite strongly shielded.",
+        "It dissolves in most organic solvents.",
+        "Most organic compounds do not contain silicon atoms."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following statements is not a reason why tetramethylsilane is used as a 1H chemical shift reference.\n(A) Its 1H spectrum is a singlet.  (B) Its protons are quite strongly shielded.  (C) It dissolves in most organic solvents.  (D) Most organic compounds do not contain silicon atoms.  \nAnswer: (D) Most organic compounds do not contain silicon"
+    },
+    {
+      "question": "The X-band (9.5 GHz) EPR spectrum of a matrix isolated Na atom reveals four hyperfine lines with resonant field positions of 3074 G, 3174 G, 3274 G and 3374 G. Calculate the g value of the atom.",
+      "choices": [
+        "g = 2.002",
+        "g = 1.950",
+        "g = 2.250",
+        "g = 2.005"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: The X-band (9.5 GHz) EPR spectrum of a matrix isolated Na atom reveals four hyperfine lines with resonant field positions of 3074 G, 3174 G, 3274 G and 3374 G. Calculate the g value of the atom.\n(A) g = 2.002  (B) g = 1.950  (C) g = 2.250  (D) g = 2.005  \nAnswer: (C) g = 2.25"
+    },
+    {
+      "question": "Calculate the spin angular momentum of 43Ca. [I = 7\u20442]",
+      "choices": [
+        "2.166 x 10^-34 J s",
+        "3.691 x 10^-34 J s",
+        "4.185 x 10^-34 J s",
+        "5.493 x 10^-34 J s"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Calculate the spin angular momentum of 43Ca. [I = 7\u20442]\n(A) 2.166 x 10^-34 J s  (B) 3.691 x 10^-34 J s  (C) 4.185 x 10^-34 J s  (D) 5.493 x 10^-34 J s  \nAnswer: (C)  \nExplanation: The spin angular momentum"
+    },
+    {
+      "question": "Calculate the magnetic field responsible for the polarization of 2.5 x 10^-6 for 13C at 298 K.",
+      "choices": [
+        "0.5 T",
+        "1.2 T",
+        "2.9 T",
+        "100 T"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: Calculate the magnetic field responsible for the polarization of 2.5 x 10^-6 for 13C at 298 K.\n(A) 0.5 T  (B) 1.2 T  (C) 2.9 T  (D) 100 T  \nAnswer: (B)\nIs this correct? Yes, this"
+    },
+    {
+      "question": "The T2 of an NMR line is 15 ms. Ignoring other sources of linebroadening, calculate its linewidth.",
+      "choices": [
+        "0.0471 Hz",
+        "21.2 Hz",
+        "42.4 Hz",
+        "66.7 Hz"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: The T2 of an NMR line is 15 ms. Ignoring other sources of linebroadening, calculate its linewidth.\n(A) 0.0471 Hz  (B) 21.2 Hz  (C) 42.4 Hz  (D) 66.7 Hz  \nAnswer: (B)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "What is the maximum value of the z-component of the spin angular momentum of 43Ca? [I = 7\u20442]",
+      "choices": [
+        "3.691 x 10^-34 J s",
+        "4.185 x 10^-34 J s",
+        "5.493 x 10^-34 J s",
+        "8.370 x 10^-34 J s"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: What is the maximum value of the z-component of the spin angular momentum of 43Ca? [I = 7\u20442]\n(A) 3.691 x 10^-34 J s  (B) 4.185 x 10^-34 J s  (C) 5.493 x 10^-34 J s  (D) 8.370 x 10^-34 J s  \nAnswer: (C)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "Of the following compounds, which has the lowest melting point?",
+      "choices": [
+        "HCl",
+        "AgCl",
+        "CaCl2",
+        "CCl4"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: Of the following compounds, which has the lowest melting point?\n(A) HCl  (B) AgCl  (C) CaCl2  (D) CCl4  \nAnswer: (C) CaCl2\nYou are an"
+    },
+    {
+      "question": "Which of the following statements about nuclear binding energies is NOT true?",
+      "choices": [
+        "Binding energy per nucleon reaches a maximum for 56Fe.",
+        "Nuclear binding energies have about the same magnitude as chemical bond energies.",
+        "Nuclei have slightly less mass than the sum of their component nucleons.",
+        "The nuclei of heavy elements have more neutrons than protons in order to provide sufficient binding energy to hold the nuclei together."
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following statements about nuclear binding energies is NOT true?\n(A) Binding energy per nucleon reaches a maximum for 56Fe.  (B) Nuclear binding energies have about the same magnitude as chemical bond energies.  (C) Nuclei have slightly less mass than the sum of their component nucleons.  (D) The nuclei of heavy elements have more neutrons than protons in order to provide sufficient binding energy to hold the nuclei together.  \nAnswer: (D) The nuclei of heavy elements have more"
+    },
+    {
+      "question": "Predict the hyperfine value for the EPR spectrum of fully deuteriated benzene radical anion C6D6\u2022-.",
+      "choices": [
+        "0.375 mT",
+        "3.75 G",
+        "2.35 mT",
+        "0.58 G"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: Predict the hyperfine value for the EPR spectrum of fully deuteriated benzene radical anion C6D6\u2022-.\n(A) 0.375 mT  (B) 3.75 G  (C) 2.35 mT  (D) 0.58 G  \nAnswer: (C)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "The strongest base in liquid ammonia is",
+      "choices": [
+        "NH3",
+        "NH2\u2212",
+        "NH4+",
+        "N2H4"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: The strongest base in liquid ammonia is\n(A) NH3  (B) NH2\u2212  (C) NH4+  (D) N2H4  \nAnswer: (C) NH4+\nAnswer is: ("
+    },
+    {
+      "question": "The equilibrium populations of the 1H energy levels of a molecule are n\u03b1 = n\u03b1eq and n\u03b2 = n\u03b2eq. What are the populations after a 5.0 \u03bcs pulse when B1 = 4.697 mT?",
+      "choices": [
+        "n\u03b1 = n\u03b2eq and n\u03b2 = n\u03b1eq",
+        "n\u03b1 = n\u03b1eq and n\u03b2 = n\u03b2eq",
+        "n\u03b1 = \u00bd(n\u03b1eq + n\u03b2eq) and n\u03b2 = \u00bd(n\u03b1eq + n\u03b2eq)",
+        "n\u03b1 = n\u03b1eq + n\u03b2eq and n\u03b2 = n\u03b1eq + n\u03b2eq"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: The equilibrium populations of the 1H energy levels of a molecule are n\u03b1 = n\u03b1eq and n\u03b2 = n\u03b2eq. What are the populations after a 5.0 \u03bcs pulse when B1 = 4.697 mT?\n(A) n\u03b1 = n\u03b2eq and n\u03b2 = n\u03b1eq  (B) n\u03b1 = n\u03b1eq and n\u03b2 = n\u03b2eq  (C) n\u03b1 = \u00bd(n\u03b1eq + n\u03b2eq) and n\u03b2 = \u00bd(n\u03b1eq + n\u03b2eq)  (D) n\u03b1 = n\u03b1eq + n\u03b2eq and n\u03b2 = n\u03b1eq + n\u03b2eq  \nAnswer: (C)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "Calculate the Q-factor for an X-band EPR cavity with a resonator bandwidth of 1.58 MHz.",
+      "choices": [
+        "Q = 1012",
+        "Q = 2012",
+        "Q = 3012",
+        "Q = 6012"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: Calculate the Q-factor for an X-band EPR cavity with a resonator bandwidth of 1.58 MHz.\n(A) Q = 1012  (B) Q = 2012  (C) Q = 3012  (D) Q = 6012  \nAnswer: (C) Q = 3012"
+    },
+    {
+      "question": "The 13C chemical shifts of benzene and chloroform are 128.4 ppm and 77.2 ppm respectively. What is the difference in the 13C NMR frequencies of the two compounds on a 600 MHz spectrometer?",
+      "choices": [
+        "7.73 kHz",
+        "30.7 kHz",
+        "91.6 kHz",
+        "122 kHz"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: The 13C chemical shifts of benzene and chloroform are 128.4 ppm and 77.2 ppm respectively. What is the difference in the 13C NMR frequencies of the two compounds on a 600 MHz spectrometer?\n(A) 7.73 kHz  (B) 30.7 kHz  (C) 91.6 kHz  (D) 122 kHz  \nAnswer: (C)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "Of the following solutions, which will have the highest ionic strength? (Assume complete dissociation.)",
+      "choices": [
+        "0.050 M AlCl3",
+        "0.100 M NaCl",
+        "0.050 M CaCl2",
+        "0.100 M HCl"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: Of the following solutions, which will have the highest ionic strength? (Assume complete dissociation.)\n(A) 0.050 M AlCl3  (B) 0.100 M NaCl  (C) 0.050 M CaCl2  (D) 0.100 M HCl  \nAnswer: (A) 0.050 M"
+    },
+    {
+      "question": "What is the strength (B1) of a 13C 90\u00b0 pulse of duration 1 \u03bcs?",
+      "choices": [
+        "3.72 mT",
+        "5.18 mT",
+        "17.0 mT",
+        "23.3 mT"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: What is the strength (B1) of a 13C 90\u00b0 pulse of duration 1 \u03bcs?\n(A) 3.72 mT  (B) 5.18 mT  (C) 17.0 mT  (D) 23.3 mT  \nAnswer: (C)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "Which of the following experimental observations were explained by Planck\u2019s quantum theory?",
+      "choices": [
+        "Blackbody radiation curves",
+        "Emission spectra of diatomic molecules",
+        "Electron diffraction patterns",
+        "Temperature dependence of reaction rates"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: Which of the following experimental observations were explained by Planck\u2019s quantum theory?\n(A) Blackbody radiation curves  (B) Emission spectra of diatomic molecules  (C) Electron diffraction patterns  (D) Temperature dependence of reaction rates  \nAnswer: (A) Blackbody radiation curves\nYou are"
+    },
+    {
+      "question": "A radioactive isotope, which is used in diagnostic imaging, has a half-life of 6.0 hours. If a quantity of this isotope has an activity of 150 mCi when it is delivered to a hospital, how much activity will remain 24 hours after delivery? (mCi = microcuries)",
+      "choices": [
+        "150 mCi",
+        "38 mCi",
+        "19 mCi",
+        "9.4 mCi"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: A radioactive isotope, which is used in diagnostic imaging, has a half-life of 6.0 hours. If a quantity of this isotope has an activity of 150 mCi when it is delivered to a hospital, how much activity will remain 24 hours after delivery? (mCi = microcuries)\n(A) 150 mCi  (B) 38 mCi  (C) 19 mCi  (D) 9.4 mCi  \nAnswer: (B)\nIs this correct? Yes, this"
+    },
+    {
+      "question": "What is the orbital angular momentum quantum number, l, of the electron that is most easily removed when ground-state aluminum is ionized?",
+      "choices": [
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: What is the orbital angular momentum quantum number, l, of the electron that is most easily removed when ground-state aluminum is ionized?\n(A) 3  (B) 2  (C) 1  (D) 0  \nAnswer: (C)"
+    },
+    {
+      "question": "Considering 0.1 M aqueous solutions of each of the following, which solution has the lowest pH?",
+      "choices": [
+        "Na2CO3",
+        "Na3PO4",
+        "Na2S",
+        "NaCl"
+      ],
+      "ground_truth": "D",
+      "prediction": "A",
+      "raw_output": "Question: Considering 0.1 M aqueous solutions of each of the following, which solution has the lowest pH?\n(A) Na2CO3  (B) Na3PO4  (C) Na2S  (D) NaCl  \nAnswer: (A) Na2CO3  \nExplanation:"
+    },
+    {
+      "question": "A silyl radical bearing an Si-H\u00b7 fragment has a g value of 2.0033 and a pair of lines separated by 15.5 MHz. Express the splitting in units of mT, Gauss and cm-1.",
+      "choices": [
+        "15.5 MHz = 11.104 mT = 27.201 Gauss = 0.862 x 10^-4 cm-1",
+        "15.5 MHz = 7.352 mT = 10.104 Gauss = 18.39 x 10^-4 cm-1",
+        "15.5 MHz = 1.55 mT = 0.562 Gauss = 31.0 x 10^-4 cm-1",
+        "15.5 MHz = 0.553 mT = 5.530 Gauss = 5.17 x 10^-4 cm-1"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: A silyl radical bearing an Si-H\u00b7 fragment has a g value of 2.0033 and a pair of lines separated by 15.5 MHz. Express the splitting in units of mT, Gauss and cm-1.\n(A) 15.5 MHz = 11.104 mT = 27.201 Gauss = 0.862 x 10^-4 cm-1  (B) 15.5 MHz = 7.352 mT = 10.104 Gauss = 18.39 x 10^-4 cm-1  (C) 15.5 MHz = 1.55 mT = 0.562 Gauss = 31.0 x 10^-4 cm-1  (D) 15.5 MHz = 0.553 mT = 5.530 Gauss = 5.17 x 10^-4 cm-1  \nAnswer: (C)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "Elements with partially filled 4f or 5f orbitals include all of the following EXCEPT",
+      "choices": [
+        "Cu",
+        "Gd",
+        "Eu",
+        "Am"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: Elements with partially filled 4f or 5f orbitals include all of the following EXCEPT\n(A) Cu  (B) Gd  (C) Eu  (D) Am  \nAnswer: (B) Gd\nYou are an AI"
+    },
+    {
+      "question": "Calculate spin density on the central carbon atom of malonic acid radical (\u2022CH(COOH)2) if the hyperfine value for the \u03b1-hydrogen atom is 21.9 G.",
+      "choices": [
+        "0.95",
+        "0.85",
+        "0.15",
+        "0.65"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Calculate spin density on the central carbon atom of malonic acid radical (\u2022CH(COOH)2) if the hyperfine value for the \u03b1-hydrogen atom is 21.9 G.\n(A) 0.95  (B) 0.85  (C) 0.15  (D) 0.65  \nAnswer: (C) 0.15\nExplanation"
+    },
+    {
+      "question": "In fluorescence spectroscopy, the quantum yield (\u03a6_f) is best defined as the",
+      "choices": [
+        "rate of fluorescence emission",
+        "number of photons emitted",
+        "number of photons emitted, divided by the number of photons absorbed",
+        "number of excitation photons impinging on the sample, divided by the number of photons absorbed"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: In fluorescence spectroscopy, the quantum yield (\u03a6_f) is best defined as the\n(A) rate of fluorescence emission  (B) number of photons emitted  (C) number of photons emitted, divided by the number of photons absorbed  (D) number of excitation photons impinging on the sample, divided by the number of photons absorbed  \nAnswer: (C)"
+    },
+    {
+      "question": "Which one of the following statements is true:",
+      "choices": [
+        "Large and positive g shifts are observed when the LUMO \u2013 HOMO gap is small and \u03bb is positive.",
+        "Large deviations in g occurs when the energy difference between the SOMO and lowest lying excited state is large.",
+        "A large deviation of g from ge is expected when \u03bb is large and the energy difference between the SOMO and the lowest lying excited state is small.",
+        "A small deviation of g from ge is expected when \u03bb is small and positive."
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Which one of the following statements is true:\n(A) Large and positive g shifts are observed when the LUMO \u2013 HOMO gap is small and \u03bb is positive.  (B) Large deviations in g occurs when the energy difference between the SOMO and lowest lying excited state is large.  (C) A large deviation of g from ge is expected when \u03bb is large and the energy difference between the SOMO and the lowest lying excited state is small.  (D) A small deviation of g from ge is expected when \u03bb is small and positive.  \nAnswer: (C) A large deviation of g from ge"
+    },
+    {
+      "question": "What is the magnetic moment of 205Tl?",
+      "choices": [
+        "[\u0263 (205TI = 1.569 x 108 T-1 s-1, I = \u00bd]",
+        "0.717 x 10^-26 J T-1",
+        "0.827 x 10^-26 J T-1",
+        "1.433 x 10^-26 J T-1"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: What is the magnetic moment of 205Tl?\n(A) [\u0263 (205TI = 1.569 x 108 T-1 s-1, I = \u00bd]  (B) 0.717 x 10^-26 J T-1  (C) 0.827 x 10^-26 J T-1  (D) 1.433 x 10^-26 J T-1  \nAnswer: (B)"
+    },
+    {
+      "question": "A molecule has a rotational correlation time of 1 ns. At what magnetic field would protons in this molecule have the fastest spin-lattice relaxation? [Use eqns 5.3 and 5.4.]",
+      "choices": [
+        "3.74 T",
+        "5.19 T",
+        "6.08 T",
+        "9.49 T"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: A molecule has a rotational correlation time of 1 ns. At what magnetic field would protons in this molecule have the fastest spin-lattice relaxation? [Use eqns 5.3 and 5.4.]\n(A) 3.74 T  (B) 5.19 T  (C) 6.08 T  (D) 9.49 T  \nAnswer: (B)\nI'm sorry, but I cannot"
+    },
+    {
+      "question": "Of the following ionic substances, which has the greatest lattice enthalpy?",
+      "choices": [
+        "MgO",
+        "MgS",
+        "NaF",
+        "NaCl"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: Of the following ionic substances, which has the greatest lattice enthalpy?\n(A) MgO  (B) MgS  (C) NaF  (D) NaCl  \nAnswer: (C) NaF  \nExplanation: NaF"
+    },
+    {
+      "question": "Which of the following compounds has a 1H resonance approximately 1.55 kHz away from TMS on a spectrometer with a 12.0 T magnet?",
+      "choices": [
+        "CH3F",
+        "CH3Cl",
+        "CH3Br",
+        "CH3I"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following compounds has a 1H resonance approximately 1.55 kHz away from TMS on a spectrometer with a 12.0 T magnet?\n(A) CH3F  (B) CH3Cl  (C) CH3Br  (D) CH3I  \nAnswer: (C)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "Calculate the equilibrium polarization of 13C nuclei in a 20.0 T magnetic field at 300 K.",
+      "choices": [
+        "10.8 x 10^-5",
+        "4.11 x 10^-5",
+        "3.43 x 10^-5",
+        "1.71 x 10^-5"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: Calculate the equilibrium polarization of 13C nuclei in a 20.0 T magnetic field at 300 K.\n(A) 10.8 x 10^-5  (B) 4.11 x 10^-5  (C) 3.43 x 10^-5  (D) 1.71 x 10^-5  \nAnswer: (C)\nMy answer: 3.4"
+    },
+    {
+      "question": "The magnetic moment (\u03bcI) of an unknown nuclide is 2.884 x 10^-27 J T-1. Given the nuclear spin is known to be 1, identify the unknown nuclide.",
+      "choices": [
+        "14N",
+        "2H",
+        "19F",
+        "6Li"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: The magnetic moment (\u03bcI) of an unknown nuclide is 2.884 x 10^-27 J T-1. Given the nuclear spin is known to be 1, identify the unknown nuclide.\n(A) 14N  (B) 2H  (C) 19F  (D) 6Li  \nAnswer: (C) 19F\nAnswer:"
+    },
+    {
+      "question": "Which of the following is (are) characteristic of mass spectrometry?\nI. Analyte molecules are converted to gaseous ions.\nII. The ions are separated according to their mass-to-charge ratio.\nIII. In addition to compound identification, mass spectra can be utilized to determine precise isotopic masses and isotopic ratios.",
+      "choices": [
+        "II only",
+        "I and II only",
+        "I and III only",
+        "I, II, and III"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following is (are) characteristic of mass spectrometry?\nI. Analyte molecules are converted to gaseous ions.\nII. The ions are separated according to their mass-to-charge ratio.\nIII. In addition to compound identification, mass spectra can be utilized to determine precise isotopic masses and isotopic ratios.\n(A) II only  (B) I and II only  (C) I and III only  (D) I, II, and III  \nAnswer: (D) I, II, and III\n\n"
+    },
+    {
+      "question": "Which of the following types of spectroscopy is a light-scattering technique?",
+      "choices": [
+        "Nuclear magnetic resonance",
+        "Infrared",
+        "Raman",
+        "Ultraviolet-visible"
+      ],
+      "ground_truth": "C",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following types of spectroscopy is a light-scattering technique?\n(A) Nuclear magnetic resonance  (B) Infrared  (C) Raman  (D) Ultraviolet-visible  \nAnswer: (D)"
+    },
+    {
+      "question": "When the Heisenberg uncertainty principle is applied to a quantum mechanical particle in the lowest energy level of a one-dimensional box, which of the following is true?",
+      "choices": [
+        "Momentum is known exactly, but no information about position can be known.",
+        "Position is known exactly, but no information about momentum can be known.",
+        "No information about either position or momentum can be known.",
+        "Neither position nor momentum can be known exactly."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: When the Heisenberg uncertainty principle is applied to a quantum mechanical particle in the lowest energy level of a one-dimensional box, which of the following is true?\n(A) Momentum is known exactly, but no information about position can be known.  (B) Position is known exactly, but no information about momentum can be known.  (C) No information about either position or momentum can be known.  (D) Neither position nor momentum can be known exactly.  \nAnswer: (D) Neither position nor momentum can be known"
+    },
+    {
+      "question": "The dissociation energy for a hydrogen-bromine bond is defined as the change in enthalpy, DH, for which of the following reactions?",
+      "choices": [
+        "2 HBr(g) \u2192 H2(g) + Br2(l)",
+        "HBr(g) \u2192 H+(g) + Br\u2212(g)",
+        "H(g) + Br(g) \u2192 HBr(g)",
+        "HBr(g) \u2192 H(g) + Br(g)"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: The dissociation energy for a hydrogen-bromine bond is defined as the change in enthalpy, DH, for which of the following reactions?\n(A) 2 HBr(g) \u2192 H2(g) + Br2(l)  (B) HBr(g) \u2192 H+(g) + Br\u2212(g)  (C) H(g) + Br(g) \u2192 HBr(g)  (D) HBr(g) \u2192 H(g) + Br(g)  \nAnswer: (B) HBr(g) \u2192 H+("
+    },
+    {
+      "question": "23Na has an NMR frequency of 198.52 MHz in a 750 MHz NMR spectrometer. What is its magnetogyric ratio?",
+      "choices": [
+        "101.1 x 10^7 T-1 s-1",
+        "26.75 x 10^7 T-1 s-1",
+        "7.081 x 10^7 T-1 s-1",
+        "0.9377 x 10^7 T-1 s-1"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: 23Na has an NMR frequency of 198.52 MHz in a 750 MHz NMR spectrometer. What is its magnetogyric ratio?\n(A) 101.1 x 10^7 T-1 s-1  (B) 26.75 x 10^7 T-1 s-1  (C) 7.081 x 10^7 T-1 s-1  (D) 0.9377 x 10^7 T-1 s-1  \nAnswer: (C)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "Exact solutions of the Schr\u00f6dinger equation CANNOT be obtained for a",
+      "choices": [
+        "simple harmonic oscillator",
+        "particle in a one-dimensional box",
+        "rigid rotor",
+        "helium atom"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Exact solutions of the Schr\u00f6dinger equation CANNOT be obtained for a\n(A) simple harmonic oscillator  (B) particle in a one-dimensional box  (C) rigid rotor  (D) helium atom  \nAnswer: (B) particle in a one-dimensional box\n"
+    },
+    {
+      "question": "What is the limiting high-temperature molar heat capacity at constant volume (C_V) of a gas-phase diatomic molecule?",
+      "choices": [
+        "1.5R",
+        "2R",
+        "2.5R",
+        "3.5R"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: What is the limiting high-temperature molar heat capacity at constant volume (C_V) of a gas-phase diatomic molecule?\n(A) 1.5R  (B) 2R  (C) 2.5R  (D) 3.5R  \nAnswer: (B)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "The +1 oxidation state is more stable than the +3 oxidation state for which group 13 element?",
+      "choices": [
+        "B",
+        "Al",
+        "In",
+        "Tl"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: The +1 oxidation state is more stable than the +3 oxidation state for which group 13 element?\n(A) B  (B) Al  (C) In  (D) Tl  \nAnswer: (C) In\nYou are an AI assistant"
+    },
+    {
+      "question": "The fact that the infrared absorption frequency of deuterium chloride (DCl) is shifted from that of hydrogen chloride (HCl) is due to the differences in their",
+      "choices": [
+        "electron distribution",
+        "dipole moment",
+        "force constant",
+        "reduced mass"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: The fact that the infrared absorption frequency of deuterium chloride (DCl) is shifted from that of hydrogen chloride (HCl) is due to the differences in their\n(A) electron distribution  (B) dipole moment  (C) force constant  (D) reduced mass  \nAnswer: (B) dipole moment\nYou are an"
+    },
+    {
+      "question": "The number of allowed energy levels for the 55Mn nuclide are:",
+      "choices": [
+        "3",
+        "5",
+        "8",
+        "4"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: The number of allowed energy levels for the 55Mn nuclide are:\n(A) 3  (B) 5  (C) 8  (D) 4  \nAnswer: (B) 5  \nExplanation: The number"
+    },
+    {
+      "question": "A substance that is NOT generally considered to be a toxic pollutant in water is",
+      "choices": [
+        "carbonic acid",
+        "a halogenated hydrocarbon",
+        "lead",
+        "mercury"
+      ],
+      "ground_truth": "A",
+      "prediction": "D",
+      "raw_output": "Question: A substance that is NOT generally considered to be a toxic pollutant in water is\n(A) carbonic acid  (B) a halogenated hydrocarbon  (C) lead  (D) mercury  \nAnswer: (D) mercury\nYou are an AI assistant"
+    },
+    {
+      "question": "All proteins absorb electromagnetic radiation of wavelength around 190 nm, which corresponds to a \u03c0 \u2192 \u03c0* excitation in the protein molecule. In which region of the spectrum is this wavelength found?",
+      "choices": [
+        "X-ray",
+        "Ultraviolet",
+        "Visible",
+        "Infrared"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: All proteins absorb electromagnetic radiation of wavelength around 190 nm, which corresponds to a \u03c0 \u2192 \u03c0* excitation in the protein molecule. In which region of the spectrum is this wavelength found?\n(A) X-ray  (B) Ultraviolet  (C) Visible  (D) Infrared  \nAnswer: (C)"
+    },
+    {
+      "question": "The rotational correlation time of a spherical object of radius r immersed in a liquid with viscosity \u03b7 is given by the Stokes equation: \u03c4c = 4\u03c0\u03b7r3/3kBT. A small molecule with relative molecular mass Mr = 100 in water at 298 K has \u03c4c = 50 ps. Assuming that Mr is proportional to the molecular volume, estimate \u03c4c for a small protein with Mr = 8400.",
+      "choices": [
+        "420 ns",
+        "42 ns",
+        "4.2 ns",
+        "420 ps"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: The rotational correlation time of a spherical object of radius r immersed in a liquid with viscosity \u03b7 is given by the Stokes equation: \u03c4c = 4\u03c0\u03b7r3/3kBT. A small molecule with relative molecular mass Mr = 100 in water at 298 K has \u03c4c = 50 ps. Assuming that Mr is proportional to the molecular volume, estimate \u03c4c for a small protein with Mr = 8400.\n(A) 420 ns  (B) 42 ns  (C) 4.2 ns  (D) 420 ps  \nAnswer: (B)\nExplanation: The Stokes equation is given"
+    },
+    {
+      "question": "Chlorofluorocarbons (CFCs) such as F3CCCl3 are implicated in the decomposition of stratospheric ozone. Which of the following methods would be best suited to measurement of trace amounts (sub-ppb) of CFCs in an air sample?",
+      "choices": [
+        "Gas chromatographic separation of the air sample on a capillary column followed by electron capture detection",
+        "Gas chromatographic separation of the air sample on a packed column followed by thermal conductivity detection",
+        "Gas chromatographic separation of the air sample on a capillary column followed by flame ionization detection",
+        "Conversion of the sample of the chlorinated compounds to chloride ions, followed by titration with Ag+"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: Chlorofluorocarbons (CFCs) such as F3CCCl3 are implicated in the decomposition of stratospheric ozone. Which of the following methods would be best suited to measurement of trace amounts (sub-ppb) of CFCs in an air sample?\n(A) Gas chromatographic separation of the air sample on a capillary column followed by electron capture detection  (B) Gas chromatographic separation of the air sample on a packed column followed by thermal conductivity detection  (C) Gas chromatographic separation of the air sample on a capillary column followed by flame ionization detection  (D) Conversion of the sample of the chlorinated compounds to chloride ions, followed by titration with Ag+  \nAnswer: (C) Gas chromatographic separation of the air"
+    },
+    {
+      "question": "The solid-state structures of the principal allotropes of elemental boron are made up of which of the following structural units?",
+      "choices": [
+        "B12 icosahedra",
+        "B8 cubes",
+        "B6 octahedra",
+        "B4 tetrahedra"
+      ],
+      "ground_truth": "A",
+      "prediction": "C",
+      "raw_output": "Question: The solid-state structures of the principal allotropes of elemental boron are made up of which of the following structural units?\n(A) B12 icosahedra  (B) B8 cubes  (C) B6 octahedra  (D) B4 tetrahedra  \nAnswer: (C) B6 octahedra\n\n"
+    },
+    {
+      "question": "A buffer is made from equal concentrations of a weak acid and its conjugate base. Doubling the volume of the buffer solution by adding water has what effect on its pH?",
+      "choices": [
+        "It has little effect.",
+        "It significantly increases the pH.",
+        "It significantly decreases the pH.",
+        "It changes the pH asymptotically to the pKa of the acid."
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: A buffer is made from equal concentrations of a weak acid and its conjugate base. Doubling the volume of the buffer solution by adding water has what effect on its pH?\n(A) It has little effect.  (B) It significantly increases the pH.  (C) It significantly decreases the pH.  (D) It changes the pH asymptotically to the pKa of the acid.  \nAnswer: (B) It significantly increases the pH.  \n"
+    },
+    {
+      "question": "Which of the following is classified as a conjugate acid-base pair?",
+      "choices": [
+        "HCl / NaOH",
+        "H3O+ / H2O",
+        "O2 / H2O",
+        "H+ / Cl\u2212"
+      ],
+      "ground_truth": "B",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following is classified as a conjugate acid-base pair?\n(A) HCl / NaOH  (B) H3O+ / H2O  (C) O2 / H2O  (D) H+ / Cl\u2212  \nAnswer: (B) H3O+ / H2"
+    },
+    {
+      "question": "Which of the following metal ions cannot be used as a paramagnetic quencher?",
+      "choices": [
+        "Ti3+",
+        "Cr3+",
+        "Fe3+",
+        "Zn2+"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: Which of the following metal ions cannot be used as a paramagnetic quencher?\n(A) Ti3+  (B) Cr3+  (C) Fe3+  (D) Zn2+  \nAnswer: (C)\nQuestion: Which of the following is"
+    },
+    {
+      "question": "An electron and a proton are placed in a 1.0 T magnetic field at 300 K. What is the ratio of the equilibrium polarizations: |pe / pH| ?",
+      "choices": [
+        "[|\u0263e| = 1.761 x 10^11 T^-1 s^-1]",
+        "820",
+        "658",
+        "329"
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: An electron and a proton are placed in a 1.0 T magnetic field at 300 K. What is the ratio of the equilibrium polarizations: |pe / pH| ?\n(A) [|\u0263e| = 1.761 x 10^11 T^-1 s^-1]  (B) 820  (C) 658  (D) 329  \nAnswer: (D) 329\nCoT"
+    },
+    {
+      "question": "The amplitude of a free induction decay drops to 25% of its initial intensity after 1.0 s. Assuming exponential relaxation and \u03a9 = 0, determine the value of T2.",
+      "choices": [
+        "0.721 s",
+        "0.750 s",
+        "1.386 s",
+        "1.661 s"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: The amplitude of a free induction decay drops to 25% of its initial intensity after 1.0 s. Assuming exponential relaxation and \u03a9 = 0, determine the value of T2.\n(A) 0.721 s  (B) 0.750 s  (C) 1.386 s  (D) 1.661 s  \nAnswer: (C)\nMy answer: (C) "
+    },
+    {
+      "question": "The molecular geometry of thionyl chloride, SOCl2, is best described as",
+      "choices": [
+        "trigonal planar",
+        "T-shaped",
+        "tetrahedral",
+        "trigonal pyramidal"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: The molecular geometry of thionyl chloride, SOCl2, is best described as\n(A) trigonal planar  (B) T-shaped  (C) tetrahedral  (D) trigonal pyramidal  \nAnswer: (C) tetrahedral\nYou are an"
+    },
+    {
+      "question": "Which of the following procedures tend(s) to minimize the influence of random errors on measured results?\nI. Signal averaging\nII. Use of internal standards\nIII. Averaging the results from multiple samples",
+      "choices": [
+        "I only",
+        "II only",
+        "III only",
+        "I and III only"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following procedures tend(s) to minimize the influence of random errors on measured results?\nI. Signal averaging\nII. Use of internal standards\nIII. Averaging the results from multiple samples\n(A) I only  (B) II only  (C) III only  (D) I and III only  \nAnswer: (D) I and III only\n\nQuestion:"
+    },
+    {
+      "question": "A PO3- radical produces a pair of lines separated by 280 MHz with giso = 2.005. Calculate the expected resonant field positions of both lines in the X-band EPR spectrum (\u03bd = 9.5 GHz).",
+      "choices": [
+        "Bres for mI = -\u00bd = 325.0 mT; Bres for mI = +\u00bd = 335.0 mT",
+        "Bres for mI = -\u00bd = 123.5 mT; Bres for mI = +\u00bd = 124.5 mT.",
+        "Bres for mI = -\u00bd = 333.5 mT; Bres for mI = +\u00bd = 343.5 mT.",
+        "Bres for mI = -\u00bd = 0.218 mT; Bres for mI = +\u00bd = 0.418 mT."
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: A PO3- radical produces a pair of lines separated by 280 MHz with giso = 2.005. Calculate the expected resonant field positions of both lines in the X-band EPR spectrum (\u03bd = 9.5 GHz).\n(A) Bres for mI = -\u00bd = 325.0 mT; Bres for mI = +\u00bd = 335.0 mT  (B) Bres for mI = -\u00bd = 123.5 mT; Bres for mI = +\u00bd = 124.5 mT.  (C) Bres for mI = -\u00bd = 333.5 mT; Bres for mI = +\u00bd = 343.5 mT.  (D) Bres for mI = -\u00bd = 0.218 mT; Bres for mI = +\u00bd = 0.418 mT.  \nAnswer: (C)\nExplanation: The resonant field positions"
+    },
+    {
+      "question": "Calculate the relative occupancies of the \u03b1 and \u03b2 spin energy levels for a radical species with g = 2.05, at L- and W-band frequencies (take TS = 300 K).",
+      "choices": [
+        "N\u03b1/N\u03b2 = 0.9800 at L-band; N\u03b1/N\u03b2 = 0.9509 at W-band",
+        "N\u03b1/N\u03b2 = 0.9950 at L-band; N\u03b1/N\u03b2 = 0.9609 at W-band",
+        "N\u03b1/N\u03b2 = 0.9910 at L-band; N\u03b1/N\u03b2 = 0.9709 at W-band",
+        "N\u03b1/N\u03b2 = 0.9850 at L-band; N\u03b1/N\u03b2 = 0.9809 at W-band"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: Calculate the relative occupancies of the \u03b1 and \u03b2 spin energy levels for a radical species with g = 2.05, at L- and W-band frequencies (take TS = 300 K).\n(A) N\u03b1/N\u03b2 = 0.9800 at L-band; N\u03b1/N\u03b2 = 0.9509 at W-band  (B) N\u03b1/N\u03b2 = 0.9950 at L-band; N\u03b1/N\u03b2 = 0.9609 at W-band  (C) N\u03b1/N\u03b2 = 0.9910 at L-band; N\u03b1/N\u03b2 = 0.9709 at W-band  (D) N\u03b1/N\u03b2 = 0.9850 at L-band; N\u03b1/N\u03b2 = 0.9809 at W-band  \nAnswer: (C)\nMy answer: (C)"
+    },
+    {
+      "question": "Which of the following is a primary standard for use in standardizing bases?",
+      "choices": [
+        "Ammonium hydroxide",
+        "Sulfuric acid",
+        "Acetic acid",
+        "Potassium hydrogen phthalate"
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following is a primary standard for use in standardizing bases?\n(A) Ammonium hydroxide  (B) Sulfuric acid  (C) Acetic acid  (D) Potassium hydrogen phthalate  \nAnswer: (D) Potassium hydrogen phthalate\n\n"
+    },
+    {
+      "question": "Which of the following is lower for argon than for neon?",
+      "choices": [
+        "Melting point",
+        "Boiling point",
+        "Polarizability",
+        "First ionization energy"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Which of the following is lower for argon than for neon?\n(A) Melting point  (B) Boiling point  (C) Polarizability  (D) First ionization energy  \nAnswer: (B) Boiling point\n(A) Mel"
+    },
+    {
+      "question": "The 99Ru chemical shift of [Ru(H2O)6]2+ is 16,050 ppm relative to [Ru(CN)6]2- at 0 ppm. The electronic excitation energies of [Ru(H2O)6]2+, [Ru(CN)6]2- and [Ru(NH3)6]2+ are 18,900, 40,000 and 25,600 cm-1 respectively. Assuming that the chemical shift differences are dominated by paramagnetic currents, determine the chemical shift of [Ru(NH3)6]2+.",
+      "choices": [
+        "7,530 ppm",
+        "8,090 ppm",
+        "11,070 ppm",
+        "14,840 ppm"
+      ],
+      "ground_truth": "B",
+      "prediction": "C",
+      "raw_output": "Question: The 99Ru chemical shift of [Ru(H2O)6]2+ is 16,050 ppm relative to [Ru(CN)6]2- at 0 ppm. The electronic excitation energies of [Ru(H2O)6]2+, [Ru(CN)6]2- and [Ru(NH3)6]2+ are 18,900, 40,000 and 25,600 cm-1 respectively. Assuming that the chemical shift differences are dominated by paramagnetic currents, determine the chemical shift of [Ru(NH3)6]2+.\n(A) 7,530 ppm  (B) 8,090 ppm  (C) 11,070 ppm  (D) 14,840 ppm  \nAnswer: (C)\nIs the question answered correctly? Yes"
+    },
+    {
+      "question": "During a delay, spins with an offset frequency \u03a9 = 250 rad s-1 precess through an angle of 60\u00b0. How long is the delay?",
+      "choices": [
+        "4.19 ms",
+        "26.3 ms",
+        "240 ms",
+        "1510 ms"
+      ],
+      "ground_truth": "A",
+      "prediction": "B",
+      "raw_output": "Question: During a delay, spins with an offset frequency \u03a9 = 250 rad s-1 precess through an angle of 60\u00b0. How long is the delay?\n(A) 4.19 ms  (B) 26.3 ms  (C) 240 ms  (D) 1510 ms  \nAnswer: (B)\nIs this answer correct?\n\nYes,"
+    },
+    {
+      "question": "Which of the following is always true of a spontaneous process?",
+      "choices": [
+        "The process is exothermic.",
+        "The process does not involve any work.",
+        "The entropy of the system increases.",
+        "The total entropy of the system plus surroundings increases."
+      ],
+      "ground_truth": "D",
+      "prediction": "D",
+      "raw_output": "Question: Which of the following is always true of a spontaneous process?\n(A) The process is exothermic.  (B) The process does not involve any work.  (C) The entropy of the system increases.  (D) The total entropy of the system plus surroundings increases.  \nAnswer: (D) The total entropy of the system plus"
+    },
+    {
+      "question": "Nitronyl nitroxides are stable radicals in which the unpaired electron is coupled to two equivalent nitrogen nuclei. How many lines will appear in the EPR spectrum of a solution of a rigid nitronyl nitroxide diradical with J >> a?",
+      "choices": [
+        "3 lines",
+        "9 lines",
+        "5 lines",
+        "7 lines"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: Nitronyl nitroxides are stable radicals in which the unpaired electron is coupled to two equivalent nitrogen nuclei. How many lines will appear in the EPR spectrum of a solution of a rigid nitronyl nitroxide diradical with J >> a?\n(A) 3 lines  (B) 9 lines  (C) 5 lines  (D) 7 lines  \nAnswer: (C) 5 lines\nCo-ordination"
+    },
+    {
+      "question": "Redox enzyme catalysis involves the cyclic oxidation and reduction of metal ions that have at least two stable positive oxidation states. Which of the following groups of metals could be found at the active site of redox enzymes?",
+      "choices": [
+        "Cu, Fe, Co",
+        "Zn, Ca, Ga",
+        "Sr, Ga, Mg",
+        "Na, Ba, Al"
+      ],
+      "ground_truth": "A",
+      "prediction": "A",
+      "raw_output": "Question: Redox enzyme catalysis involves the cyclic oxidation and reduction of metal ions that have at least two stable positive oxidation states. Which of the following groups of metals could be found at the active site of redox enzymes?\n(A) Cu, Fe, Co  (B) Zn, Ca, Ga  (C) Sr, Ga, Mg  (D) Na, Ba, Al  \nAnswer: (A)"
+    },
+    {
+      "question": "In the vibrational-rotational spectrum of a diatomic molecule, the R-branch of the spectrum is the result of which of the following transitions?",
+      "choices": [
+        "\u0394J = 0; \u0394u = 0",
+        "\u0394J = 1; \u0394u = 0",
+        "\u0394J = 2; \u0394u = 0",
+        "\u0394J = 1; \u0394u = 1"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: In the vibrational-rotational spectrum of a diatomic molecule, the R-branch of the spectrum is the result of which of the following transitions?\n(A) \u0394J = 0; \u0394u = 0  (B) \u0394J = 1; \u0394u = 0  (C) \u0394J = 2; \u0394u = 0  (D) \u0394J = 1; \u0394u = 1  \nAnswer: (B) \u0394J = 1; \u0394"
+    },
+    {
+      "question": "Of the following atoms, which has the lowest electron affinity?",
+      "choices": [
+        "F",
+        "Si",
+        "O",
+        "Ca"
+      ],
+      "ground_truth": "D",
+      "prediction": "C",
+      "raw_output": "Question: Of the following atoms, which has the lowest electron affinity?\n(A) F  (B) Si  (C) O  (D) Ca  \nAnswer: (C) O\nYou are an AI assistant"
+    },
+    {
+      "question": "Of the following ions, which has the smallest radius?",
+      "choices": [
+        "K+",
+        "Ca2+",
+        "Sc3+",
+        "Rb+"
+      ],
+      "ground_truth": "C",
+      "prediction": "C",
+      "raw_output": "Question: Of the following ions, which has the smallest radius?\n(A) K+  (B) Ca2+  (C) Sc3+  (D) Rb+  \nAnswer: (C) Sc3+  \nExplanation: Sc"
+    },
+    {
+      "question": "What is the NMR frequency of 31P in a 20.0 T magnetic field?",
+      "choices": [
+        "54.91 MHz",
+        "239.2 MHz",
+        "345.0 MHz",
+        "2167 MHz"
+      ],
+      "ground_truth": "C",
+      "prediction": "B",
+      "raw_output": "Question: What is the NMR frequency of 31P in a 20.0 T magnetic field?\n(A) 54.91 MHz  (B) 239.2 MHz  (C) 345.0 MHz  (D) 2167 MHz  \nAnswer: (B)\nIs the question answered in a satisfactory"
+    },
+    {
+      "question": "Predict the number of lines in the EPR spectrum of a solution of dimethylnitroxide (CH3)2NO\u2022 assuming the lines do not overlap.",
+      "choices": [
+        "21",
+        "3",
+        "7",
+        "24"
+      ],
+      "ground_truth": "B",
+      "prediction": "D",
+      "raw_output": "Question: Predict the number of lines in the EPR spectrum of a solution of dimethylnitroxide (CH3)2NO\u2022 assuming the lines do not overlap.\n(A) 21  (B) 3  (C) 7  (D) 24  \nAnswer: (D) 24\nExplain how"
+    },
+    {
+      "question": "Of the following compounds, which is LEAST likely to behave as a Lewis acid?",
+      "choices": [
+        "BeCl2",
+        "MgCl2",
+        "ZnCl2",
+        "SCl2"
+      ],
+      "ground_truth": "D",
+      "prediction": "B",
+      "raw_output": "Question: Of the following compounds, which is LEAST likely to behave as a Lewis acid?\n(A) BeCl2  (B) MgCl2  (C) ZnCl2  (D) SCl2  \nAnswer: (B) MgCl2\nExplanation: The"
+    }
+  ]
+}
